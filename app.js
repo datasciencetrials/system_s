@@ -1,6 +1,27 @@
 // ===========================================
 //  EMBEDDED DATASETS
 // ===========================================
+const AUTHORITATIVE_BRIDGE_COUNT = 552;
+
+function canonicalSurfaceType(value) {
+  const surface = String(value ?? '').trim().toLowerCase();
+  if (/unpaved|unsealed|gravel|earth|murram|dirt/.test(surface)) return 'Unpaved';
+  if (/paved|bituminous|asphalt|concrete/.test(surface)) return 'Paved';
+  return 'Not supplied';
+}
+
+// The governed public baseline contains 552 authoritative bridges from the 1 Oct 2026 register.
+if (Array.isArray(BRIDGES) && BRIDGES.length > AUTHORITATIVE_BRIDGE_COUNT) {
+  window.BRIDGE_RECONCILIATION_CANDIDATES = BRIDGES.slice(AUTHORITATIVE_BRIDGE_COUNT);
+  BRIDGES.length = AUTHORITATIVE_BRIDGE_COUNT;
+}
+
+// Link-level traffic evidence is loaded asynchronously from the governed
+// payload. Keep synchronous startup on the bridge-level evidence path until the
+// payload is ready instead of failing the whole dashboard on an undefined map.
+const ROAD_LINK_AADT_DATA = Object.create(null);
+const MANUAL_COUNT_STATIONS = [];
+
 const ATC_SITES = {"value":[{"id":"U0001","road":"Luwero - Nakasongola","lat":0.818018,"lng":32.503798},{"id":"U0002","road":"Kampala - Mukono","lat":0.3687,"lng":32.73805},{"id":"U0003","road":"Iganga - Nakalama","lat":0.62756,"lng":33.5143},{"id":"U0004","road":"Buwama - Lukaya","lat":0.01665,"lng":32.05515},{"id":"U0005","road":"Ishaka - Kizinda - Rugazi","lat":-0.52679,"lng":30.1236},{"id":"U0006","road":"Kayunga - Kangulumira","lat":0.68051,"lng":32.92356},{"id":"U0007","road":"Kamdini - Minakulu","lat":2.25441,"lng":32.34248},{"id":"U0008","road":"Pakwachi - Nebbi","lat":2.42511,"lng":31.24403},{"id":"U0009","road":"Kampala - Mityana","lat":0.38527,"lng":32.10109},{"id":"U00010","road":"Zana - Kisubi (Entebbe Road)","lat":0.1189,"lng":32.52938}],"Count":10};
 const ATC_FLOW = {"aadt":[{"id":"U0001","aadt":16281,"light_pct":88.5,"heavy_pct":11.5,"days":227},{"id":"U0002","aadt":30401,"light_pct":80.8,"heavy_pct":19.2,"days":185},{"id":"U0003","aadt":15962,"light_pct":73.1,"heavy_pct":26.9,"days":169},{"id":"U0004","aadt":12749,"light_pct":76.8,"heavy_pct":23.2,"days":149},{"id":"U0005","aadt":8471,"light_pct":95.1,"heavy_pct":4.9,"days":131},{"id":"U0006","aadt":10403,"light_pct":95.1,"heavy_pct":4.9,"days":109},{"id":"U0007","aadt":4760,"light_pct":81.7,"heavy_pct":18.3,"days":91},{"id":"U0008","aadt":2049,"light_pct":67.3,"heavy_pct":32.7,"days":92},{"id":"U0009","aadt":9473,"light_pct":87.9,"heavy_pct":12.1,"days":124},{"id":"U0010","aadt":23174,"light_pct":96.6,"heavy_pct":3.4,"days":89}],"hourly":[{"id":"U0001","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0002","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0003","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0004","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0005","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0006","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0007","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0008","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0009","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"id":"U0010","profile":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}],"monthly":[{"id":"U0001","month":"2025-07","total":299317,"light":264956,"heavy":34361},{"id":"U0001","month":"2025-08","total":499150,"light":441209,"heavy":57941},{"id":"U0001","month":"2025-09","total":457163,"light":403609,"heavy":53554},{"id":"U0001","month":"2025-10","total":497828,"light":440550,"heavy":57278},{"id":"U0001","month":"2025-11","total":501181,"light":446340,"heavy":54841},{"id":"U0001","month":"2025-12","total":556926,"light":492668,"heavy":64258},{"id":"U0001","month":"2026-01","total":479376,"light":423592,"heavy":55784},{"id":"U0001","month":"2026-02","total":404740,"light":356325,"heavy":48415},{"id":"U0002","month":"2025-08","total":225024,"light":179468,"heavy":45556},{"id":"U0002","month":"2025-09","total":938232,"light":756798,"heavy":181434},{"id":"U0002","month":"2025-10","total":928135,"light":754659,"heavy":173476},{"id":"U0002","month":"2025-11","total":871637,"light":700633,"heavy":171004},{"id":"U0002","month":"2025-12","total":943212,"light":756992,"heavy":186220},{"id":"U0002","month":"2026-01","total":1002293,"light":822983,"heavy":179310},{"id":"U0002","month":"2026-02","total":715738,"light":571752,"heavy":143986},{"id":"U0003","month":"2025-08","total":217141,"light":158521,"heavy":58620},{"id":"U0003","month":"2025-09","total":472670,"light":342886,"heavy":129784},{"id":"U0003","month":"2025-10","total":477484,"light":344875,"heavy":132609},{"id":"U0003","month":"2025-11","total":121105,"light":90464,"heavy":30641},{"id":"U0003","month":"2025-12","total":543308,"light":403022,"heavy":140286},{"id":"U0003","month":"2026-01","total":478827,"light":351759,"heavy":127068},{"id":"U0003","month":"2026-02","total":387099,"light":281164,"heavy":105935},{"id":"U0004","month":"2025-08","total":154521,"light":118933,"heavy":35588},{"id":"U0004","month":"2025-09","total":262735,"light":197669,"heavy":65066},{"id":"U0004","month":"2025-10","total":17455,"light":13363,"heavy":4092},{"id":"U0004","month":"2025-11","total":329650,"light":250172,"heavy":79478},{"id":"U0004","month":"2025-12","total":459370,"light":364485,"heavy":94885},{"id":"U0004","month":"2026-01","total":382212,"light":293209,"heavy":89003},{"id":"U0004","month":"2026-02","total":293676,"light":220379,"heavy":73297},{"id":"U0005","month":"2025-08","total":84417,"light":79948,"heavy":4469},{"id":"U0005","month":"2025-09","total":71632,"light":67858,"heavy":3774},{"id":"U0005","month":"2025-10","total":9374,"light":8899,"heavy":475},{"id":"U0005","month":"2025-11","total":234536,"light":222649,"heavy":11887},{"id":"U0005","month":"2025-12","total":281669,"light":268607,"heavy":13062},{"id":"U0005","month":"2026-01","total":262783,"light":250525,"heavy":12258},{"id":"U0005","month":"2026-02","total":165331,"light":157231,"heavy":8100},{"id":"U0006","month":"2025-09","total":104902,"light":100468,"heavy":4434},{"id":"U0006","month":"2025-10","total":147219,"light":140412,"heavy":6807},{"id":"U0006","month":"2025-12","total":317399,"light":302922,"heavy":14477},{"id":"U0006","month":"2026-01","total":306568,"light":290421,"heavy":16147},{"id":"U0006","month":"2026-02","total":257820,"light":243570,"heavy":14250},{"id":"U0007","month":"2025-11","total":18805,"light":14841,"heavy":3964},{"id":"U0007","month":"2025-12","total":152064,"light":123573,"heavy":28491},{"id":"U0007","month":"2026-01","total":147290,"light":120872,"heavy":26418},{"id":"U0007","month":"2026-02","total":115008,"light":94683,"heavy":20325},{"id":"U0008","month":"2025-10","total":16633,"light":10826,"heavy":5807},{"id":"U0008","month":"2025-12","total":58801,"light":40251,"heavy":18550},{"id":"U0008","month":"2026-01","total":61071,"light":41116,"heavy":19955},{"id":"U0008","month":"2026-02","total":51994,"light":34744,"heavy":17250},{"id":"U0009","month":"2025-10","total":63126,"light":55956,"heavy":7170},{"id":"U0009","month":"2025-11","total":277765,"light":244434,"heavy":33331},{"id":"U0009","month":"2025-12","total":316752,"light":281940,"heavy":34812},{"id":"U0009","month":"2026-01","total":284062,"light":248111,"heavy":35951},{"id":"U0009","month":"2026-02","total":232973,"light":202491,"heavy":30482},{"id":"U0010","month":"2025-11","total":71479,"light":69194,"heavy":2285},{"id":"U0010","month":"2025-12","total":718508,"light":694497,"heavy":24011},{"id":"U0010","month":"2026-01","total":697432,"light":673498,"heavy":23934},{"id":"U0010","month":"2026-02","total":575054,"light":555094,"heavy":19960}]};
 const ATC_CLASS = {"value":[{"id":"U0001","classes":[{"cls":0,"label":"Unknown","count":2392},{"cls":1,"label":"Motorcycle","count":1667707},{"cls":2,"label":"Light Motor","count":1571004},{"cls":3,"label":"LMV Towing","count":30538},{"cls":4,"label":"2-Axle Bus","count":18486},{"cls":5,"label":"3-Axle Bus","count":214829},{"cls":6,"label":"2-Axle Rigid","count":5634},{"cls":7,"label":"3-Axle Rigid","count":2134},{"cls":8,"label":"4-Axle Rigid","count":50210},{"cls":9,"label":"2-Axle Semi","count":46465},{"cls":10,"label":"3-Axle Semi","count":9},{"cls":11,"label":"4-Axle Semi","count":7},{"cls":12,"label":"5-Axle Semi","count":20043},{"cls":13,"label":"6-Axle Semi","count":56538},{"cls":14,"label":"7-Axle Semi","count":114},{"cls":15,"label":"2+2 Double","count":433},{"cls":16,"label":"3+2 Double","count":8679},{"cls":17,"label":"3+3 Double","count":459}]},{"id":"U0002","classes":[{"cls":0,"label":"Unknown","count":41458},{"cls":1,"label":"Motorcycle","count":2092733},{"cls":2,"label":"Light Motor","count":2271798},{"cls":3,"label":"LMV Towing","count":178754},{"cls":4,"label":"2-Axle Bus","count":21481},{"cls":5,"label":"3-Axle Bus","count":359227},{"cls":6,"label":"2-Axle Rigid","count":5769},{"cls":7,"label":"3-Axle Rigid","count":16170},{"cls":8,"label":"4-Axle Rigid","count":86078},{"cls":9,"label":"2-Axle Semi","count":107975},{"cls":10,"label":"3-Axle Semi","count":159},{"cls":11,"label":"4-Axle Semi","count":352},{"cls":12,"label":"5-Axle Semi","count":81743},{"cls":13,"label":"6-Axle Semi","count":321899},{"cls":14,"label":"7-Axle Semi","count":3088},{"cls":15,"label":"2+2 Double","count":5635},{"cls":16,"label":"3+2 Double","count":19131},{"cls":17,"label":"3+3 Double","count":10821}]},{"id":"U0003","classes":[{"cls":0,"label":"Unknown","count":1027},{"cls":1,"label":"Motorcycle","count":764845},{"cls":2,"label":"Light Motor","count":1199558},{"cls":3,"label":"LMV Towing","count":8288},{"cls":4,"label":"2-Axle Bus","count":14038},{"cls":5,"label":"3-Axle Bus","count":170757},{"cls":6,"label":"2-Axle Rigid","count":4371},{"cls":7,"label":"3-Axle Rigid","count":1088},{"cls":8,"label":"4-Axle Rigid","count":43406},{"cls":9,"label":"2-Axle Semi","count":51162},{"cls":10,"label":"3-Axle Semi","count":21},{"cls":11,"label":"4-Axle Semi","count":8},{"cls":12,"label":"5-Axle Semi","count":75582},{"cls":13,"label":"6-Axle Semi","count":355671},{"cls":14,"label":"7-Axle Semi","count":146},{"cls":15,"label":"2+2 Double","count":936},{"cls":16,"label":"3+2 Double","count":4945},{"cls":17,"label":"3+3 Double","count":1785}]},{"id":"U0004","classes":[{"cls":0,"label":"Unknown","count":412},{"cls":1,"label":"Motorcycle","count":328464},{"cls":2,"label":"Light Motor","count":1126475},{"cls":3,"label":"LMV Towing","count":3271},{"cls":4,"label":"2-Axle Bus","count":26140},{"cls":5,"label":"3-Axle Bus","count":154926},{"cls":6,"label":"2-Axle Rigid","count":7107},{"cls":7,"label":"3-Axle Rigid","count":729},{"cls":8,"label":"4-Axle Rigid","count":37803},{"cls":9,"label":"2-Axle Semi","count":86603},{"cls":10,"label":"3-Axle Semi","count":12},{"cls":11,"label":"4-Axle Semi","count":3},{"cls":12,"label":"5-Axle Semi","count":22584},{"cls":13,"label":"6-Axle Semi","count":99792},{"cls":14,"label":"7-Axle Semi","count":64},{"cls":15,"label":"2+2 Double","count":315},{"cls":16,"label":"3+2 Double","count":4673},{"cls":17,"label":"3+3 Double","count":246}]},{"id":"U0005","classes":[{"cls":0,"label":"Unknown","count":268},{"cls":1,"label":"Motorcycle","count":791513},{"cls":2,"label":"Light Motor","count":262390},{"cls":3,"label":"LMV Towing","count":1814},{"cls":4,"label":"2-Axle Bus","count":1696},{"cls":5,"label":"3-Axle Bus","count":24219},{"cls":6,"label":"2-Axle Rigid","count":234},{"cls":7,"label":"3-Axle Rigid","count":241},{"cls":8,"label":"4-Axle Rigid","count":4455},{"cls":9,"label":"2-Axle Semi","count":3425},{"cls":11,"label":"4-Axle Semi","count":4},{"cls":12,"label":"5-Axle Semi","count":3541},{"cls":13,"label":"6-Axle Semi","count":14573},{"cls":14,"label":"7-Axle Semi","count":13},{"cls":15,"label":"2+2 Double","count":30},{"cls":16,"label":"3+2 Double","count":1276},{"cls":17,"label":"3+3 Double","count":50}]},{"id":"U0006","classes":[{"cls":0,"label":"Unknown","count":288},{"cls":1,"label":"Motorcycle","count":731061},{"cls":2,"label":"Light Motor","count":340729},{"cls":3,"label":"LMV Towing","count":6003},{"cls":4,"label":"2-Axle Bus","count":659},{"cls":5,"label":"3-Axle Bus","count":26365},{"cls":6,"label":"2-Axle Rigid","count":462},{"cls":7,"label":"3-Axle Rigid","count":840},{"cls":8,"label":"4-Axle Rigid","count":20069},{"cls":9,"label":"2-Axle Semi","count":2275},{"cls":10,"label":"3-Axle Semi","count":2},{"cls":11,"label":"4-Axle Semi","count":1},{"cls":12,"label":"5-Axle Semi","count":2050},{"cls":13,"label":"6-Axle Semi","count":2631},{"cls":14,"label":"7-Axle Semi","count":41},{"cls":15,"label":"2+2 Double","count":75},{"cls":16,"label":"3+2 Double","count":243},{"cls":17,"label":"3+3 Double","count":114}]},{"id":"U0007","classes":[{"cls":0,"label":"Unknown","count":76},{"cls":1,"label":"Motorcycle","count":237477},{"cls":2,"label":"Light Motor","count":115948},{"cls":3,"label":"LMV Towing","count":544},{"cls":4,"label":"2-Axle Bus","count":3885},{"cls":5,"label":"3-Axle Bus","count":21157},{"cls":6,"label":"2-Axle Rigid","count":1114},{"cls":7,"label":"3-Axle Rigid","count":111},{"cls":8,"label":"4-Axle Rigid","count":3775},{"cls":9,"label":"2-Axle Semi","count":3077},{"cls":10,"label":"3-Axle Semi","count":8},{"cls":12,"label":"5-Axle Semi","count":12136},{"cls":13,"label":"6-Axle Semi","count":31188},{"cls":14,"label":"7-Axle Semi","count":2},{"cls":15,"label":"2+2 Double","count":300},{"cls":16,"label":"3+2 Double","count":2190},{"cls":17,"label":"3+3 Double","count":179}]},{"id":"U0008","classes":[{"cls":0,"label":"Unknown","count":16},{"cls":1,"label":"Motorcycle","count":72958},{"cls":2,"label":"Light Motor","count":53801},{"cls":3,"label":"LMV Towing","count":178},{"cls":4,"label":"2-Axle Bus","count":4047},{"cls":5,"label":"3-Axle Bus","count":15955},{"cls":6,"label":"2-Axle Rigid","count":1047},{"cls":7,"label":"3-Axle Rigid","count":32},{"cls":8,"label":"4-Axle Rigid","count":4133},{"cls":9,"label":"2-Axle Semi","count":4958},{"cls":10,"label":"3-Axle Semi","count":2},{"cls":11,"label":"4-Axle Semi","count":2},{"cls":12,"label":"5-Axle Semi","count":4374},{"cls":13,"label":"6-Axle Semi","count":23451},{"cls":14,"label":"7-Axle Semi","count":21},{"cls":15,"label":"2+2 Double","count":57},{"cls":16,"label":"3+2 Double","count":3005},{"cls":17,"label":"3+3 Double","count":462}]},{"id":"U0009","classes":[{"cls":0,"label":"Unknown","count":328},{"cls":1,"label":"Motorcycle","count":444799},{"cls":2,"label":"Light Motor","count":584576},{"cls":3,"label":"LMV Towing","count":3557},{"cls":4,"label":"2-Axle Bus","count":4377},{"cls":5,"label":"3-Axle Bus","count":81577},{"cls":6,"label":"2-Axle Rigid","count":630},{"cls":7,"label":"3-Axle Rigid","count":469},{"cls":8,"label":"4-Axle Rigid","count":12468},{"cls":9,"label":"2-Axle Semi","count":10366},{"cls":10,"label":"3-Axle Semi","count":1},{"cls":12,"label":"5-Axle Semi","count":6614},{"cls":13,"label":"6-Axle Semi","count":23329},{"cls":14,"label":"7-Axle Semi","count":16},{"cls":15,"label":"2+2 Double","count":42},{"cls":16,"label":"3+2 Double","count":1420},{"cls":17,"label":"3+3 Double","count":109}]},{"id":"U0010","classes":[{"cls":0,"label":"Unknown","count":1906},{"cls":1,"label":"Motorcycle","count":675100},{"cls":2,"label":"Light Motor","count":1299803},{"cls":3,"label":"LMV Towing","count":17380},{"cls":4,"label":"2-Axle Bus","count":4452},{"cls":5,"label":"3-Axle Bus","count":44626},{"cls":6,"label":"2-Axle Rigid","count":295},{"cls":7,"label":"3-Axle Rigid","count":1177},{"cls":8,"label":"4-Axle Rigid","count":5235},{"cls":9,"label":"2-Axle Semi","count":7763},{"cls":10,"label":"3-Axle Semi","count":3},{"cls":11,"label":"4-Axle Semi","count":3},{"cls":12,"label":"5-Axle Semi","count":1046},{"cls":13,"label":"6-Axle Semi","count":3446},{"cls":14,"label":"7-Axle Semi","count":50},{"cls":15,"label":"2+2 Double","count":49},{"cls":16,"label":"3+2 Double","count":92},{"cls":17,"label":"3+3 Double","count":47}]}],"Count":10};
@@ -17,7 +38,7 @@ const LEGACY_ATC_STATIONS = [{"id":"L01","name":"Kasangati - Kyaliwajala","sheet
 const fmt = (n, d=0) => n != null && n !== '' ? Number(n).toLocaleString(undefined, {maximumFractionDigits: d}) : 'N/A';
 const fmtB = n => n != null ? (n / 1e9).toFixed(2) : 'N/A';
 
-const LEGACY_ATC_ACCURACY_DATA = {"Kasangati - Kyaliwajala":{"name":"Kasangati - Kyaliwajala","link_id":"C194_Link02","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":37,"avg_adt_2016_2022":4825.0,"median_adt_2016_2022":4866.0,"max_adt_2016_2022":6786.0,"latest_year":2020,"latest_year_avg_adt":5898.67,"monthly_avg_adt":{"1":4081.0,"2":5238.33,"3":3952.33,"4":1989.0,"5":4337.0,"6":5294.5,"7":4827.0,"8":5081.25,"9":5210.0,"10":5326.0,"11":5572.2,"12":4658.0},"seasonal_factors":[0.8458,1.0857,0.8191,0.4122,0.8989,1.0973,1.0004,1.0531,1.0798,1.1038,1.1549,0.9654],"class_totals":{"Buses / medium - large unit Trucks":3045.0,"Medium buses / Light single unit truck":12001.0,"Minibuses/matatus / Pickups / Vans / 4WD":53215.0,"Mortocycles / bicycles":47955.0,"Saloon cars":62004.0,"Trailers":305.0},"class_shares":{"Buses / medium - large unit Trucks":0.017056,"Medium buses / Light single unit truck":0.067223,"Minibuses/matatus / Pickups / Vans / 4WD":0.298082,"Mortocycles / bicycles":0.268618,"Saloon cars":0.347313,"Trailers":0.001708}},"Kalagi - Bukoloto-Kayunga":{"name":"Kalagi - Bukoloto-Kayunga","link_id":"B101_Link02","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":46,"avg_adt_2016_2022":4909.98,"median_adt_2016_2022":4849.5,"max_adt_2016_2022":8546.0,"latest_year":2022,"latest_year_avg_adt":3161.5,"monthly_avg_adt":{"1":5009.5,"2":4834.75,"3":5157.0,"4":4022.5,"5":5683.0,"6":6860.0,"7":4860.0,"8":5135.5,"9":4903.8,"10":5091.33,"11":4371.75,"12":4372.4},"seasonal_factors":[1.0203,0.9847,1.0503,0.8193,1.1574,1.3972,0.9898,1.0459,0.9987,1.0369,0.8904,0.8905],"class_totals":{"Buses / medium - large unit Trucks":7234.0,"Medium buses / Light single unit truck":18280.0,"Minibuses/matatus / Pickups / Vans / 4WD":49405.0,"Mortocycles / bicycles":77701.0,"Saloon cars":71700.0,"Trailers":1539.0},"class_shares":{"Buses / medium - large unit Trucks":0.032029,"Medium buses / Light single unit truck":0.080935,"Minibuses/matatus / Pickups / Vans / 4WD":0.218743,"Mortocycles / bicycles":0.344024,"Saloon cars":0.317455,"Trailers":0.006814}},"Njeru - Bukoloto":{"name":"Njeru - Bukoloto","link_id":"B102_Link01","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":36,"avg_adt_2016_2022":4047.74,"median_adt_2016_2022":3950.0,"max_adt_2016_2022":5405.0,"latest_year":2021,"latest_year_avg_adt":4213.29,"monthly_avg_adt":{"1":3936.33,"2":4542.33,"3":2741.17,"4":4137.5,"5":4317.33,"6":3863.5,"7":4253.0,"8":4253.0,"9":3789.5,"10":4011.6,"11":4070.0,"12":4408.2},"seasonal_factors":[0.9725,1.1222,0.6772,1.0222,1.0666,0.9545,1.0507,1.0507,0.9362,0.9911,1.0055,1.0891],"class_totals":{"Buses / medium - large unit Trucks":4553.5,"Medium buses / Light single unit truck":10485.5,"Minibuses/matatus / Pickups / Vans / 4WD":21899.0,"Mortocycles / bicycles":61849.5,"Saloon cars":45647.5,"Trailers":1283.5},"class_shares":{"Buses / medium - large unit Trucks":0.031249,"Medium buses / Light single unit truck":0.071957,"Minibuses/matatus / Pickups / Vans / 4WD":0.150283,"Mortocycles / bicycles":0.424445,"Saloon cars":0.313258,"Trailers":0.008808}},"Kampala - Mukono":{"name":"Kampala - Mukono","link_id":"A001_Link01","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":40,"avg_adt_2016_2022":31368.33,"median_adt_2016_2022":30868.5,"max_adt_2016_2022":41484.0,"latest_year":2020,"latest_year_avg_adt":35029.0,"monthly_avg_adt":{"1":31948.67,"2":32329.5,"3":31499.11,"4":30843.0,"5":29879.33,"6":34389.33,"7":30721.33,"8":30089.25,"9":30568.33,"10":30496.0,"11":31066.5,"12":32439.25},"seasonal_factors":[1.0185,1.0306,1.0042,0.9833,0.9525,1.0963,0.9794,0.9592,0.9745,0.9722,0.9904,1.0341],"class_totals":{"Buses / medium - large unit Trucks":51702.0,"Medium buses / Light single unit truck":111868.0,"Minibuses/matatus / Pickups / Vans / 4WD":229040.67,"Mortocycles / bicycles":480531.67,"Saloon cars":336610.33,"Trailers":44980.67},"class_shares":{"Buses / medium - large unit Trucks":0.041206,"Medium buses / Light single unit truck":0.089157,"Minibuses/matatus / Pickups / Vans / 4WD":0.182541,"Mortocycles / bicycles":0.382975,"Saloon cars":0.268272,"Trailers":0.035849}},"Buwama - Nyendo":{"name":"Buwama - Nyendo","link_id":"A002_Link04","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":39,"avg_adt_2016_2022":5819.44,"median_adt_2016_2022":6651.0,"max_adt_2016_2022":8336.0,"latest_year":2020,"latest_year_avg_adt":2236.5,"monthly_avg_adt":{"2":5533.67,"3":7026.0,"4":7165.67,"5":7150.33,"6":6996.67,"7":7691.5,"8":5509.0,"9":5085.6,"10":5203.2,"11":4953.8,"12":5152.2},"seasonal_factors":[1.0,0.9509,1.2073,1.2313,1.2287,1.2023,1.3217,0.9467,0.8739,0.8941,0.8513,0.8853],"class_totals":{"Buses / medium - large unit Trucks":28326.0,"Medium buses / Light single unit truck":28222.67,"Minibuses/matatus / Pickups / Vans / 4WD":40090.17,"Mortocycles / bicycles":41910.67,"Saloon cars":63544.33,"Trailers":24864.17},"class_shares":{"Buses / medium - large unit Trucks":0.124807,"Medium buses / Light single unit truck":0.124352,"Minibuses/matatus / Pickups / Vans / 4WD":0.176641,"Mortocycles / bicycles":0.184663,"Saloon cars":0.279983,"Trailers":0.109554}},"Lyantonde - Ntusi":{"name":"Lyantonde - Ntusi","link_id":"C227_Link01","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":50,"avg_adt_2016_2022":645.45,"median_adt_2016_2022":620.0,"max_adt_2016_2022":1342.0,"latest_year":2021,"latest_year_avg_adt":685.0,"monthly_avg_adt":{"1":596.75,"2":655.75,"3":604.67,"4":531.33,"5":633.33,"6":659.25,"7":600.33,"8":649.67,"9":771.8,"10":622.33,"11":643.08,"12":686.0},"seasonal_factors":[0.9245,1.016,0.9368,0.8232,0.9812,1.0214,0.9301,1.0065,1.1958,0.9642,0.9963,1.0628],"class_totals":{"Buses / medium - large unit Trucks":604.5,"Medium buses / Light single unit truck":1851.5,"Minibuses/matatus / Pickups / Vans / 4WD":4739.5,"Mortocycles / bicycles":11628.5,"Saloon cars":13295.5,"Trailers":153.0},"class_shares":{"Buses / medium - large unit Trucks":0.018731,"Medium buses / Light single unit truck":0.057371,"Minibuses/matatus / Pickups / Vans / 4WD":0.146859,"Mortocycles / bicycles":0.360322,"Saloon cars":0.411976,"Trailers":0.004741}},"Ishaka - Katunguru":{"name":"Ishaka - Katunguru","link_id":"B152_Link03","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":34,"avg_adt_2016_2022":1576.06,"median_adt_2016_2022":1565.0,"max_adt_2016_2022":1833.0,"latest_year":2022,"latest_year_avg_adt":1627.0,"monthly_avg_adt":{"1":1568.0,"2":1546.0,"3":1528.0,"4":1523.67,"5":1454.5,"6":1600.0,"7":1612.0,"8":1657.67,"9":1532.33,"10":1599.5,"11":1640.0,"12":1622.67},"seasonal_factors":[0.9949,0.9809,0.9695,0.9668,0.9229,1.0152,1.0228,1.0518,0.9723,1.0149,1.0406,1.0296],"class_totals":{"Buses / medium - large unit Trucks":3296.0,"Medium buses / Light single unit truck":4827.0,"Minibuses/matatus / Pickups / Vans / 4WD":10805.0,"Mortocycles / bicycles":15823.0,"Saloon cars":15943.0,"Trailers":2892.0},"class_shares":{"Buses / medium - large unit Trucks":0.061509,"Medium buses / Light single unit truck":0.090079,"Minibuses/matatus / Pickups / Vans / 4WD":0.201638,"Mortocycles / bicycles":0.295282,"Saloon cars":0.297522,"Trailers":0.053969}},"Kyenjojo - Fortportal":{"name":"Kyenjojo - Fortportal","link_id":"A005_Link10","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":34,"avg_adt_2016_2022":2337.21,"median_adt_2016_2022":2308.5,"max_adt_2016_2022":3049.0,"latest_year":2022,"latest_year_avg_adt":1758.0,"monthly_avg_adt":{"1":2316.0,"2":2621.33,"3":2079.5,"4":2191.33,"5":2508.0,"6":2203.5,"7":2246.0,"8":1986.0,"9":2060.67,"10":2443.67,"11":2450.67,"12":2703.0},"seasonal_factors":[0.9909,1.1216,0.8897,0.9376,1.0731,0.9428,0.961,0.8497,0.8817,1.0456,1.0485,1.1565],"class_totals":{"Buses / medium - large unit Trucks":5663.0,"Medium buses / Light single unit truck":7979.0,"Minibuses/matatus / Pickups / Vans / 4WD":20000.0,"Mortocycles / bicycles":17713.0,"Saloon cars":25206.0,"Trailers":2904.0},"class_shares":{"Buses / medium - large unit Trucks":0.071264,"Medium buses / Light single unit truck":0.100409,"Minibuses/matatus / Pickups / Vans / 4WD":0.251683,"Mortocycles / bicycles":0.222903,"Saloon cars":0.317196,"Trailers":0.036544}},"Ibanda - Kamwenge":{"name":"Ibanda - Kamwenge","link_id":"B150_Link03","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":53,"avg_adt_2016_2022":2423.32,"median_adt_2016_2022":2438.0,"max_adt_2016_2022":3044.0,"latest_year":2022,"latest_year_avg_adt":656.0,"monthly_avg_adt":{"1":2414.2,"2":2632.5,"3":2400.67,"4":2081.0,"5":2570.5,"6":2481.5,"7":2024.0,"8":2171.75,"9":2395.4,"10":2386.6,"11":2382.67,"12":2846.5},"seasonal_factors":[0.9962,1.0863,0.9907,0.8587,1.0607,1.024,0.8352,0.8962,0.9885,0.9848,0.9832,1.1746],"class_totals":{"Buses / medium - large unit Trucks":2271.0,"Medium buses / Light single unit truck":6382.0,"Minibuses/matatus / Pickups / Vans / 4WD":14900.0,"Mortocycles / bicycles":66126.0,"Saloon cars":37897.0,"Trailers":860.0},"class_shares":{"Buses / medium - large unit Trucks":0.017682,"Medium buses / Light single unit truck":0.04969,"Minibuses/matatus / Pickups / Vans / 4WD":0.116011,"Mortocycles / bicycles":0.514856,"Saloon cars":0.295065,"Trailers":0.006696}},"Tirinyi - Budaka - Kamonkoli":{"name":"Tirinyi - Budaka - Kamonkoli","link_id":"A012_Link03","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":33,"avg_adt_2016_2022":4694.21,"median_adt_2016_2022":4593.0,"max_adt_2016_2022":6780.0,"latest_year":2021,"latest_year_avg_adt":4956.62,"monthly_avg_adt":{"1":4470.67,"2":4932.0,"3":4409.0,"4":4651.67,"5":5147.0,"6":4103.0,"7":4676.0,"8":4435.67,"9":3396.5,"10":4406.0,"11":4916.67,"12":5435.2},"seasonal_factors":[0.9524,1.0507,0.9392,0.9909,1.0965,0.8741,0.9961,0.9449,0.7236,0.9386,1.0474,1.1579],"class_totals":{"Buses / medium - large unit Trucks":7771.0,"Medium buses / Light single unit truck":14604.0,"Minibuses/matatus / Pickups / Vans / 4WD":22641.0,"Mortocycles / bicycles":62067.0,"Saloon cars":45357.0,"Trailers":2469.0},"class_shares":{"Buses / medium - large unit Trucks":0.050165,"Medium buses / Light single unit truck":0.094275,"Minibuses/matatus / Pickups / Vans / 4WD":0.146157,"Mortocycles / bicycles":0.400667,"Saloon cars":0.292798,"Trailers":0.015938}},"Pallisa - Kanyago Bridge":{"name":"Pallisa - Kanyago Bridge","link_id":"B305_Link02","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":22,"avg_adt_2016_2022":1895.36,"median_adt_2016_2022":1803.0,"max_adt_2016_2022":3100.0,"latest_year":2018,"latest_year_avg_adt":1706.5,"monthly_avg_adt":{"1":1988.0,"2":1641.5,"3":1538.5,"4":2343.5,"5":2097.0,"6":1885.5,"7":1716.0,"8":2156.0,"9":1905.5,"10":1931.0,"11":1707.5,"12":1762.5},"seasonal_factors":[1.0489,0.8661,0.8117,1.2364,1.1064,0.9948,0.9054,1.1375,1.0053,1.0188,0.9009,0.9299],"class_totals":{"Buses / medium - large unit Trucks":302.0,"Medium buses / Light single unit truck":1288.0,"Minibuses/matatus / Pickups / Vans / 4WD":1895.0,"Mortocycles / bicycles":22133.0,"Saloon cars":15998.0,"Trailers":82.0},"class_shares":{"Buses / medium - large unit Trucks":0.007243,"Medium buses / Light single unit truck":0.030889,"Minibuses/matatus / Pickups / Vans / 4WD":0.045446,"Mortocycles / bicycles":0.530793,"Saloon cars":0.383663,"Trailers":0.001967}},"Kumi - Brooks corner":{"name":"Kumi - Brooks corner","link_id":"C920_Link01","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":45,"avg_adt_2016_2022":2220.51,"median_adt_2016_2022":2383.0,"max_adt_2016_2022":3125.0,"latest_year":2022,"latest_year_avg_adt":450.0,"monthly_avg_adt":{"1":1845.25,"2":2429.75,"3":2415.33,"4":2295.5,"5":2439.5,"6":2371.5,"7":2472.67,"8":2158.0,"9":2529.67,"10":2170.8,"11":2396.8,"12":1668.0},"seasonal_factors":[0.831,1.0942,1.0877,1.0338,1.0986,1.068,1.1136,0.9718,1.1392,0.9776,1.0794,0.7512],"class_totals":{"Buses / medium - large unit Trucks":927.0,"Medium buses / Light single unit truck":3485.0,"Minibuses/matatus / Pickups / Vans / 4WD":6288.0,"Mortocycles / bicycles":57074.0,"Saloon cars":31899.0,"Trailers":250.0},"class_shares":{"Buses / medium - large unit Trucks":0.009277,"Medium buses / Light single unit truck":0.034877,"Minibuses/matatus / Pickups / Vans / 4WD":0.062928,"Mortocycles / bicycles":0.57118,"Saloon cars":0.319236,"Trailers":0.002502}},"Lira - Corner Kilak":{"name":"Lira - Corner Kilak","link_id":"B252_Link01","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":46,"avg_adt_2016_2022":1592.91,"median_adt_2016_2022":1644.5,"max_adt_2016_2022":2636.0,"latest_year":2022,"latest_year_avg_adt":1590.67,"monthly_avg_adt":{"1":1669.0,"2":1769.33,"3":1630.4,"4":1575.5,"5":1694.33,"6":835.5,"7":1684.0,"8":1621.0,"9":1859.75,"10":1428.67,"11":1513.2,"12":1519.33},"seasonal_factors":[1.0478,1.1108,1.0235,0.9891,1.0637,0.5245,1.0572,1.0176,1.1675,0.8969,0.95,0.9538],"class_totals":{"Buses / medium - large unit Trucks":1099.0,"Medium buses / Light single unit truck":3707.0,"Minibuses/matatus / Pickups / Vans / 4WD":3593.0,"Mortocycles / bicycles":46319.0,"Saloon cars":18369.0,"Trailers":187.0},"class_shares":{"Buses / medium - large unit Trucks":0.014998,"Medium buses / Light single unit truck":0.050591,"Minibuses/matatus / Pickups / Vans / 4WD":0.049035,"Mortocycles / bicycles":0.632134,"Saloon cars":0.250689,"Trailers":0.002552}},"Lamogi - Amuru Junction":{"name":"Lamogi - Amuru Junction","link_id":"C686_Link01","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":48,"avg_adt_2016_2022":1059.83,"median_adt_2016_2022":1030.5,"max_adt_2016_2022":2300.0,"latest_year":2022,"latest_year_avg_adt":964.0,"monthly_avg_adt":{"1":1123.75,"2":1150.33,"3":1074.33,"4":1063.33,"5":1192.8,"6":906.75,"7":920.0,"8":1231.75,"9":959.67,"10":1004.6,"11":1124.0,"12":947.6},"seasonal_factors":[1.0603,1.0854,1.0137,1.0033,1.1255,0.8556,0.8681,1.1622,0.9055,0.9479,1.0605,0.8941],"class_totals":{"Buses / medium - large unit Trucks":1204.0,"Medium buses / Light single unit truck":2532.0,"Minibuses/matatus / Pickups / Vans / 4WD":3948.0,"Mortocycles / bicycles":29705.0,"Saloon cars":13041.0,"Trailers":442.0},"class_shares":{"Buses / medium - large unit Trucks":0.023667,"Medium buses / Light single unit truck":0.049772,"Minibuses/matatus / Pickups / Vans / 4WD":0.077607,"Mortocycles / bicycles":0.583916,"Saloon cars":0.256349,"Trailers":0.008688}},"Nebbi - Olevu":{"name":"Nebbi - Olevu","link_id":"A008_Link04","source":"ATC DATA SUMMARY 2016-2022.xlsx","observation_count":44,"avg_adt_2016_2022":1074.12,"median_adt_2016_2022":1011.0,"max_adt_2016_2022":2206.0,"latest_year":2021,"latest_year_avg_adt":1258.88,"monthly_avg_adt":{"1":1293.33,"2":1380.5,"3":738.88,"4":1119.0,"5":1148.0,"6":1060.0,"7":949.0,"8":1063.25,"9":1008.0,"10":1038.5,"11":1007.67,"12":1171.6},"seasonal_factors":[1.2041,1.2852,0.6879,1.0418,1.0688,0.9868,0.8835,0.9899,0.9384,0.9668,0.9381,1.0907],"class_totals":{"Buses / medium - large unit Trucks":5988.5,"Medium buses / Light single unit truck":3967.5,"Minibuses/matatus / Pickups / Vans / 4WD":7807.5,"Mortocycles / bicycles":14097.5,"Saloon cars":10730.5,"Trailers":4670.0},"class_shares":{"Buses / medium - large unit Trucks":0.12671,"Medium buses / Light single unit truck":0.083948,"Minibuses/matatus / Pickups / Vans / 4WD":0.165198,"Mortocycles / bicycles":0.298287,"Saloon cars":0.227045,"Trailers":0.098812}}};
+const LEGACY_ATC_ACCURACY_DATA = {"Kasangati - Kyaliwajala":{"name":"Kasangati - Kyaliwajala","link_id":"C194_Link02","observation_count":37,"avg_adt_2016_2022":4825,"median_adt_2016_2022":4866,"max_adt_2016_2022":6786,"latest_year":2020,"latest_year_avg_adt":5898.67,"monthly_avg_adt":{"1":4081,"2":5238.33,"3":3952.33,"4":1989,"5":4337,"6":5294.5,"7":4827,"8":5081.25,"9":5210,"10":5326,"11":5572.2,"12":4658},"seasonal_factors":[0.8458,1.0857,0.8191,0.4122,0.8989,1.0973,1.0004,1.0531,1.0798,1.1038,1.1549,0.9654],"class_totals":{"Buses / medium - large unit Trucks":3045,"Medium buses / Light single unit truck":12001,"Minibuses/matatus / Pickups / Vans / 4WD":53215,"Mortocycles / bicycles":47955,"Saloon cars":62004,"Trailers":305},"class_shares":{"Buses / medium - large unit Trucks":0.017056,"Medium buses / Light single unit truck":0.067223,"Minibuses/matatus / Pickups / Vans / 4WD":0.298082,"Mortocycles / bicycles":0.268618,"Saloon cars":0.347313,"Trailers":0.001708}},"Kalagi - Bukoloto-Kayunga":{"name":"Kalagi - Bukoloto-Kayunga","link_id":"B101_Link02","observation_count":46,"avg_adt_2016_2022":4909.98,"median_adt_2016_2022":4849.5,"max_adt_2016_2022":8546,"latest_year":2022,"latest_year_avg_adt":3161.5,"monthly_avg_adt":{"1":5009.5,"2":4834.75,"3":5157,"4":4022.5,"5":5683,"6":6860,"7":4860,"8":5135.5,"9":4903.8,"10":5091.33,"11":4371.75,"12":4372.4},"seasonal_factors":[1.0203,0.9847,1.0503,0.8193,1.1574,1.3972,0.9898,1.0459,0.9987,1.0369,0.8904,0.8905],"class_totals":{"Buses / medium - large unit Trucks":7234,"Medium buses / Light single unit truck":18280,"Minibuses/matatus / Pickups / Vans / 4WD":49405,"Mortocycles / bicycles":77701,"Saloon cars":71700,"Trailers":1539},"class_shares":{"Buses / medium - large unit Trucks":0.032029,"Medium buses / Light single unit truck":0.080935,"Minibuses/matatus / Pickups / Vans / 4WD":0.218743,"Mortocycles / bicycles":0.344024,"Saloon cars":0.317455,"Trailers":0.006814}},"Njeru - Bukoloto":{"name":"Njeru - Bukoloto","link_id":"B102_Link01","observation_count":36,"avg_adt_2016_2022":4047.74,"median_adt_2016_2022":3950,"max_adt_2016_2022":5405,"latest_year":2021,"latest_year_avg_adt":4213.29,"monthly_avg_adt":{"1":3936.33,"2":4542.33,"3":2741.17,"4":4137.5,"5":4317.33,"6":3863.5,"7":4253,"8":4253,"9":3789.5,"10":4011.6,"11":4070,"12":4408.2},"seasonal_factors":[0.9725,1.1222,0.6772,1.0222,1.0666,0.9545,1.0507,1.0507,0.9362,0.9911,1.0055,1.0891],"class_totals":{"Buses / medium - large unit Trucks":4553.5,"Medium buses / Light single unit truck":10485.5,"Minibuses/matatus / Pickups / Vans / 4WD":21899,"Mortocycles / bicycles":61849.5,"Saloon cars":45647.5,"Trailers":1283.5},"class_shares":{"Buses / medium - large unit Trucks":0.031249,"Medium buses / Light single unit truck":0.071957,"Minibuses/matatus / Pickups / Vans / 4WD":0.150283,"Mortocycles / bicycles":0.424445,"Saloon cars":0.313258,"Trailers":0.008808}},"Kampala - Mukono":{"name":"Kampala - Mukono","link_id":"A001_Link01","observation_count":40,"avg_adt_2016_2022":31368.33,"median_adt_2016_2022":30868.5,"max_adt_2016_2022":41484,"latest_year":2020,"latest_year_avg_adt":35029,"monthly_avg_adt":{"1":31948.67,"2":32329.5,"3":31499.11,"4":30843,"5":29879.33,"6":34389.33,"7":30721.33,"8":30089.25,"9":30568.33,"10":30496,"11":31066.5,"12":32439.25},"seasonal_factors":[1.0185,1.0306,1.0042,0.9833,0.9525,1.0963,0.9794,0.9592,0.9745,0.9722,0.9904,1.0341],"class_totals":{"Buses / medium - large unit Trucks":51702,"Medium buses / Light single unit truck":111868,"Minibuses/matatus / Pickups / Vans / 4WD":229040.67,"Mortocycles / bicycles":480531.67,"Saloon cars":336610.33,"Trailers":44980.67},"class_shares":{"Buses / medium - large unit Trucks":0.041206,"Medium buses / Light single unit truck":0.089157,"Minibuses/matatus / Pickups / Vans / 4WD":0.182541,"Mortocycles / bicycles":0.382975,"Saloon cars":0.268272,"Trailers":0.035849}},"Buwama - Nyendo":{"name":"Buwama - Nyendo","link_id":"A002_Link04","observation_count":39,"avg_adt_2016_2022":5819.44,"median_adt_2016_2022":6651,"max_adt_2016_2022":8336,"latest_year":2020,"latest_year_avg_adt":2236.5,"monthly_avg_adt":{"2":5533.67,"3":7026,"4":7165.67,"5":7150.33,"6":6996.67,"7":7691.5,"8":5509,"9":5085.6,"10":5203.2,"11":4953.8,"12":5152.2},"seasonal_factors":[1,0.9509,1.2073,1.2313,1.2287,1.2023,1.3217,0.9467,0.8739,0.8941,0.8513,0.8853],"class_totals":{"Buses / medium - large unit Trucks":28326,"Medium buses / Light single unit truck":28222.67,"Minibuses/matatus / Pickups / Vans / 4WD":40090.17,"Mortocycles / bicycles":41910.67,"Saloon cars":63544.33,"Trailers":24864.17},"class_shares":{"Buses / medium - large unit Trucks":0.124807,"Medium buses / Light single unit truck":0.124352,"Minibuses/matatus / Pickups / Vans / 4WD":0.176641,"Mortocycles / bicycles":0.184663,"Saloon cars":0.279983,"Trailers":0.109554}},"Lyantonde - Ntusi":{"name":"Lyantonde - Ntusi","link_id":"C227_Link01","observation_count":50,"avg_adt_2016_2022":645.45,"median_adt_2016_2022":620,"max_adt_2016_2022":1342,"latest_year":2021,"latest_year_avg_adt":685,"monthly_avg_adt":{"1":596.75,"2":655.75,"3":604.67,"4":531.33,"5":633.33,"6":659.25,"7":600.33,"8":649.67,"9":771.8,"10":622.33,"11":643.08,"12":686},"seasonal_factors":[0.9245,1.016,0.9368,0.8232,0.9812,1.0214,0.9301,1.0065,1.1958,0.9642,0.9963,1.0628],"class_totals":{"Buses / medium - large unit Trucks":604.5,"Medium buses / Light single unit truck":1851.5,"Minibuses/matatus / Pickups / Vans / 4WD":4739.5,"Mortocycles / bicycles":11628.5,"Saloon cars":13295.5,"Trailers":153},"class_shares":{"Buses / medium - large unit Trucks":0.018731,"Medium buses / Light single unit truck":0.057371,"Minibuses/matatus / Pickups / Vans / 4WD":0.146859,"Mortocycles / bicycles":0.360322,"Saloon cars":0.411976,"Trailers":0.004741}},"Ishaka - Katunguru":{"name":"Ishaka - Katunguru","link_id":"B152_Link03","observation_count":34,"avg_adt_2016_2022":1576.06,"median_adt_2016_2022":1565,"max_adt_2016_2022":1833,"latest_year":2022,"latest_year_avg_adt":1627,"monthly_avg_adt":{"1":1568,"2":1546,"3":1528,"4":1523.67,"5":1454.5,"6":1600,"7":1612,"8":1657.67,"9":1532.33,"10":1599.5,"11":1640,"12":1622.67},"seasonal_factors":[0.9949,0.9809,0.9695,0.9668,0.9229,1.0152,1.0228,1.0518,0.9723,1.0149,1.0406,1.0296],"class_totals":{"Buses / medium - large unit Trucks":3296,"Medium buses / Light single unit truck":4827,"Minibuses/matatus / Pickups / Vans / 4WD":10805,"Mortocycles / bicycles":15823,"Saloon cars":15943,"Trailers":2892},"class_shares":{"Buses / medium - large unit Trucks":0.061509,"Medium buses / Light single unit truck":0.090079,"Minibuses/matatus / Pickups / Vans / 4WD":0.201638,"Mortocycles / bicycles":0.295282,"Saloon cars":0.297522,"Trailers":0.053969}},"Kyenjojo - Fortportal":{"name":"Kyenjojo - Fortportal","link_id":"A005_Link10","observation_count":34,"avg_adt_2016_2022":2337.21,"median_adt_2016_2022":2308.5,"max_adt_2016_2022":3049,"latest_year":2022,"latest_year_avg_adt":1758,"monthly_avg_adt":{"1":2316,"2":2621.33,"3":2079.5,"4":2191.33,"5":2508,"6":2203.5,"7":2246,"8":1986,"9":2060.67,"10":2443.67,"11":2450.67,"12":2703},"seasonal_factors":[0.9909,1.1216,0.8897,0.9376,1.0731,0.9428,0.961,0.8497,0.8817,1.0456,1.0485,1.1565],"class_totals":{"Buses / medium - large unit Trucks":5663,"Medium buses / Light single unit truck":7979,"Minibuses/matatus / Pickups / Vans / 4WD":20000,"Mortocycles / bicycles":17713,"Saloon cars":25206,"Trailers":2904},"class_shares":{"Buses / medium - large unit Trucks":0.071264,"Medium buses / Light single unit truck":0.100409,"Minibuses/matatus / Pickups / Vans / 4WD":0.251683,"Mortocycles / bicycles":0.222903,"Saloon cars":0.317196,"Trailers":0.036544}},"Ibanda - Kamwenge":{"name":"Ibanda - Kamwenge","link_id":"B150_Link03","observation_count":53,"avg_adt_2016_2022":2423.32,"median_adt_2016_2022":2438,"max_adt_2016_2022":3044,"latest_year":2022,"latest_year_avg_adt":656,"monthly_avg_adt":{"1":2414.2,"2":2632.5,"3":2400.67,"4":2081,"5":2570.5,"6":2481.5,"7":2024,"8":2171.75,"9":2395.4,"10":2386.6,"11":2382.67,"12":2846.5},"seasonal_factors":[0.9962,1.0863,0.9907,0.8587,1.0607,1.024,0.8352,0.8962,0.9885,0.9848,0.9832,1.1746],"class_totals":{"Buses / medium - large unit Trucks":2271,"Medium buses / Light single unit truck":6382,"Minibuses/matatus / Pickups / Vans / 4WD":14900,"Mortocycles / bicycles":66126,"Saloon cars":37897,"Trailers":860},"class_shares":{"Buses / medium - large unit Trucks":0.017682,"Medium buses / Light single unit truck":0.04969,"Minibuses/matatus / Pickups / Vans / 4WD":0.116011,"Mortocycles / bicycles":0.514856,"Saloon cars":0.295065,"Trailers":0.006696}},"Tirinyi - Budaka - Kamonkoli":{"name":"Tirinyi - Budaka - Kamonkoli","link_id":"A012_Link03","observation_count":33,"avg_adt_2016_2022":4694.21,"median_adt_2016_2022":4593,"max_adt_2016_2022":6780,"latest_year":2021,"latest_year_avg_adt":4956.62,"monthly_avg_adt":{"1":4470.67,"2":4932,"3":4409,"4":4651.67,"5":5147,"6":4103,"7":4676,"8":4435.67,"9":3396.5,"10":4406,"11":4916.67,"12":5435.2},"seasonal_factors":[0.9524,1.0507,0.9392,0.9909,1.0965,0.8741,0.9961,0.9449,0.7236,0.9386,1.0474,1.1579],"class_totals":{"Buses / medium - large unit Trucks":7771,"Medium buses / Light single unit truck":14604,"Minibuses/matatus / Pickups / Vans / 4WD":22641,"Mortocycles / bicycles":62067,"Saloon cars":45357,"Trailers":2469},"class_shares":{"Buses / medium - large unit Trucks":0.050165,"Medium buses / Light single unit truck":0.094275,"Minibuses/matatus / Pickups / Vans / 4WD":0.146157,"Mortocycles / bicycles":0.400667,"Saloon cars":0.292798,"Trailers":0.015938}},"Pallisa - Kanyago Bridge":{"name":"Pallisa - Kanyago Bridge","link_id":"B305_Link02","observation_count":22,"avg_adt_2016_2022":1895.36,"median_adt_2016_2022":1803,"max_adt_2016_2022":3100,"latest_year":2018,"latest_year_avg_adt":1706.5,"monthly_avg_adt":{"1":1988,"2":1641.5,"3":1538.5,"4":2343.5,"5":2097,"6":1885.5,"7":1716,"8":2156,"9":1905.5,"10":1931,"11":1707.5,"12":1762.5},"seasonal_factors":[1.0489,0.8661,0.8117,1.2364,1.1064,0.9948,0.9054,1.1375,1.0053,1.0188,0.9009,0.9299],"class_totals":{"Buses / medium - large unit Trucks":302,"Medium buses / Light single unit truck":1288,"Minibuses/matatus / Pickups / Vans / 4WD":1895,"Mortocycles / bicycles":22133,"Saloon cars":15998,"Trailers":82},"class_shares":{"Buses / medium - large unit Trucks":0.007243,"Medium buses / Light single unit truck":0.030889,"Minibuses/matatus / Pickups / Vans / 4WD":0.045446,"Mortocycles / bicycles":0.530793,"Saloon cars":0.383663,"Trailers":0.001967}},"Kumi - Brooks corner":{"name":"Kumi - Brooks corner","link_id":"C920_Link01","observation_count":45,"avg_adt_2016_2022":2220.51,"median_adt_2016_2022":2383,"max_adt_2016_2022":3125,"latest_year":2022,"latest_year_avg_adt":450,"monthly_avg_adt":{"1":1845.25,"2":2429.75,"3":2415.33,"4":2295.5,"5":2439.5,"6":2371.5,"7":2472.67,"8":2158,"9":2529.67,"10":2170.8,"11":2396.8,"12":1668},"seasonal_factors":[0.831,1.0942,1.0877,1.0338,1.0986,1.068,1.1136,0.9718,1.1392,0.9776,1.0794,0.7512],"class_totals":{"Buses / medium - large unit Trucks":927,"Medium buses / Light single unit truck":3485,"Minibuses/matatus / Pickups / Vans / 4WD":6288,"Mortocycles / bicycles":57074,"Saloon cars":31899,"Trailers":250},"class_shares":{"Buses / medium - large unit Trucks":0.009277,"Medium buses / Light single unit truck":0.034877,"Minibuses/matatus / Pickups / Vans / 4WD":0.062928,"Mortocycles / bicycles":0.57118,"Saloon cars":0.319236,"Trailers":0.002502}},"Lira - Corner Kilak":{"name":"Lira - Corner Kilak","link_id":"B252_Link01","observation_count":46,"avg_adt_2016_2022":1592.91,"median_adt_2016_2022":1644.5,"max_adt_2016_2022":2636,"latest_year":2022,"latest_year_avg_adt":1590.67,"monthly_avg_adt":{"1":1669,"2":1769.33,"3":1630.4,"4":1575.5,"5":1694.33,"6":835.5,"7":1684,"8":1621,"9":1859.75,"10":1428.67,"11":1513.2,"12":1519.33},"seasonal_factors":[1.0478,1.1108,1.0235,0.9891,1.0637,0.5245,1.0572,1.0176,1.1675,0.8969,0.95,0.9538],"class_totals":{"Buses / medium - large unit Trucks":1099,"Medium buses / Light single unit truck":3707,"Minibuses/matatus / Pickups / Vans / 4WD":3593,"Mortocycles / bicycles":46319,"Saloon cars":18369,"Trailers":187},"class_shares":{"Buses / medium - large unit Trucks":0.014998,"Medium buses / Light single unit truck":0.050591,"Minibuses/matatus / Pickups / Vans / 4WD":0.049035,"Mortocycles / bicycles":0.632134,"Saloon cars":0.250689,"Trailers":0.002552}},"Lamogi - Amuru Junction":{"name":"Lamogi - Amuru Junction","link_id":"C686_Link01","observation_count":48,"avg_adt_2016_2022":1059.83,"median_adt_2016_2022":1030.5,"max_adt_2016_2022":2300,"latest_year":2022,"latest_year_avg_adt":964,"monthly_avg_adt":{"1":1123.75,"2":1150.33,"3":1074.33,"4":1063.33,"5":1192.8,"6":906.75,"7":920,"8":1231.75,"9":959.67,"10":1004.6,"11":1124,"12":947.6},"seasonal_factors":[1.0603,1.0854,1.0137,1.0033,1.1255,0.8556,0.8681,1.1622,0.9055,0.9479,1.0605,0.8941],"class_totals":{"Buses / medium - large unit Trucks":1204,"Medium buses / Light single unit truck":2532,"Minibuses/matatus / Pickups / Vans / 4WD":3948,"Mortocycles / bicycles":29705,"Saloon cars":13041,"Trailers":442},"class_shares":{"Buses / medium - large unit Trucks":0.023667,"Medium buses / Light single unit truck":0.049772,"Minibuses/matatus / Pickups / Vans / 4WD":0.077607,"Mortocycles / bicycles":0.583916,"Saloon cars":0.256349,"Trailers":0.008688}},"Nebbi - Olevu":{"name":"Nebbi - Olevu","link_id":"A008_Link04","observation_count":44,"avg_adt_2016_2022":1074.12,"median_adt_2016_2022":1011,"max_adt_2016_2022":2206,"latest_year":2021,"latest_year_avg_adt":1258.88,"monthly_avg_adt":{"1":1293.33,"2":1380.5,"3":738.88,"4":1119,"5":1148,"6":1060,"7":949,"8":1063.25,"9":1008,"10":1038.5,"11":1007.67,"12":1171.6},"seasonal_factors":[1.2041,1.2852,0.6879,1.0418,1.0688,0.9868,0.8835,0.9899,0.9384,0.9668,0.9381,1.0907],"class_totals":{"Buses / medium - large unit Trucks":5988.5,"Medium buses / Light single unit truck":3967.5,"Minibuses/matatus / Pickups / Vans / 4WD":7807.5,"Mortocycles / bicycles":14097.5,"Saloon cars":10730.5,"Trailers":4670},"class_shares":{"Buses / medium - large unit Trucks":0.12671,"Medium buses / Light single unit truck":0.083948,"Minibuses/matatus / Pickups / Vans / 4WD":0.165198,"Mortocycles / bicycles":0.298287,"Saloon cars":0.227045,"Trailers":0.098812}}};
 
 const COLORS = {
   green: 'rgba(34, 197, 94, 0.85)',
@@ -96,7 +117,7 @@ let bridgeSearchIndex = [];
 let bridgeSearchIndexById = new Map();
 let bridgeSearchIndexReady = false;
 let searchViewRefreshTimer = null;
-const SQLBOT_TRAFFIC_BACKEND_URL = 'bridge_traffic_sqlbot_payload.json';
+const SQLBOT_TRAFFIC_BACKEND_URL = 'bridge_traffic_sqlbot_payload.json?v=20261029-private';
 let sqlBotTrafficBackendSnapshot = null;
 let sqlBotTrafficBackendStatus = 'embedded';
 let sqlBotTrafficBackendPromise = null;
@@ -1002,7 +1023,6 @@ function bridgeMatchesDashboardFilters(b) {
   if (rc !== 'all' && canonicalRoadClass(b.road_class) !== rc) return false;
   if (controls.bridgeName !== 'all' && b.bridge_nam !== controls.bridgeName) return false;
   if (controls.bridgeNo !== 'all' && b.bridge_no !== controls.bridgeNo) return false;
-  if (controls.region !== 'all' && b.region !== controls.region) return false;
   if (controls.station !== 'all' && b.station !== controls.station) return false;
   if (controls.linkName !== 'all' && b.link_name !== controls.linkName) return false;
   if (q && !bridgeMatchesSearchQuery(b, q)) return false;
@@ -1277,7 +1297,7 @@ const BMS_CODE_LOOKUPS = {
     '09': 'Agricultural underpass', '10': 'Road over water pipes', '11': 'Road over conveyer belt',
     '12': 'Conveyer belt over road', '13': 'Other', '?': 'Unknown'
   },
-  owner: { '01': 'Ministry of Works and Transport - Department of National Roads', '06': 'Municipal / Local Government', '07': 'Private', '08': 'Other', '?': 'Unknown' },
+  owner: { '01': 'National roads authority', '06': 'Municipal / Local Government', '07': 'Private', '08': 'Other', '?': 'Unknown' },
   type_bridge: {
     '01': 'Simply supported span', '02': 'Continuous span', '03': 'Double cantilevered span', '04': 'Single cantilevered span',
     '05': 'Single suspended simply supported span', '06': 'Suspended span', '07': 'Portal frame', '08': 'Cantilevered construction',
@@ -1481,7 +1501,7 @@ const BMS_BRIDGE_INVENTORY_COLUMNS = [
   { key: 'link_no', label: 'Link ID', value: b => b.link_no },
   { key: 'link_name', label: 'Road Link Name', value: b => b.link_name },
   { key: 'road_class', label: 'Road Class', value: b => canonicalRoadClass(b.road_class), render: b => `<span class="pill pill-${canonicalRoadClass(b.road_class).toLowerCase()}">${canonicalRoadClass(b.road_class)}</span>` },
-  { key: 'surface_link', label: 'Surface Type', value: b => b.surface_link || b.surface_ty },
+  { key: 'surface_link', label: 'Surface Type', value: b => canonicalSurfaceType(b.surface_link || b.surface_ty) },
   { key: 'station', label: 'Maintenance Station', value: b => b.station || b.maintenanc },
   { key: 'region', label: 'Maintenance Region', value: b => b.region },
   { key: 'km', label: 'Bridge Chainage From Start of Road km', value: b => bridgeValidatedChainageKm(b) },
@@ -2233,8 +2253,8 @@ function sqlBotEvidenceForBridge(b) {
     observation_count: Number(ev.observed_days || ev.observation_count || 0),
     growth_rate: Number(ev.growth_rate || 0),
     class_shares: ev.class_shares || {},
-    sources: ev.sources || ['SQLBot annual data collection'],
-    basis: ev.basis || 'SQLBot annual data model',
+    sources: [],
+    basis: ev.basis || 'Annual traffic model',
     match_type: ev.match_type || (byLink ? 'exact-link' : 'road-corridor')
   };
 }
@@ -4341,7 +4361,7 @@ function openBridgeModal(bridgeId) {
   document.getElementById('mLinkNo').textContent = b.link_no || 'N/A';
   document.getElementById('mLinkName').textContent = b.link_name || 'N/A';
   document.getElementById('mLinkLengthClass').textContent = `Length: ${b.link_len_km ? fmt(b.link_len_km, 1) + ' km' : 'N/A'} | Class: ${canonicalRoadClass(b.road_class)}`;
-  document.getElementById('mLinkSurface').textContent = b.surface_link || b.surface_ty || 'N/A';
+  document.getElementById('mLinkSurface').textContent = canonicalSurfaceType(b.surface_link || b.surface_ty);
 
   const paveAgeText = b.pave_age != null
     ? `${b.pave_year} (${b.pave_age} years old)`
@@ -4356,12 +4376,9 @@ function openBridgeModal(bridgeId) {
   document.getElementById('mRegion').textContent = b.region || 'N/A';
 
   if (b.x_new && b.y_new) {
-    const sourceText = b.location_source_lat != null && b.location_source_lon != null
-      ? `Source: ${Number(b.location_source_lat).toFixed(6)}, ${Number(b.location_source_lon).toFixed(6)}`
-      : 'Source: -';
     const correctedText = `Corrected: ${Number(b.y_new).toFixed(6)}, ${Number(b.x_new).toFixed(6)}`;
     const moveText = b.location_correction_distance_km != null ? `Moved: ${fmt(b.location_correction_distance_km, 3)} km` : 'Moved: -';
-    document.getElementById('mCoordinates').textContent = `${correctedText} | ${sourceText} | ${moveText} | ${b.location_correction_method || 'N/A'}`;
+    document.getElementById('mCoordinates').textContent = `${correctedText} | ${moveText} | ${b.location_correction_method || 'N/A'}`;
   } else {
     document.getElementById('mCoordinates').textContent = '-';
   }
@@ -4376,14 +4393,12 @@ function openBridgeModal(bridgeId) {
   ].map(([label, value, scope]) => {
     return `<span title="${htmlEscape(bridgeConditionRatingTooltip(value, scope))}">${htmlEscape(label)}: ${modalRatingBadge(value, scope)}</span>`;
   }).join(' <span style="color:var(--border)">|</span> ');
-  document.getElementById('mReferenceSource').textContent = `${b.source_workbook || 'Bridges and Culverts 2026.xlsx'} / ${b.source_sheet || 'tblB-Bridge2'} / row ${b.source_row || 'N/A'}`;
   document.getElementById('mReferenceNumbers').textContent = refText(`Original: ${b.original_bridge_no || 'N/A'}`, `New: ${b.new_bridge_no || 'N/A'}`);
   document.getElementById('mBridgeTypes').textContent = refText(`Bridge: ${b.type_bridge || 'N/A'}`, `Deck: ${b.type_deck || 'N/A'}`, `Crossing: ${b.type_crossing || 'N/A'}`);
-  document.getElementById('mDeckMaterial').textContent = refText(`Material: ${b.type_deck_material || 'N/A'}`, `Wearing: ${b.type_wearing_surface || 'N/A'}`, `Surface: ${b.surface_link || 'N/A'}`);
+  document.getElementById('mDeckMaterial').textContent = refText(`Material: ${b.type_deck_material || 'N/A'}`, `Wearing: ${b.type_wearing_surface || 'N/A'}`, `Surface: ${canonicalSurfaceType(b.surface_link || b.surface_ty)}`);
   document.getElementById('mWaterwayScour').textContent = refText(`Scour risk: ${b.scour_risk || 'N/A'}`, `Protection: ${b.scour_protection || 'N/A'}`);
   document.getElementById('mComponentRatings').innerHTML = componentRatings;
   document.getElementById('mTownEndpoints').textContent = refText(b.town_left, b.town_right);
-  document.getElementById('mInspectionReference').textContent = refText(b.inspector, b.firm, b.date_modified);
   document.getElementById('mReferenceComment').textContent = b.comment || b.remarks || 'N/A';
 
   document.getElementById('bridgeModal').classList.add('active');
@@ -4619,7 +4634,7 @@ function exportPNG() {
   if (!canvas) { alert('No chart currently visible to export on this tab.'); return; }
 
   const link = document.createElement('a');
-  link.download = 'uganda_bridge_network_chart_' + new Date().toISOString().slice(0, 10) + '.png';
+  link.download = readableDownloadName('uganda_bridge_network_chart_' + new Date().toISOString().slice(0, 10) + '.png');
 
   const expCanvas = document.getElementById('exportCanvas');
   expCanvas.width = canvas.width * 2;
@@ -4661,7 +4676,7 @@ function exportCSV() {
     filename = 'uganda_bridges_bms_inventory_elements_conditions.csv';
   } else if (activeTab === 'bridge-traffic') {
     const rows = buildBridgeTrafficRows();
-    csv = 'Bridge Name,Bridge No,Bridge Latitude,Bridge Longitude,Link ID,Link Name,Road Class,Region,Station,River,Current Assigned ADT,ADT Excl Motorcycles,Annual Weighted Growth Rate,Annual Weighted Growth Source,Seasonal Factor,Seasonal Source,Jan Seasonal Factor,Feb Seasonal Factor,Mar Seasonal Factor,Apr Seasonal Factor,May Seasonal Factor,Jun Seasonal Factor,Jul Seasonal Factor,Aug Seasonal Factor,Sep Seasonal Factor,Oct Seasonal Factor,Nov Seasonal Factor,Dec Seasonal Factor,Nearest Manual Count,Manual Link,Manual Latitude,Manual Longitude,Manual Distance km,Manual Stations Used,Motorcycle ADT,Light Vehicle ADT,Bus ADT,Heavy Goods ADT,Other ADT,Bicycles,Carts,Motorcycles Class,Saloon Cars,Light Goods,Minibuses,Medium Buses,Large Buses,Light Trucks,Medium Trucks,Heavy Trucks,Heavy %,Evidence Score,Detailed Vehicle Class Volumes,Count Days,Monthly Total Vehicles,Monthly Heavy Vehicles,Average Monthly Heavy,Average Speed km/h,P85 Speed km/h,Influence Score,Priority\n';
+    csv = 'Bridge Name,Bridge No,Bridge Latitude,Bridge Longitude,Link ID,Link Name,Road Class,Region,Station,River,Current Assigned ADT,ADT Excl Motorcycles,Annual Weighted Growth Rate,Annual Weighted Growth Method,Seasonal Factor,Seasonal Method,Jan Seasonal Factor,Feb Seasonal Factor,Mar Seasonal Factor,Apr Seasonal Factor,May Seasonal Factor,Jun Seasonal Factor,Jul Seasonal Factor,Aug Seasonal Factor,Sep Seasonal Factor,Oct Seasonal Factor,Nov Seasonal Factor,Dec Seasonal Factor,Nearest Manual Count,Manual Link,Manual Latitude,Manual Longitude,Manual Distance km,Manual Stations Used,Motorcycle ADT,Light Vehicle ADT,Bus ADT,Heavy Goods ADT,Other ADT,Bicycles,Carts,Motorcycles Class,Saloon Cars,Light Goods,Minibuses,Medium Buses,Large Buses,Light Trucks,Medium Trucks,Heavy Trucks,Heavy %,Evidence Score,Detailed Vehicle Class Volumes,Count Days,Monthly Total Vehicles,Monthly Heavy Vehicles,Average Monthly Heavy,Average Speed km/h,P85 Speed km/h,Influence Score,Priority\n';
     csv += rows.map(r => [
       escapeCSV(r.bridge_nam), escapeCSV(r.bridge_no), bridgeMapLat(r) ?? r.y_new ?? '', bridgeMapLon(r) ?? r.x_new ?? '', escapeCSV(r.link_no), escapeCSV(r.link_name), escapeCSV(r.road_class), escapeCSV(r.region), escapeCSV(r.station), escapeCSV(r.river),
       r.assigned_adt_incl_motorcycles != null ? r.assigned_adt_incl_motorcycles.toFixed(2) : '',
@@ -4688,7 +4703,7 @@ function exportCSV() {
     filename = 'uganda_bridge_crossing_traffic_analytics.csv';
   } else if (activeTab === 'bridge-summary') {
     const rows = buildBridgeTrafficRows();
-    csv = 'Bridge Name,Bridge No,Link ID,Link Name,Road Class,Region,Station,River,Current Assigned ADT,ADT Excl Motorcycles,Annual Weighted Growth Rate,Annual Weighted Growth Source,Motorcycle ADT,Light Vehicle ADT,Bus ADT,Heavy Goods ADT,Other ADT,Traffic Band,Nearest Manual Count,Manual Distance km,Seasonal Factor,Evidence Score,Influence Score,Priority\n';
+    csv = 'Bridge Name,Bridge No,Link ID,Link Name,Road Class,Region,Station,River,Current Assigned ADT,ADT Excl Motorcycles,Annual Weighted Growth Rate,Annual Weighted Growth Method,Motorcycle ADT,Light Vehicle ADT,Bus ADT,Heavy Goods ADT,Other ADT,Traffic Band,Nearest Manual Count,Manual Distance km,Seasonal Factor,Evidence Score,Influence Score,Priority\n';
     csv += rows.map(r => [
       escapeCSV(r.bridge_nam), escapeCSV(r.bridge_no), escapeCSV(r.link_no), escapeCSV(r.link_name), escapeCSV(r.road_class), escapeCSV(r.region), escapeCSV(r.station), escapeCSV(r.river),
       r.assigned_adt_incl_motorcycles != null ? r.assigned_adt_incl_motorcycles.toFixed(2) : '',
@@ -4708,7 +4723,7 @@ function exportCSV() {
     filename = 'uganda_bridge_traffic_summary.csv';
   } else if (activeTab === 'bridge-loading') {
     const rows = buildBridgeTrafficRows();
-    csv = 'Bridge Name,Bridge No,Link ID,Link Name,Road Class,Region,Manual Count Evidence,ADT incl Motorcycles,ADT excl Motorcycles,Annual Weighted Growth Rate,Annual Weighted Growth Source,Motorcycle ADT,Light Vehicle ADT,Bus ADT,Heavy Goods ADT,Other ADT,Heavy %,Detailed Vehicle Class Volumes,Priority\n';
+    csv = 'Bridge Name,Bridge No,Link ID,Link Name,Road Class,Region,Manual Count Evidence,ADT incl Motorcycles,ADT excl Motorcycles,Annual Weighted Growth Rate,Annual Weighted Growth Method,Motorcycle ADT,Light Vehicle ADT,Bus ADT,Heavy Goods ADT,Other ADT,Heavy %,Detailed Vehicle Class Volumes,Priority\n';
     csv += rows.map(r => [
       escapeCSV(r.bridge_nam), escapeCSV(r.bridge_no), escapeCSV(r.link_no), escapeCSV(r.link_name), escapeCSV(r.road_class), escapeCSV(r.region),
       escapeCSV(r.nearest_manual_id || 'N/A'),
@@ -4753,15 +4768,19 @@ function exportCSV() {
   const blob = new Blob(['\ufeff' + csv], { type: 'text/csv;charset=utf-8;' });
   const link = document.createElement('a');
   link.href = URL.createObjectURL(blob);
-  link.download = filename;
+  link.download = readableDownloadName(filename);
   link.click();
   URL.revokeObjectURL(link.href);
+}
+
+function readableDownloadName(filename) {
+  return String(filename).replaceAll('_', '-');
 }
 
 function downloadBlob(filename, blob) {
   const link = document.createElement('a');
   link.href = URL.createObjectURL(blob);
-  link.download = filename;
+  link.download = readableDownloadName(filename);
   link.click();
   URL.revokeObjectURL(link.href);
 }
@@ -4769,7 +4788,7 @@ function downloadBlob(filename, blob) {
 function downloadFormulaWorkbook() {
   const link = document.createElement('a');
   link.href = 'bridge_traffic_formula_workbook.xlsx';
-  link.download = 'bridge_traffic_formula_workbook.xlsx';
+  link.download = readableDownloadName('bridge_traffic_formula_workbook.xlsx');
   link.click();
 }
 
@@ -4794,8 +4813,7 @@ function correctedBridgeRows() {
       region: b.region || '',
       station: b.station || '',
       river: bridgeRiverName(b),
-      source_lon: b.location_source_lon ?? b.source_x_new ?? '',
-      source_lat: b.location_source_lat ?? b.source_y_new ?? '',
+      condition: b.overall_cond || b.condition_category || '',
       lon: b.location_corrected_lon ?? b.x_new ?? '',
       lat: b.location_corrected_lat ?? b.y_new ?? '',
       correction_km: b.location_correction_distance_km ?? '',
@@ -4826,16 +4844,16 @@ function correctedBridgeCsvText() {
     return str;
   };
   const headers = [
-    'Record ID', 'Bridge No', 'Bridge Name', 'Link ID', 'Link Name', 'Road Class', 'Region', 'Station', 'River',
-    'AADT', 'Annual Weighted Growth Rate', 'Annual Weighted Growth Source', 'Source Longitude', 'Source Latitude', 'Corrected Longitude', 'Corrected Latitude',
+    'Record ID', 'Bridge No', 'Bridge Name', 'Link ID', 'Link Name', 'Road Class', 'Region', 'Station', 'River', 'Condition',
+    'AADT', 'Annual Weighted Growth Rate', 'Annual Weighted Growth Method', 'Corrected Longitude', 'Corrected Latitude',
     'Correction Distance km', 'Correction Method', 'Audit Status', 'National Network Status', 'Network Match Scope',
     'Requires Review', 'Corrected Link ID', 'Corrected Road Name', 'Corrected Road Class'
   ];
   const lines = [headers.join(',')];
   correctedBridgeRows().forEach(r => {
     lines.push([
-      r.id, r.bridge_no, r.bridge_nam, r.link_no, r.link_name, r.road_class, r.region, r.station, r.river,
-      r.aadt, r.annual_growth_rate, r.annual_growth_source, r.source_lon, r.source_lat, r.lon, r.lat, r.correction_km, r.correction_method,
+      r.id, r.bridge_no, r.bridge_nam, r.link_no, r.link_name, r.road_class, r.region, r.station, r.river, r.condition,
+      r.aadt, r.annual_growth_rate, r.annual_growth_source, r.lon, r.lat, r.correction_km, r.correction_method,
       r.audit_status, r.national_network_status, r.network_match_scope, r.requires_review, r.corrected_link_id,
       r.corrected_road_name, r.corrected_road_class
     ].map(escapeCSV).join(','));
@@ -4849,7 +4867,7 @@ function exportCorrectedBridgeKML() {
     <Placemark>
       <name>${xmlEscape(`${r.bridge_no} ${r.bridge_nam}`.trim())}</name>
       <styleUrl>#bridgePoint</styleUrl>
-      <description>${xmlEscape(`Link: ${r.link_no} | ${r.link_name}\nClass: ${r.road_class}\nRegion: ${r.region}\nAADT: ${r.aadt}\nAnnual weighted growth: ${formatGrowthPercent(r.annual_growth_rate)}\nSource coordinate: ${r.source_lat}, ${r.source_lon}\nCorrected coordinate: ${r.lat}, ${r.lon}\nCorrection: ${r.correction_method}\nDistance moved km: ${r.correction_km}`)}</description>
+      <description>${xmlEscape(`Link: ${r.link_no} | ${r.link_name}\nClass: ${r.road_class}\nRegion: ${r.region}\nAADT: ${r.aadt}\nAnnual weighted growth: ${formatGrowthPercent(r.annual_growth_rate)}\nCorrected coordinate: ${r.lat}, ${r.lon}\nCorrection: ${r.correction_method}\nDistance moved km: ${r.correction_km}`)}</description>
       <ExtendedData>
         ${Object.entries(r).filter(([k]) => !['annual_growth_rate', 'annual_growth_source'].includes(k)).map(([k, v]) => `<Data name="${xmlEscape(k)}"><value>${xmlEscape(v)}</value></Data>`).join('')}
       </ExtendedData>
@@ -4859,7 +4877,7 @@ function exportCorrectedBridgeKML() {
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Corrected Uganda Bridge Database</name>
-    <description>Bridge locations corrected to Uganda national road network geometry and audited for source/corrected coordinates.</description>
+    <description>Bridge locations corrected to Uganda national road network geometry.</description>
     <Style id="bridgePoint"><IconStyle><color>ff00e5ff</color><scale>0.9</scale></IconStyle></Style>
     ${placemarks}
   </Document>
@@ -4876,7 +4894,7 @@ function makeDbf(rows) {
   const fields = [
     ['BRIDGE_NO', 'C', 20, 0], ['NAME', 'C', 60, 0], ['LINK_ID', 'C', 24, 0], ['ROAD_CLASS', 'C', 8, 0],
     ['REGION', 'C', 24, 0], ['STATION', 'C', 24, 0], ['COND', 'C', 24, 0], ['AADT', 'N', 12, 0], ['GROWTH_RT', 'N', 10, 5], ['GROWTH_SRC', 'C', 80, 0],
-    ['SRC_LON', 'N', 14, 6], ['SRC_LAT', 'N', 14, 6], ['CORR_LON', 'N', 14, 6], ['CORR_LAT', 'N', 14, 6],
+    ['CORR_LON', 'N', 14, 6], ['CORR_LAT', 'N', 14, 6],
     ['MOVE_KM', 'N', 12, 3], ['NETWORK', 'C', 28, 0], ['SCOPE', 'C', 32, 0], ['REVIEW', 'C', 8, 0], ['AUDIT', 'C', 28, 0], ['METHOD', 'C', 80, 0]
   ];
   const headerLen = 32 + fields.length * 32 + 1;
@@ -4898,7 +4916,7 @@ function makeDbf(rows) {
     off += 32;
   });
   bytes[off++] = 0x0D;
-  const values = r => [r.bridge_no, r.bridge_nam, r.link_no, r.road_class, r.region, r.station, r.condition, r.aadt, r.annual_growth_rate, r.annual_growth_source, r.source_lon, r.source_lat, r.lon, r.lat, r.correction_km, r.national_network_status, r.network_match_scope, r.requires_review, r.audit_status, r.correction_method];
+  const values = r => [r.bridge_no, r.bridge_nam, r.link_no, r.road_class, r.region, r.station, r.condition, r.aadt, r.annual_growth_rate, r.annual_growth_source, r.lon, r.lat, r.correction_km, r.national_network_status, r.network_match_scope, r.requires_review, r.audit_status, r.correction_method];
   rows.forEach(r => {
     bytes[off++] = 0x20;
     values(r).forEach((v, i) => {
@@ -5142,8 +5160,9 @@ function writeSimplePdf(lines, filename) {
   pages.forEach((pageCommands, index) => {
     const footer = [
       `0.74 0.78 0.86 RG 0.4 w ${margin} 34 m ${margin + contentWidth} 34 l S`,
-      `0.32 0.36 0.48 rg BT /F1 7 Tf ${margin} 22 Td (Ministry of Works and Transport - Department of National Roads) Tj ET`,
-      `0.32 0.36 0.48 rg BT /F2 7 Tf ${pageWidth - margin - 72} 22 Td (Page ${index + 1} of ${pages.length}) Tj ET`
+      `0.32 0.36 0.48 rg BT /F1 7 Tf ${margin} 23 Td (MINISTRY OF WORKS AND TRANSPORT | DEPARTMENT OF NATIONAL ROADS) Tj ET`,
+      `0.32 0.36 0.48 rg BT /F1 7 Tf ${margin} 14 Td (DIVISION OF DESIGN AND NETWORK ENGINEERING) Tj ET`,
+      `0.32 0.36 0.48 rg BT /F2 7 Tf ${pageWidth - margin - 72} 14 Td (Page ${index + 1} of ${pages.length}) Tj ET`
     ];
     const text = [...pageCommands, ...footer].join('\n');
     const stream = `<< /Length ${text.length} >>\nstream\n${text}\nendstream`;
@@ -5187,7 +5206,9 @@ function allBridgeTrafficReportLines(rows, trafficRows, periodRows, annualFactor
 
   return [
     'Uganda Bridge and Traffic Statistics Report',
-    'Agency: Ministry of Works and Transport - Department of National Roads',
+    'MINISTRY OF WORKS AND TRANSPORT',
+    'DEPARTMENT OF NATIONAL ROADS',
+    'DIVISION OF DESIGN AND NETWORK ENGINEERING',
     `Bridge records: ${rows.length}`,
     `Traffic records in current filters: ${trafficRows.length}`,
     `Total ADT incl. motorcycles: ${fmt(totalIncl, 0)}`,
@@ -5236,7 +5257,9 @@ function selectedBridgeTrafficReportLines(bridge) {
   const manualPool = evidence.manualStations.slice(0, 8);
   return [
     'Selected Bridge Traffic Report',
-    'Agency: Ministry of Works and Transport - Department of National Roads',
+    'MINISTRY OF WORKS AND TRANSPORT',
+    'DEPARTMENT OF NATIONAL ROADS',
+    'DIVISION OF DESIGN AND NETWORK ENGINEERING',
     `Generated: ${new Date().toISOString().slice(0, 10)}`,
     '',
     `Bridge: ${row.bridge_nam || 'N/A'} (${row.bridge_no || 'N/A'})`,
@@ -5251,7 +5274,7 @@ function selectedBridgeTrafficReportLines(bridge) {
     `Base assigned ADT excl. motorcycles: ${fmt(row.assigned_adt_excl_motorcycles, 0)}`,
     `Seasonal factor: ${row.seasonal_factor != null ? Number(row.seasonal_factor).toFixed(4) + 'x' : 'N/A'}`,
     `Annual weighted growth rate: ${formatGrowthPercent(row.annual_traffic_growth_rate)}`,
-    `Annual weighted growth source: ${row.annual_traffic_growth_source || 'N/A'}`,
+    `Annual weighted growth method: ${row.annual_traffic_growth_source || 'N/A'}`,
     `Evidence score: ${fmt(row.count_evidence_score, 0)}/100 | Priority: ${row.priority || 'N/A'}`,
     '',
     'Major Vehicle-Class Daily ADT',
@@ -5776,31 +5799,31 @@ function selectedBridgeCsvText(bridge) {
   const evidence = bridgeTrafficEvidence(bridge);
   const roads = roadInfluenceRowsForBridge(bridge, 12);
   const lines = [];
-  lines.push('Section,Record Type,ID,Name,Source,Link ID,Road Name,Road Class,Region,Station,Latitude,Longitude,Distance km,ADT incl Motorcycles,ADT excl Motorcycles,Seasonal Factor,Annual Weighted Growth Rate,Annual Weighted Growth Source,Weight,Role,Notes');
+  lines.push('Section,Record Type,ID,Name,Link ID,Road Name,Road Class,Region,Station,Latitude,Longitude,Distance km,ADT incl Motorcycles,ADT excl Motorcycles,Seasonal Factor,Annual Weighted Growth Rate,Annual Weighted Growth Method,Weight,Role,Notes');
   lines.push([
-    'Bridge Summary', 'Selected Bridge', row.bridge_no, row.bridge_nam, row.source_workbook, row.link_no, row.link_name, canonicalRoadClass(row.road_class), row.region, row.station,
+    'Bridge Summary', 'Selected Bridge', row.bridge_no, row.bridge_nam, '', row.link_no, row.link_name, canonicalRoadClass(row.road_class), row.region, row.station,
     bridgeMapLat(row) ?? row.y_new ?? '', bridgeMapLon(row) ?? row.x_new ?? '', '', row.assigned_adt_incl_motorcycles ?? '', row.assigned_adt_excl_motorcycles ?? '', row.seasonal_factor ?? '',
     row.annual_traffic_growth_rate ?? '', row.annual_traffic_growth_source || '', '', 'Bridge crossing',
     `Current assigned ADT is the single traffic value shown in the dashboard; Evidence: ${fmt(row.count_evidence_score, 0)}/100; Priority: ${row.priority || 'N/A'}`
-  ].map(escapeCSV).join(','));
+  ].filter((_, i) => i !== 4).map(escapeCSV).join(','));
   roads.forEach(r => {
     lines.push([
       'Influencing Roads', 'Road Link', r.id, r.name, '2026 national road network', r.id, r.name, r.cls, r.region, r.station,
-      r.latitude ?? '', r.longitude ?? '', '', '', '', '', '', '', r.role, `Length km: ${r.length ?? '-'}; Surface: ${r.surface || 'N/A'}`
-    ].map(escapeCSV).join(','));
+      r.latitude ?? '', r.longitude ?? '', '', '', '', '', '', '', '', r.role, `Length km: ${r.length ?? '-'}; Surface: ${canonicalSurfaceType(r.surface)}`
+    ].filter((_, i) => i !== 4).map(escapeCSV).join(','));
   });
   evidence.manualStations.forEach(s => {
     lines.push([
       'Influencing Count Stations', 'Manual Count', s.id, s.name, 'Manual traffic count station', s.link_id, s.link_name, canonicalRoadClass(s.link_id || s.link_name), s.region, s.station,
       s.lat ?? '', s.lng ?? '', s.distanceKm != null ? s.distanceKm.toFixed(3) : '', '', '', '', '', '', s.sameLink ? 1 : '', s.sameLink ? 'Same host link' : 'Nearby wider-network station', ''
-    ].map(escapeCSV).join(','));
+    ].filter((_, i) => i !== 4).map(escapeCSV).join(','));
   });
   Object.entries(row.class_volumes || {}).forEach(([label, value]) => {
     lines.push([
       'Vehicle Class ADT', 'Assigned class volume', label, label, 'Assigned bridge traffic model', row.link_no, row.link_name, canonicalRoadClass(row.road_class), row.region, row.station,
       bridgeMapLat(row) ?? row.y_new ?? '', bridgeMapLon(row) ?? row.x_new ?? '', '', value, '', row.seasonal_factor ?? '',
       row.annual_traffic_growth_rate ?? '', row.annual_traffic_growth_source || '', '', 'Assigned to selected bridge', majorVehicleBucket(label)
-    ].map(escapeCSV).join(','));
+    ].filter((_, i) => i !== 4).map(escapeCSV).join(','));
   });
   bridgeOdFlowRows([row]).forEach(od => {
     lines.push([
@@ -5811,7 +5834,7 @@ function selectedBridgeCsvText(bridge) {
       row.seasonal_factor ?? '', row.annual_traffic_growth_rate ?? '', row.annual_traffic_growth_source || '', od.od_match_score || '',
       od.od_direction || 'Road-link direction',
       `OD year: ${od.od_year || 'N/A'}; OD evidence ADT: ${od.od_estimated_adt != null ? Number(od.od_estimated_adt).toFixed(2) : 'N/A'}; Current assigned ADT: ${od.current_assigned_adt != null ? Number(od.current_assigned_adt).toFixed(2) : 'N/A'}`
-    ].map(escapeCSV).join(','));
+    ].filter((_, i) => i !== 4).map(escapeCSV).join(','));
   });
   return lines.join('\n');
 }
@@ -5826,7 +5849,7 @@ function downloadSelectedBridgeCsv(bridge = selectedMapBridge) {
   const blob = new Blob(['\ufeff' + csv], { type: 'text/csv;charset=utf-8;' });
   const link = document.createElement('a');
   link.href = URL.createObjectURL(blob);
-  link.download = `uganda_bridge_selected_details_${safeName || 'bridge'}.csv`;
+  link.download = readableDownloadName(`uganda_bridge_selected_details_${safeName || 'bridge'}.csv`);
   link.click();
   URL.revokeObjectURL(link.href);
 }
@@ -5935,7 +5958,7 @@ function updateBridgeAnalyticsPane(bridge) {
       </div>
       <div class="pane-section-title" style="margin-top: 20px; color: var(--accent-cyan); font-weight: 800; letter-spacing: 1.1px;">BRIDGES NETWORK SUMMARY</div>
       <div class="pane-metrics">
-        <div class="pane-metric"><strong>${fmt(activeBridges.length)}</strong><span>BRIDGE CROSSINGS</span></div>
+        <div class="pane-metric"><strong>${fmt(activeBridges.length)}</strong><span>BRIDGE CROSSINGS, FY 2026/27</span></div>
         <div class="pane-metric"><strong>${fmt(bridgeLinks.size)}</strong><span>HOST ROAD LINKS</span></div>
         <div class="pane-metric"><strong>${fmt(totalLength, 0)} m</strong><span>TOTAL BRIDGE LENGTH</span></div>
         <div class="pane-metric"><strong>${fmt(avgAadt, 0)}</strong><span>AVG ASSIGNED ADT</span></div>
@@ -7120,13 +7143,15 @@ function roadColor(road) {
 }
 
 function roadWidth(road) {
-  const base = 1.8;
-  return base / Math.sqrt(Math.max(1, mapScale));
+  // Roads are the primary visual focus of the map
+  const base = 3.6;
+  return base / Math.pow(Math.max(1, mapScale), 0.42);
 }
 
 function networkRoadWidth(road) {
-  const base = 1.8;
-  return base / Math.sqrt(Math.max(1, mapScale));
+  // National road network lines prominent across all zoom levels
+  const base = 3.2;
+  return base / Math.pow(Math.max(1, mapScale), 0.42);
 }
 
 function drawLineGeometry(ctx, canvas, road) {
@@ -7155,11 +7180,11 @@ function drawNationalRoadNetwork(ctx, canvas) {
       cls === 'C' ? 'rgba(34,197,94,0.85)' :
       isPaved ? 'rgba(226,232,240,0.58)' :
       'rgba(203,213,225,0.42)';
-    ctx.globalAlpha = 0.38;
+    ctx.globalAlpha = 0.85;
     ctx.strokeStyle = 'rgba(2,6,23,0.9)';
-    ctx.lineWidth = width + (0.55 / Math.sqrt(Math.max(1, mapScale)));
+    ctx.lineWidth = width + (1.2 / Math.pow(Math.max(1, mapScale), 0.42));
     drawLineGeometry(ctx, canvas, road);
-    ctx.globalAlpha = 0.82;
+    ctx.globalAlpha = 0.95;
     ctx.strokeStyle = topColor;
     ctx.lineWidth = width;
     drawLineGeometry(ctx, canvas, road);
@@ -7177,11 +7202,11 @@ function drawRoadLayer(ctx, canvas, activeLinkSet) {
   ROAD_GEOMETRY.forEach(road => {
     const active = !searchHasFilter || activeLinkSet.has(road.id);
     const width = roadWidth(road);
-    ctx.globalAlpha = active ? 0.55 : 0.16;
+    ctx.globalAlpha = active ? 0.75 : 0.25;
     ctx.strokeStyle = 'rgba(2,6,23,0.96)';
-    ctx.lineWidth = width + (0.65 / Math.sqrt(Math.max(1, mapScale)));
+    ctx.lineWidth = width + (1.2 / Math.pow(Math.max(1, mapScale), 0.42));
     drawLineGeometry(ctx, canvas, road);
-    ctx.globalAlpha = active ? 0.92 : 0.28;
+    ctx.globalAlpha = active ? 0.98 : 0.40;
     ctx.strokeStyle = roadColor(road);
     ctx.lineWidth = width;
     drawLineGeometry(ctx, canvas, road);
@@ -7535,13 +7560,18 @@ function drawMapLabels(ctx, canvas) {
 }
 
 function drawBridgeSymbol(ctx, x, y, size, options = {}) {
-  const scaleSize = size / mapScale;
+  // Zoom-responsive point feature sizing:
+  // Really small at national overview, smoothly growing as the user zooms in
+  const zoomFactor = Math.pow(Math.max(1, mapScale), 0.65);
+  const baseScreenSize = (options.active === false ? 1.5 : (size ? size * 0.52 : 2.5));
+  const dynamicScreenSize = Math.max(1.8, Math.min(14.0, baseScreenSize * zoomFactor));
+  const scaleSize = dynamicScreenSize / mapScale;
   const isSelected = !!options.selected;
   const isHovered = !!options.hovered;
   const isActive = options.active !== false;
   const fill = options.fill || BRIDGE_SYMBOL.fill;
-  const haloSize = scaleSize * (isSelected ? 2.35 : isHovered ? 2.05 : 1.65);
-  const diamond = scaleSize * (isSelected ? 1.32 : isHovered ? 1.18 : 1);
+  const haloSize = scaleSize * (isSelected ? 2.2 : isHovered ? 1.8 : (mapScale > 2.0 ? 1.5 : 1.1));
+  const diamond = scaleSize * (isSelected ? 1.3 : isHovered ? 1.15 : 1);
 
   ctx.save();
   ctx.globalAlpha = isActive ? (options.alpha ?? 1) : 0.16;
@@ -7700,8 +7730,8 @@ function drawMap() {
       const lat = c.map_y || c.y_new;
       if (lon == null || lat == null) return;
       const pt = getProjection(Number(lon), Number(lat), canvas.width, canvas.height);
-      const baseSize = 4.4;
-      const size = baseSize / mapScale;
+      const culvertScreenSize = Math.max(1.6, Math.min(11.0, 1.8 * Math.pow(Math.max(1, mapScale), 0.65)));
+      const size = culvertScreenSize / mapScale;
       ctx.save();
       ctx.fillStyle = '#f59e0b';
       ctx.strokeStyle = '#78350f';
@@ -7784,7 +7814,7 @@ function drawMap() {
       for (const c of candidates) {
         if (linkBridgeMap[c]) { matchedBridges = linkBridgeMap[c]; break; }
       }
-      // Also partial match — origin or dest appears in any link name
+      // Also partial match: origin or destination appears in any link name
       if (!matchedBridges.length) {
         const oLow = o.toLowerCase();
         const dLow = d.toLowerCase();
@@ -7933,7 +7963,7 @@ function drawMap() {
         } else if (col.key === 'estimated_adt' || col.key === 'total_count') {
           td.textContent = fmt(r[col.key]);
         } else if (col.key === 'origin' || col.key === 'destination') {
-          td.textContent = toTitleCase(r[col.key]) || 'N/A';
+          td.textContent = tableDisplayText(r[col.key], col.key);
         } else {
           td.textContent = r[col.key] || 'N/A';
         }
@@ -8390,7 +8420,7 @@ function initPhotosTab() {
     const photos = PHOTOS_DATA[id] || [];
     const name = photoStructureName(id);
     galleryEl.innerHTML =
-      `<div style="grid-column:1/-1;font-weight:700;font-size:14px;margin-bottom:4px">${id}${name ? ' · ' + name : ''} — ${photos.length} photo(s)</div>`
+      `<div style="grid-column:1/-1;font-weight:700;font-size:14px;margin-bottom:4px">${id}${name ? ' · ' + name : ''} - ${photos.length} photo(s)</div>`
       + photos.map(src =>
         `<a href="${src}" target="_blank" rel="noopener" style="display:block;aspect-ratio:4/3;border-radius:8px;overflow:hidden;border:1px solid var(--border,rgba(99,130,255,0.2))">
            <img src="${src}" loading="lazy" alt="${id}" style="width:100%;height:100%;object-fit:cover">
@@ -8555,7 +8585,7 @@ function initStatisticsTab() {
   const bApproachesCond = {}; bridges.forEach(b => { const v = b.approaches_rating != null ? String(b.approaches_rating) : 'Unknown'; bApproachesCond[v] = (bApproachesCond[v] || 0) + 1; });
   const bRoadwayCond = {}; bridges.forEach(b => { const v = b.roadway_rating != null ? String(b.roadway_rating) : 'Unknown'; bRoadwayCond[v] = (bRoadwayCond[v] || 0) + 1; });
   const bWaterwayCond = {}; bridges.forEach(b => { const v = b.waterway_rating != null ? String(b.waterway_rating) : 'Unknown'; bWaterwayCond[v] = (bWaterwayCond[v] || 0) + 1; });
-  const bSurface = {}; bridges.forEach(b => { const v = b.surface_link || b.surface_ty || 'Unknown'; bSurface[v] = (bSurface[v] || 0) + 1; });
+  const bSurface = {}; bridges.forEach(b => { const v = canonicalSurfaceType(b.surface_link || b.surface_ty); bSurface[v] = (bSurface[v] || 0) + 1; });
   const bCrossingType = {}; bridges.forEach(b => { const v = bmsCodeDescription('type_crossing', b.type_crossing); bCrossingType[v] = (bCrossingType[v] || 0) + 1; });
   
   // Additional Culvert Aggregations
