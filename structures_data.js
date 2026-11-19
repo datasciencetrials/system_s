@@ -11605,8 +11605,8 @@ window.BRIDGE_DATA = {
       "properties": {
         "structure_id": "B162",
         "bridge_no": "B162",
-        "name": "Road Over River",
-        "bridge_nam": "Road Over River",
+        "name": "Atari Bridge",
+        "bridge_nam": "Atari Bridge",
         "road_no": "B300",
         "road_name": "Muyembe - Namalu",
         "road_descr_principal": "Muyembe - Namalu",
@@ -38389,8 +38389,8 @@ window.BRIDGE_DATA = {
       "properties": {
         "structure_id": "B871",
         "bridge_no": "B871",
-        "name": "Road Over River",
-        "bridge_nam": "Road Over River",
+        "name": "Not recorded",
+        "bridge_nam": "Not recorded",
         "road_no": "B304",
         "road_name": "Kapchorwa - Suam",
         "road_descr_principal": "Kapchorwa - Suam",

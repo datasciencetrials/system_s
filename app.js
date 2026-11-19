@@ -1158,6 +1158,9 @@ function initTabs() {
       if (tab.dataset.tab === 'statistics') {
         if (typeof initStatisticsTab === 'function') setTimeout(initStatisticsTab, 60);
       }
+      if (tab.dataset.tab === 'mind-map') {
+        if (typeof initMindMapTab === 'function') setTimeout(initMindMapTab, 60);
+      }
       if (tab.dataset.tab === 'bridge-traffic') {
         setTimeout(buildBridgeTrafficTab, 60);
       }
@@ -4420,7 +4423,18 @@ function openBridgeModal(target) {
   document.getElementById('mWaterwayScour').textContent = refText(`Scour risk: ${b.scour_risk === 'Active Scour Risk' || b.scour_risk === 'Y' ? 'Active Scour Risk' : 'No Scour Risk'}`, `Protection: ${decodeBmsCode('scour_protection', b.scour_protection)}`);
   document.getElementById('mComponentRatings').innerHTML = componentRatings;
   document.getElementById('mTownEndpoints').textContent = refText(b.town_left, b.town_right);
-  document.getElementById('mReferenceComment').textContent = b.comment || b.remarks || 'N/A';
+  const mDateEl = document.getElementById('mDateModified');
+  if (mDateEl) {
+    const rawD = String(b.date_modified || '').trim();
+    if (/^\d{2}\/\d{2}\/\d{4}$/.test(rawD)) {
+      mDateEl.textContent = rawD;
+    } else if (/^\d{4}-\d{2}-\d{2}/.test(rawD)) {
+      const p = rawD.slice(0, 10).split('-');
+      mDateEl.textContent = `${p[2]}/${p[1]}/${p[0]}`;
+    } else {
+      mDateEl.textContent = rawD || 'Not recorded';
+    }
+  }
 
   const _bm = document.getElementById('bridgeModal'); if (_bm) { if (_bm.parentElement !== document.body) document.body.appendChild(_bm); _bm.classList.add('active'); }
 }
@@ -5694,11 +5708,11 @@ function updateTimelineUI() {
   const yearSmall = document.getElementById('timelineCalendarYearSmall');
   const monthLabel = document.getElementById('timelineCalendarMonthLabel');
   const slider = document.getElementById('timelineSlider');
-  if (label) label.textContent = date.toLocaleDateString(undefined, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  if (label) label.textContent = date.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
   if (live) live.textContent = `${timelineYear} projection x${trafficProjectionFactor().toFixed(2)}`;
   if (yearLabel) yearLabel.textContent = timelineYear;
   if (yearSmall) yearSmall.textContent = timelineYear;
-  if (monthLabel) monthLabel.textContent = date.toLocaleDateString(undefined, { month: 'long' });
+  if (monthLabel) monthLabel.textContent = date.toLocaleDateString('en-GB', { month: 'long' });
   if (slider) slider.value = timelineYear;
   document.querySelectorAll('.calendar-month-btn').forEach(btn => btn.classList.toggle('active', Number(btn.dataset.month) === timelineMonth));
   renderTimelineCalendar();
@@ -8433,8 +8447,8 @@ function initPhotosTab() {
 
   const btnStyle = (active) => `display:flex;align-items:baseline;gap:8px;width:100%;text-align:left;`
     + `padding:7px 10px;border-radius:7px;cursor:pointer;font-family:inherit;`
-    + `border:1px solid ${active ? 'var(--accent-cyan,#22d3ff)' : 'transparent'};`
-    + `background:${active ? 'rgba(34,211,255,0.12)' : 'rgba(255,255,255,0.03)'};color:var(--text-primary,#f0f3fa);`;
+    + `border:1px solid ${active ? '#0071E3' : '#E2E8F0'};`
+    + `background:${active ? '#EFF6FF' : '#FFFFFF'};color:#0F172A;`;
 
   function renderList(filter) {
     const f = (filter || '').trim().toUpperCase();
@@ -8442,8 +8456,8 @@ function initPhotosTab() {
     listEl.innerHTML = shown.length ? shown.map(id =>
       `<button data-id="${id}" style="${btnStyle(id === selected)}">
          <strong style="font-size:13px">${id}</strong>
-         <span style="font-size:10px;color:var(--accent-cyan,#22d3ff);font-weight:700">${PHOTOS_DATA[id].length}</span>
-         <small style="font-size:10px;color:var(--text-muted,#9aa5c4);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${photoStructureName(id)}</small>
+         <span style="font-size:10px;color:#0071E3;font-weight:700">${PHOTOS_DATA[id].length}</span>
+         <small style="font-size:10px;color:#475569;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${photoStructureName(id)}</small>
        </button>`).join('') : '<div class="empty-state"><p>No structure matches.</p></div>';
     listEl.querySelectorAll('button[data-id]').forEach(b => { b.onclick = () => selectStruct(b.dataset.id); });
   }
@@ -8724,7 +8738,7 @@ const chartConfigs = [
   let html = '';
   chartConfigs.forEach(c => {
     html += `
-      <div class="card" style="box-shadow:none; border:1px solid rgba(255,255,255,0.05); min-height: 250px;">
+      <div class="card" style="box-shadow:0 1px 3px rgba(0,0,0,0.05); border:1px solid #E2E8F0; min-height: 250px; background:#FFFFFF;">
         <div class="card-title">${htmlEscape(c.title)}</div>
         <div class="chart-container" style="position: relative; height: 220px;"><canvas id="${c.id}"></canvas></div>
       </div>
@@ -8737,25 +8751,25 @@ const chartConfigs = [
   
   const summaryCardsHtml = `
     <div style="grid-column: 1 / -1; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 1rem;">
-      <div class="card" style="border-left: 4px solid #0f8fa8; padding: 16px;">
-        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #94a3b8; margin-bottom: 8px;">Total Assets</div>
-        <div style="font-size: 28px; font-weight: 700; color: #fff;">${bridges.length + culverts.length}</div>
-        <div style="font-size: 12px; color: #64748b; margin-top: 4px;">${bridges.length} Bridges, ${culverts.length} Culverts</div>
+      <div class="card" style="border-left: 4px solid #0071E3; padding: 16px;">
+        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #475569; margin-bottom: 8px;">Total Structures</div>
+        <div style="font-size: 28px; font-weight: 700; color: #0F172A;">${bridges.length + culverts.length}</div>
+        <div style="font-size: 12px; color: #475569; margin-top: 4px;">${bridges.length} Bridges, ${culverts.length} Major Culverts</div>
       </div>
-      <div class="card" style="border-left: 4px solid #10b981; padding: 16px;">
-        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #94a3b8; margin-bottom: 8px;">Assets in Good Condition</div>
-        <div style="font-size: 28px; font-weight: 700; color: #fff;">${goodCondition}</div>
-        <div style="font-size: 12px; color: #10b981; margin-top: 4px;">${Math.round(goodCondition / (bridges.length + culverts.length) * 100)}% of network</div>
+      <div class="card" style="border-left: 4px solid #16A34A; padding: 16px;">
+        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #475569; margin-bottom: 8px;">Structures in Good Condition</div>
+        <div style="font-size: 28px; font-weight: 700; color: #0F172A;">${goodCondition}</div>
+        <div style="font-size: 12px; color: #16A34A; margin-top: 4px;">${Math.round(goodCondition / (bridges.length + culverts.length) * 100)}% of structures</div>
       </div>
-      <div class="card" style="border-left: 4px solid #ef4444; padding: 16px;">
-        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #94a3b8; margin-bottom: 8px;">Critical/Poor Assets</div>
-        <div style="font-size: 28px; font-weight: 700; color: #fff;">${poorCondition}</div>
-        <div style="font-size: 12px; color: #ef4444; margin-top: 4px;">Require immediate intervention</div>
+      <div class="card" style="border-left: 4px solid #DC2626; padding: 16px;">
+        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #475569; margin-bottom: 8px;">Critical/Poor Structures</div>
+        <div style="font-size: 28px; font-weight: 700; color: #0F172A;">${poorCondition}</div>
+        <div style="font-size: 12px; color: #DC2626; margin-top: 4px;">Require immediate intervention</div>
       </div>
-      <div class="card" style="border-left: 4px solid #a855f7; padding: 16px;">
-        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #94a3b8; margin-bottom: 8px;">Total Bridge Span Covered</div>
-        <div style="font-size: 28px; font-weight: 700; color: #fff;">${Math.round(totalLength).toLocaleString()} m</div>
-        <div style="font-size: 12px; color: #64748b; margin-top: 4px;">Sum of all recorded lengths</div>
+      <div class="card" style="border-left: 4px solid #7C3AED; padding: 16px;">
+        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #475569; margin-bottom: 8px;">Total Bridge Span Covered</div>
+        <div style="font-size: 28px; font-weight: 700; color: #0F172A;">${Math.round(totalLength).toLocaleString()} m</div>
+        <div style="font-size: 12px; color: #475569; margin-top: 4px;">Sum of all bridge span lengths</div>
       </div>
     </div>
   `;
@@ -8782,12 +8796,12 @@ container.innerHTML = html;
         maintainAspectRatio: false,
         indexAxis: c.indexAxis || 'x',
         plugins: {
-          legend: { display: isPie || !!c.datasets, position: isPie ? 'right' : (c.datasets ? 'top' : 'right'), labels: { color: '#334155', font: { size: 10 } } },
+          legend: { display: isPie || !!c.datasets, position: isPie ? 'right' : (c.datasets ? 'top' : 'right'), labels: { color: '#0F172A', font: { size: 10 } } },
           tooltip: {
-            backgroundColor: 'rgba(15,23,42,0.9)',
-            titleColor: '#fff',
-            bodyColor: '#cbd5e1',
-            borderColor: 'rgba(255,255,255,0.1)',
+            backgroundColor: '#FFFFFF',
+            titleColor: '#0F172A',
+            bodyColor: '#334155',
+            borderColor: '#E2E8F0',
             borderWidth: 1,
             padding: 10
           }
