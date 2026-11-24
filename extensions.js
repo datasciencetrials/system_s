@@ -180,7 +180,7 @@ function initMindMapTab() {
     id: 'root',
     title: 'System S: National Bridges & Traffic Intelligence',
     color: '#0071E3',
-    desc: 'View-only MoWT Department of National Roads platform integrating 552 bridges, 452 major culverts, and 21,284.02 km of National Roads with Vision 2040 projections.',
+    desc: 'View-only National Road Network NATIONAL ROAD NETWORK ADMINISTRATION platform integrating 552 bridges, 452 major culverts, and 21,284.02 km of National Roads with Vision 2040 projections.',
     expanded: true,
     children: [
       {

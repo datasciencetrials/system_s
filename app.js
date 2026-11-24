@@ -488,7 +488,7 @@ const TABLE_CASE_ACRONYMS = {
   'rc': 'RC',
   'rhs': 'RHS',
   'sqlbot': 'SQLBot',
-  'authority': 'MoWT Department of National Roads',
+  'authority': 'National Road Network NATIONAL ROAD NETWORK ADMINISTRATION',
   '4wd': '4WD'
 };
 
@@ -1300,7 +1300,7 @@ const BMS_CODE_LOOKUPS = {
     '09': 'Agricultural underpass', '10': 'Road over water pipes', '11': 'Road over conveyer belt',
     '12': 'Conveyer belt over road', '13': 'Other', '?': 'Unknown'
   },
-  owner: { '01': 'MoWT Department of National Roads', '06': 'Municipal / Local Government', '07': 'Private', '08': 'Other', '?': 'Unknown' },
+  owner: { '01': 'National Road Network NATIONAL ROAD NETWORK ADMINISTRATION', '06': 'Municipal / Local Government', '07': 'Private', '08': 'Other', '?': 'Unknown' },
   type_bridge: {
     '01': 'Simply supported span', '02': 'Continuous span', '03': 'Double cantilevered span', '04': 'Single cantilevered span',
     '05': 'Single suspended simply supported span', '06': 'Suspended span', '07': 'Portal frame', '08': 'Cantilevered construction',

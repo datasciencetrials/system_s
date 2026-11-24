@@ -59,7 +59,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -69,7 +69,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 12040,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -131,7 +131,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -141,7 +141,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 12040,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -203,7 +203,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1958,
         "CompletionYear": 1958,
         "road_class": "Class A (International Trunk Road)",
@@ -213,7 +213,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 18985,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -275,7 +275,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1958,
         "CompletionYear": 1958,
         "road_class": "Class A (International Trunk Road)",
@@ -285,7 +285,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 8993,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -347,7 +347,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -357,7 +357,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3049,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -419,7 +419,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -429,7 +429,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2321,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -491,7 +491,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -501,7 +501,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2321,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -563,7 +563,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class A (International Trunk Road)",
@@ -573,7 +573,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2321,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -635,7 +635,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class A (International Trunk Road)",
@@ -645,7 +645,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2333,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -707,7 +707,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -717,7 +717,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2333,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -779,7 +779,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class A (International Trunk Road)",
@@ -789,7 +789,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3647,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -851,7 +851,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2012,
         "CompletionYear": 2012,
         "road_class": "Class A (International Trunk Road)",
@@ -861,7 +861,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 8329,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -923,7 +923,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1989,
         "CompletionYear": 1989,
         "road_class": "Class A (International Trunk Road)",
@@ -933,7 +933,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3674,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -995,7 +995,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -1005,7 +1005,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1151,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1067,7 +1067,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1989,
         "CompletionYear": 1989,
         "road_class": "Class A (International Trunk Road)",
@@ -1077,7 +1077,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3390,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1139,7 +1139,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -1149,7 +1149,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1211,7 +1211,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -1221,7 +1221,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 127,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1283,7 +1283,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -1293,7 +1293,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1355,7 +1355,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -1365,7 +1365,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1148,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1427,7 +1427,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -1437,7 +1437,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1499,7 +1499,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -1509,7 +1509,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2003,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1571,7 +1571,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -1581,7 +1581,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1643,7 +1643,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1962,
         "CompletionYear": 1962,
         "road_class": "Class A (International Trunk Road)",
@@ -1653,7 +1653,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3800,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1715,7 +1715,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -1725,7 +1725,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5217,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1787,7 +1787,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -1797,7 +1797,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3754,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1859,7 +1859,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1969,
         "CompletionYear": 1969,
         "road_class": "Class A (International Trunk Road)",
@@ -1869,7 +1869,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 23461,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -1931,7 +1931,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -1941,7 +1941,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 10668,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2003,7 +2003,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -2013,7 +2013,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 10668,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2075,7 +2075,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -2085,7 +2085,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 10668,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2147,7 +2147,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -2157,7 +2157,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 8891,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2219,7 +2219,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -2229,7 +2229,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3128,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2291,7 +2291,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Riprap",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class A (International Trunk Road)",
@@ -2301,7 +2301,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2895,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2363,7 +2363,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class A (International Trunk Road)",
@@ -2373,7 +2373,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2895,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2435,7 +2435,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class A (International Trunk Road)",
@@ -2445,7 +2445,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2895,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2507,7 +2507,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class A (International Trunk Road)",
@@ -2517,7 +2517,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2895,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2579,7 +2579,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -2589,7 +2589,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2651,7 +2651,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Riprap",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -2661,7 +2661,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2723,7 +2723,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -2733,7 +2733,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2795,7 +2795,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -2805,7 +2805,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2867,7 +2867,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -2877,7 +2877,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -2939,7 +2939,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -2949,7 +2949,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 10894,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3011,7 +3011,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -3021,7 +3021,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 27494,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3083,7 +3083,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -3093,7 +3093,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2214,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3155,7 +3155,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Other",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class B (National Trunk Road)",
@@ -3165,7 +3165,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3475,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3227,7 +3227,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -3237,7 +3237,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3299,7 +3299,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -3309,7 +3309,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 18799,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3371,7 +3371,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1989,
         "CompletionYear": 1989,
         "road_class": "Class B (National Trunk Road)",
@@ -3381,7 +3381,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5684,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3443,7 +3443,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -3453,7 +3453,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1258,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3515,7 +3515,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -3525,7 +3525,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1069,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3587,7 +3587,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1961,
         "CompletionYear": 1961,
         "road_class": "Class B (National Trunk Road)",
@@ -3597,7 +3597,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5887,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3659,7 +3659,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1961,
         "CompletionYear": 1961,
         "road_class": "Class B (National Trunk Road)",
@@ -3669,7 +3669,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5887,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3731,7 +3731,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1961,
         "CompletionYear": 1961,
         "road_class": "Class B (National Trunk Road)",
@@ -3741,7 +3741,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5887,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3803,7 +3803,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1961,
         "CompletionYear": 1961,
         "road_class": "Class B (National Trunk Road)",
@@ -3813,7 +3813,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 4183,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3875,7 +3875,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -3885,7 +3885,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -3947,7 +3947,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -3957,7 +3957,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4019,7 +4019,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -4029,7 +4029,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4091,7 +4091,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -4101,7 +4101,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4163,7 +4163,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Other",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -4173,7 +4173,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3610,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4235,7 +4235,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -4245,7 +4245,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3610,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4307,7 +4307,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -4317,7 +4317,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3610,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4379,7 +4379,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -4389,7 +4389,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 674,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4451,7 +4451,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -4461,7 +4461,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2022,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4523,7 +4523,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -4533,7 +4533,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4595,7 +4595,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -4605,7 +4605,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4667,7 +4667,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -4677,7 +4677,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4739,7 +4739,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -4749,7 +4749,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4811,7 +4811,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2005,
         "CompletionYear": 2005,
         "road_class": "Class C (Primary Road)",
@@ -4821,7 +4821,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2532,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4883,7 +4883,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -4893,7 +4893,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -4955,7 +4955,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -4965,7 +4965,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5027,7 +5027,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5037,7 +5037,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5099,7 +5099,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5109,7 +5109,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5171,7 +5171,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5181,7 +5181,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5243,7 +5243,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5253,7 +5253,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5315,7 +5315,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5325,7 +5325,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5387,7 +5387,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5397,7 +5397,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5459,7 +5459,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5469,7 +5469,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1598,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5531,7 +5531,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5541,7 +5541,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1049,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5603,7 +5603,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2017,
         "CompletionYear": 2017,
         "road_class": "Class C (Primary Road)",
@@ -5613,7 +5613,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2744,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5675,7 +5675,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5685,7 +5685,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 8031,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5747,7 +5747,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5757,7 +5757,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5819,7 +5819,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Other",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -5829,7 +5829,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5891,7 +5891,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -5901,7 +5901,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -5963,7 +5963,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -5973,7 +5973,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6035,7 +6035,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -6045,7 +6045,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6107,7 +6107,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -6117,7 +6117,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6179,7 +6179,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -6189,7 +6189,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6251,7 +6251,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -6261,7 +6261,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 383,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6323,7 +6323,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -6333,7 +6333,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1151,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6395,7 +6395,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -6405,7 +6405,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 650,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6467,7 +6467,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Riprap",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -6477,7 +6477,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 579,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6539,7 +6539,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -6549,7 +6549,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 579,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6611,7 +6611,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -6621,7 +6621,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 579,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6683,7 +6683,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -6693,7 +6693,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 579,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6755,7 +6755,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -6765,7 +6765,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4196,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6827,7 +6827,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -6837,7 +6837,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4196,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6899,7 +6899,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -6909,7 +6909,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4196,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -6971,7 +6971,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Precast pile curtain",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -6981,7 +6981,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4211,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7043,7 +7043,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7053,7 +7053,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4211,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7115,7 +7115,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7125,7 +7125,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4211,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7187,7 +7187,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7197,7 +7197,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7259,7 +7259,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7269,7 +7269,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1930,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7331,7 +7331,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7341,7 +7341,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1930,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7403,7 +7403,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7413,7 +7413,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1930,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7475,7 +7475,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7485,7 +7485,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1930,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7547,7 +7547,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7557,7 +7557,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2273,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7619,7 +7619,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7629,7 +7629,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2273,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7691,7 +7691,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -7701,7 +7701,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7763,7 +7763,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7773,7 +7773,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7835,7 +7835,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7845,7 +7845,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7907,7 +7907,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7917,7 +7917,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -7979,7 +7979,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -7989,7 +7989,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8051,7 +8051,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -8061,7 +8061,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8123,7 +8123,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -8133,7 +8133,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8195,7 +8195,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -8205,7 +8205,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 855,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8267,7 +8267,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -8277,7 +8277,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3856,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8339,7 +8339,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -8349,7 +8349,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3856,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8411,7 +8411,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -8421,7 +8421,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3454,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8483,7 +8483,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2016,
         "CompletionYear": 2016,
         "road_class": "Class A (International Trunk Road)",
@@ -8493,7 +8493,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3454,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8555,7 +8555,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -8565,7 +8565,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5280,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8627,7 +8627,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -8637,7 +8637,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 4063,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8699,7 +8699,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -8709,7 +8709,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5280,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8771,7 +8771,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Riprap",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -8781,7 +8781,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5280,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8843,7 +8843,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Riprap",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -8853,7 +8853,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5280,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8915,7 +8915,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -8925,7 +8925,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5280,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -8987,7 +8987,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -8997,7 +8997,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5280,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9059,7 +9059,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -9069,7 +9069,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 4063,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9131,7 +9131,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2025,
         "CompletionYear": 2025,
         "road_class": "Class B (National Trunk Road)",
@@ -9141,7 +9141,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 7587,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9203,7 +9203,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2025,
         "CompletionYear": 2025,
         "road_class": "Class B (National Trunk Road)",
@@ -9213,7 +9213,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 7587,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9275,7 +9275,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2025,
         "CompletionYear": 2025,
         "road_class": "Class B (National Trunk Road)",
@@ -9285,7 +9285,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 7587,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9347,7 +9347,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2025,
         "CompletionYear": 2025,
         "road_class": "Class B (National Trunk Road)",
@@ -9357,7 +9357,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 7587,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9419,7 +9419,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -9429,7 +9429,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 7587,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9491,7 +9491,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -9501,7 +9501,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9563,7 +9563,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -9573,7 +9573,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9635,7 +9635,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -9645,7 +9645,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1675,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9707,7 +9707,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -9717,7 +9717,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1675,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9779,7 +9779,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -9789,7 +9789,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1675,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9851,7 +9851,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -9861,7 +9861,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1796,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9923,7 +9923,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -9933,7 +9933,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1796,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -9995,7 +9995,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10005,7 +10005,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1796,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10067,7 +10067,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10077,7 +10077,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1796,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10139,7 +10139,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10149,7 +10149,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1796,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10211,7 +10211,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10221,7 +10221,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1796,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10283,7 +10283,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10293,7 +10293,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1796,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10355,7 +10355,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -10365,7 +10365,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 11447,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10427,7 +10427,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2006,
         "CompletionYear": 2006,
         "road_class": "Class A (International Trunk Road)",
@@ -10437,7 +10437,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 746,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10499,7 +10499,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -10509,7 +10509,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 11447,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10571,7 +10571,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10581,7 +10581,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3392,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10643,7 +10643,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10653,7 +10653,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3392,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10715,7 +10715,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10725,7 +10725,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5225,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10787,7 +10787,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10797,7 +10797,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5225,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10859,7 +10859,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -10869,7 +10869,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5225,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -10931,7 +10931,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -10941,7 +10941,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2842,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11003,7 +11003,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -11013,7 +11013,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2842,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11075,7 +11075,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -11085,7 +11085,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2842,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11147,7 +11147,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Other",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -11157,7 +11157,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3267,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11219,7 +11219,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -11229,7 +11229,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3267,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11291,7 +11291,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -11301,7 +11301,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3267,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11363,7 +11363,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -11373,7 +11373,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11435,7 +11435,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -11445,7 +11445,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11507,7 +11507,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -11517,7 +11517,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11579,7 +11579,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -11589,7 +11589,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11651,7 +11651,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -11661,7 +11661,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11723,7 +11723,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -11733,7 +11733,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11795,7 +11795,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -11805,7 +11805,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1443,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11867,7 +11867,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2016,
         "CompletionYear": 2016,
         "road_class": "Class B (National Trunk Road)",
@@ -11877,7 +11877,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 473,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -11939,7 +11939,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2016,
         "CompletionYear": 2016,
         "road_class": "Class B (National Trunk Road)",
@@ -11949,7 +11949,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 473,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12011,7 +12011,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2016,
         "CompletionYear": 2016,
         "road_class": "Class B (National Trunk Road)",
@@ -12021,7 +12021,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 473,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12083,7 +12083,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2016,
         "CompletionYear": 2016,
         "road_class": "Class B (National Trunk Road)",
@@ -12093,7 +12093,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 473,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12155,7 +12155,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12165,7 +12165,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1148,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12227,7 +12227,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12237,7 +12237,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1148,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12299,7 +12299,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12309,7 +12309,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1022,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12371,7 +12371,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12381,7 +12381,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12443,7 +12443,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12453,7 +12453,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12515,7 +12515,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12525,7 +12525,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12587,7 +12587,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12597,7 +12597,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12659,7 +12659,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12669,7 +12669,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12731,7 +12731,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12741,7 +12741,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12803,7 +12803,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12813,7 +12813,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12875,7 +12875,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12885,7 +12885,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1022,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -12947,7 +12947,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Other",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -12957,7 +12957,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 861,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13019,7 +13019,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -13029,7 +13029,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 861,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13091,7 +13091,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -13101,7 +13101,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2003,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13163,7 +13163,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -13173,7 +13173,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2003,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13235,7 +13235,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -13245,7 +13245,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2003,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13307,7 +13307,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -13317,7 +13317,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 470,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13379,7 +13379,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class C (Primary Road)",
@@ -13389,7 +13389,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 735,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13451,7 +13451,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -13461,7 +13461,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1773,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13523,7 +13523,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -13533,7 +13533,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1515,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13595,7 +13595,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -13605,7 +13605,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1515,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13667,7 +13667,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -13677,7 +13677,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1359,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13739,7 +13739,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -13749,7 +13749,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1359,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13811,7 +13811,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -13821,7 +13821,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1359,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13883,7 +13883,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -13893,7 +13893,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1359,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -13955,7 +13955,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -13965,7 +13965,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1834,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14027,7 +14027,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -14037,7 +14037,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1834,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14099,7 +14099,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14109,7 +14109,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1652,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14171,7 +14171,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14181,7 +14181,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1411,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14243,7 +14243,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14253,7 +14253,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 901,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14315,7 +14315,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14325,7 +14325,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 901,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14387,7 +14387,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14397,7 +14397,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 901,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14459,7 +14459,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14469,7 +14469,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 901,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14531,7 +14531,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14541,7 +14541,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14603,7 +14603,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14613,7 +14613,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14675,7 +14675,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -14685,7 +14685,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14747,7 +14747,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -14757,7 +14757,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3267,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14819,7 +14819,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14829,7 +14829,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14891,7 +14891,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14901,7 +14901,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 800,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -14963,7 +14963,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -14973,7 +14973,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 515,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15035,7 +15035,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15045,7 +15045,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 515,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15107,7 +15107,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15117,7 +15117,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1111,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15179,7 +15179,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15189,7 +15189,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1111,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15251,7 +15251,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15261,7 +15261,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1111,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15323,7 +15323,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15333,7 +15333,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 515,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15395,7 +15395,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15405,7 +15405,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 515,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15467,7 +15467,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15477,7 +15477,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1324,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15539,7 +15539,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15549,7 +15549,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1324,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15611,7 +15611,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15621,7 +15621,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 289,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15683,7 +15683,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15693,7 +15693,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 6246,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15755,7 +15755,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -15765,7 +15765,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15827,7 +15827,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15837,7 +15837,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3452,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15899,7 +15899,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -15909,7 +15909,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -15971,7 +15971,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -15981,7 +15981,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 433,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16043,7 +16043,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16053,7 +16053,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 960,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16115,7 +16115,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -16125,7 +16125,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16187,7 +16187,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16197,7 +16197,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2536,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16259,7 +16259,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -16269,7 +16269,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16331,7 +16331,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16341,7 +16341,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1020,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16403,7 +16403,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16413,7 +16413,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1058,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16475,7 +16475,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16485,7 +16485,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1049,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16547,7 +16547,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16557,7 +16557,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16619,7 +16619,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16629,7 +16629,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 183,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16691,7 +16691,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16701,7 +16701,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 780,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16763,7 +16763,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16773,7 +16773,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 780,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16835,7 +16835,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16845,7 +16845,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1255,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16907,7 +16907,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16917,7 +16917,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1255,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -16979,7 +16979,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -16989,7 +16989,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1255,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17051,7 +17051,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -17061,7 +17061,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1255,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17123,7 +17123,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -17133,7 +17133,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 821,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17195,7 +17195,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class C (Primary Road)",
@@ -17205,7 +17205,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1644,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17267,7 +17267,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -17277,7 +17277,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1644,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17339,7 +17339,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class C (Primary Road)",
@@ -17349,7 +17349,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2246,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17411,7 +17411,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -17421,7 +17421,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17483,7 +17483,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -17493,7 +17493,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 698,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17555,7 +17555,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -17565,7 +17565,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17627,7 +17627,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -17637,7 +17637,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17699,7 +17699,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -17709,7 +17709,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 698,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17771,7 +17771,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -17781,7 +17781,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17843,7 +17843,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -17853,7 +17853,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 698,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17915,7 +17915,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -17925,7 +17925,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1235,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -17987,7 +17987,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -17997,7 +17997,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18059,7 +18059,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18069,7 +18069,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1935,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18131,7 +18131,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18141,7 +18141,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18203,7 +18203,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18213,7 +18213,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18275,7 +18275,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -18285,7 +18285,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18347,7 +18347,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18357,7 +18357,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1055,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18419,7 +18419,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18429,7 +18429,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2802,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18491,7 +18491,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -18501,7 +18501,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18563,7 +18563,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18573,7 +18573,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2802,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18635,7 +18635,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18645,7 +18645,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2802,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18707,7 +18707,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18717,7 +18717,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2802,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18779,7 +18779,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18789,7 +18789,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2802,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18851,7 +18851,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -18861,7 +18861,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18923,7 +18923,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -18933,7 +18933,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4006,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -18995,7 +18995,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19005,7 +19005,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1055,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19067,7 +19067,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19077,7 +19077,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1457,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19139,7 +19139,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19149,7 +19149,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19211,7 +19211,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19221,7 +19221,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 674,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19283,7 +19283,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19293,7 +19293,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1235,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19355,7 +19355,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19365,7 +19365,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4006,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19427,7 +19427,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class C (Primary Road)",
@@ -19437,7 +19437,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2256,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19499,7 +19499,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19509,7 +19509,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1753,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19571,7 +19571,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19581,7 +19581,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1559,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19643,7 +19643,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -19653,7 +19653,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19715,7 +19715,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19725,7 +19725,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1559,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19787,7 +19787,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19797,7 +19797,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19859,7 +19859,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19869,7 +19869,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1015,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -19931,7 +19931,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -19941,7 +19941,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1801,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20003,7 +20003,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20013,7 +20013,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20075,7 +20075,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20085,7 +20085,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20147,7 +20147,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -20157,7 +20157,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20219,7 +20219,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20229,7 +20229,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1679,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20291,7 +20291,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20301,7 +20301,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 489,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20363,7 +20363,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20373,7 +20373,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 489,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20435,7 +20435,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20445,7 +20445,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1148,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20507,7 +20507,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20517,7 +20517,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1970,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20579,7 +20579,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20589,7 +20589,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1970,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20651,7 +20651,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20661,7 +20661,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1970,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20723,7 +20723,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20733,7 +20733,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1970,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20795,7 +20795,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20805,7 +20805,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2035,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20867,7 +20867,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20877,7 +20877,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2035,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -20939,7 +20939,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -20949,7 +20949,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1970,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21011,7 +21011,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21021,7 +21021,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1359,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21083,7 +21083,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Precast pile curtain",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21093,7 +21093,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21155,7 +21155,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21165,7 +21165,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21227,7 +21227,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21237,7 +21237,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21299,7 +21299,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21309,7 +21309,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21371,7 +21371,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21381,7 +21381,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21443,7 +21443,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21453,7 +21453,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21515,7 +21515,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21525,7 +21525,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 296,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21587,7 +21587,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21597,7 +21597,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1970,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21659,7 +21659,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21669,7 +21669,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1831,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21731,7 +21731,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21741,7 +21741,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1831,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21803,7 +21803,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -21813,7 +21813,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1831,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21875,7 +21875,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -21885,7 +21885,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -21947,7 +21947,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -21957,7 +21957,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22019,7 +22019,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -22029,7 +22029,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22091,7 +22091,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -22101,7 +22101,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22163,7 +22163,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22173,7 +22173,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1836,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22235,7 +22235,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -22245,7 +22245,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22307,7 +22307,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -22317,7 +22317,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22379,7 +22379,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -22389,7 +22389,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22451,7 +22451,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22461,7 +22461,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1836,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22523,7 +22523,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22533,7 +22533,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1836,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22595,7 +22595,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22605,7 +22605,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1208,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22667,7 +22667,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22677,7 +22677,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1208,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22739,7 +22739,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22749,7 +22749,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22811,7 +22811,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22821,7 +22821,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22883,7 +22883,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22893,7 +22893,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -22955,7 +22955,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -22965,7 +22965,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23027,7 +23027,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23037,7 +23037,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23099,7 +23099,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23109,7 +23109,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23171,7 +23171,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -23181,7 +23181,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23243,7 +23243,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23253,7 +23253,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1652,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23315,7 +23315,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23325,7 +23325,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23387,7 +23387,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23397,7 +23397,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23459,7 +23459,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23469,7 +23469,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23531,7 +23531,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23541,7 +23541,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23603,7 +23603,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23613,7 +23613,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23675,7 +23675,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -23685,7 +23685,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23747,7 +23747,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23757,7 +23757,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2314,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23819,7 +23819,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23829,7 +23829,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 483,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23891,7 +23891,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23901,7 +23901,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 483,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -23963,7 +23963,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -23973,7 +23973,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 483,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24035,7 +24035,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24045,7 +24045,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1208,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24107,7 +24107,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24117,7 +24117,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 988,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24179,7 +24179,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24189,7 +24189,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 531,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24251,7 +24251,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24261,7 +24261,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 531,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24323,7 +24323,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24333,7 +24333,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 531,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24395,7 +24395,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24405,7 +24405,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 531,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24467,7 +24467,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24477,7 +24477,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 531,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24539,7 +24539,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -24549,7 +24549,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24611,7 +24611,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -24621,7 +24621,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24683,7 +24683,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -24693,7 +24693,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24755,7 +24755,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24765,7 +24765,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1564,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24827,7 +24827,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24837,7 +24837,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1564,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24899,7 +24899,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24909,7 +24909,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1564,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -24971,7 +24971,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -24981,7 +24981,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 988,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25043,7 +25043,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25053,7 +25053,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1501,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25115,7 +25115,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25125,7 +25125,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 330,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25187,7 +25187,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -25197,7 +25197,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25259,7 +25259,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -25269,7 +25269,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25331,7 +25331,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25341,7 +25341,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25403,7 +25403,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -25413,7 +25413,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25475,7 +25475,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25485,7 +25485,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1393,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25547,7 +25547,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25557,7 +25557,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1393,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25619,7 +25619,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -25629,7 +25629,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25691,7 +25691,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25701,7 +25701,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25763,7 +25763,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -25773,7 +25773,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25835,7 +25835,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25845,7 +25845,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25907,7 +25907,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25917,7 +25917,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -25979,7 +25979,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -25989,7 +25989,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1418,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26051,7 +26051,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26061,7 +26061,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1418,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26123,7 +26123,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26133,7 +26133,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1910,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26195,7 +26195,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26205,7 +26205,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2273,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26267,7 +26267,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26277,7 +26277,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2273,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26339,7 +26339,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26349,7 +26349,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 855,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26411,7 +26411,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26421,7 +26421,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 855,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26483,7 +26483,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26493,7 +26493,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 855,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26555,7 +26555,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26565,7 +26565,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1809,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26627,7 +26627,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26637,7 +26637,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1809,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26699,7 +26699,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -26709,7 +26709,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26771,7 +26771,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26781,7 +26781,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1809,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26843,7 +26843,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -26853,7 +26853,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26915,7 +26915,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -26925,7 +26925,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -26987,7 +26987,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -26997,7 +26997,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27059,7 +27059,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -27069,7 +27069,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27131,7 +27131,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -27141,7 +27141,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27203,7 +27203,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27213,7 +27213,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3856,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27275,7 +27275,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27285,7 +27285,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2301,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27347,7 +27347,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27357,7 +27357,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 127,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27419,7 +27419,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27429,7 +27429,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 127,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27491,7 +27491,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27501,7 +27501,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 325,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27563,7 +27563,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27573,7 +27573,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 840,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27635,7 +27635,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27645,7 +27645,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 582,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27707,7 +27707,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -27717,7 +27717,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27779,7 +27779,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -27789,7 +27789,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27851,7 +27851,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -27861,7 +27861,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5684,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27923,7 +27923,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -27933,7 +27933,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -27995,7 +27995,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -28005,7 +28005,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4006,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28067,7 +28067,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -28077,7 +28077,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 56641,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28139,7 +28139,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -28149,7 +28149,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28211,7 +28211,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2010,
         "CompletionYear": 2010,
         "road_class": "Class C (Primary Road)",
@@ -28221,7 +28221,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 28945,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28283,7 +28283,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -28293,7 +28293,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28355,7 +28355,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -28365,7 +28365,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28427,7 +28427,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -28437,7 +28437,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28499,7 +28499,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -28509,7 +28509,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28571,7 +28571,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -28581,7 +28581,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28643,7 +28643,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -28653,7 +28653,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28715,7 +28715,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -28725,7 +28725,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2214,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28787,7 +28787,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -28797,7 +28797,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28859,7 +28859,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -28869,7 +28869,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1324,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -28931,7 +28931,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -28941,7 +28941,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1324,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29003,7 +29003,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -29013,7 +29013,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29075,7 +29075,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -29085,7 +29085,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29147,7 +29147,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -29157,7 +29157,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29219,7 +29219,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -29229,7 +29229,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1836,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29291,7 +29291,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -29301,7 +29301,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1836,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29363,7 +29363,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -29373,7 +29373,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29435,7 +29435,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -29445,7 +29445,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29507,7 +29507,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -29517,7 +29517,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1910,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29579,7 +29579,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Precast pile curtain",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -29589,7 +29589,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2273,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29651,7 +29651,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -29661,7 +29661,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29723,7 +29723,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -29733,7 +29733,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29795,7 +29795,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -29805,7 +29805,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1085,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29867,7 +29867,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -29877,7 +29877,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1208,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -29939,7 +29939,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -29949,7 +29949,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30011,7 +30011,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -30021,7 +30021,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30083,7 +30083,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -30093,7 +30093,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30155,7 +30155,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -30165,7 +30165,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 46451,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30227,7 +30227,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1962,
         "CompletionYear": 1962,
         "road_class": "Class A (International Trunk Road)",
@@ -30237,7 +30237,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3800,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30299,7 +30299,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -30309,7 +30309,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30371,7 +30371,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -30381,7 +30381,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30443,7 +30443,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -30453,7 +30453,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1874,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30515,7 +30515,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class A (International Trunk Road)",
@@ -30525,7 +30525,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 24837,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30587,7 +30587,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -30597,7 +30597,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 10894,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30659,7 +30659,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -30669,7 +30669,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 10894,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30731,7 +30731,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -30741,7 +30741,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3069,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30803,7 +30803,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -30813,7 +30813,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3069,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30875,7 +30875,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -30885,7 +30885,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 23876,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -30947,7 +30947,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -30957,7 +30957,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 7060,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31019,7 +31019,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -31029,7 +31029,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 30477,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31091,7 +31091,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -31101,7 +31101,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 10894,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31163,7 +31163,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -31173,7 +31173,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1137,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31235,7 +31235,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class A (International Trunk Road)",
@@ -31245,7 +31245,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 4535,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31307,7 +31307,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -31317,7 +31317,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1315,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31379,7 +31379,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1958,
         "CompletionYear": 1958,
         "road_class": "Class A (International Trunk Road)",
@@ -31389,7 +31389,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31451,7 +31451,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -31461,7 +31461,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 698,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31523,7 +31523,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -31533,7 +31533,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31595,7 +31595,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2017,
         "CompletionYear": 2017,
         "road_class": "Class C (Primary Road)",
@@ -31605,7 +31605,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2744,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31667,7 +31667,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -31677,7 +31677,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2214,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31739,7 +31739,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -31749,7 +31749,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31811,7 +31811,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -31821,7 +31821,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3565,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31883,7 +31883,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class B (National Trunk Road)",
@@ -31893,7 +31893,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 11314,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -31955,7 +31955,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2002,
         "CompletionYear": 2002,
         "road_class": "Class B (National Trunk Road)",
@@ -31965,7 +31965,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3475,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32027,7 +32027,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32037,7 +32037,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32099,7 +32099,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32109,7 +32109,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32171,7 +32171,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -32181,7 +32181,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32243,7 +32243,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -32253,7 +32253,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32315,7 +32315,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32325,7 +32325,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 717,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32387,7 +32387,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class A (International Trunk Road)",
@@ -32397,7 +32397,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2333,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32459,7 +32459,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32469,7 +32469,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 8031,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32531,7 +32531,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32541,7 +32541,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1255,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32603,7 +32603,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32613,7 +32613,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32675,7 +32675,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -32685,7 +32685,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2214,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32747,7 +32747,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class C (Primary Road)",
@@ -32757,7 +32757,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32819,7 +32819,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32829,7 +32829,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1288,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32891,7 +32891,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32901,7 +32901,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 631,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -32963,7 +32963,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -32973,7 +32973,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2214,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33035,7 +33035,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Other",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -33045,7 +33045,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33107,7 +33107,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -33117,7 +33117,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3856,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33179,7 +33179,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -33189,7 +33189,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33251,7 +33251,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -33261,7 +33261,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33323,7 +33323,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -33333,7 +33333,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1177,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33395,7 +33395,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -33405,7 +33405,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33467,7 +33467,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -33477,7 +33477,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2273,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33539,7 +33539,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -33549,7 +33549,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33611,7 +33611,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -33621,7 +33621,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3610,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33683,7 +33683,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -33693,7 +33693,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33755,7 +33755,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -33765,7 +33765,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33827,7 +33827,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -33837,7 +33837,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2559,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33899,7 +33899,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class C (Primary Road)",
@@ -33909,7 +33909,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1559,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -33971,7 +33971,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class C (Primary Road)",
@@ -33981,7 +33981,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1106,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34043,7 +34043,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -34053,7 +34053,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34115,7 +34115,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -34125,7 +34125,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 427,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34187,7 +34187,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Riprap",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -34197,7 +34197,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 2600,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34259,7 +34259,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -34269,7 +34269,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34331,7 +34331,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1962,
         "CompletionYear": 1962,
         "road_class": "Class A (International Trunk Road)",
@@ -34341,7 +34341,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5349,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34403,7 +34403,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -34413,7 +34413,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4006,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34475,7 +34475,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -34485,7 +34485,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4006,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34547,7 +34547,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -34557,7 +34557,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34619,7 +34619,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -34629,7 +34629,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34691,7 +34691,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -34701,7 +34701,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34763,7 +34763,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -34773,7 +34773,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34835,7 +34835,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -34845,7 +34845,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 3313,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34907,7 +34907,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -34917,7 +34917,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -34979,7 +34979,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -34989,7 +34989,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 366,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35051,7 +35051,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -35061,7 +35061,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35123,7 +35123,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -35133,7 +35133,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35195,7 +35195,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -35205,7 +35205,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35267,7 +35267,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -35277,7 +35277,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5280,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35339,7 +35339,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -35349,7 +35349,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1675,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35411,7 +35411,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -35421,7 +35421,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1675,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35483,7 +35483,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -35493,7 +35493,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 727,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35555,7 +35555,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -35565,7 +35565,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 861,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35627,7 +35627,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -35637,7 +35637,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 348,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35699,7 +35699,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -35709,7 +35709,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 348,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35771,7 +35771,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -35781,7 +35781,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 348,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35843,7 +35843,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -35853,7 +35853,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 988,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35915,7 +35915,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -35925,7 +35925,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 510,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -35987,7 +35987,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -35997,7 +35997,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 510,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36059,7 +36059,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -36069,7 +36069,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 510,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36131,7 +36131,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36141,7 +36141,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 510,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36203,7 +36203,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36213,7 +36213,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 510,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36275,7 +36275,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36285,7 +36285,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 510,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36347,7 +36347,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36357,7 +36357,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 988,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36419,7 +36419,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36429,7 +36429,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1292,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36491,7 +36491,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36501,7 +36501,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1801,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36563,7 +36563,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36573,7 +36573,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1292,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36635,7 +36635,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -36645,7 +36645,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 457,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36707,7 +36707,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36717,7 +36717,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 490,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36779,7 +36779,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36789,7 +36789,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1208,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36851,7 +36851,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36861,7 +36861,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 470,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36923,7 +36923,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -36933,7 +36933,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 296,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -36995,7 +36995,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -37005,7 +37005,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 988,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37067,7 +37067,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -37077,7 +37077,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1836,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37139,7 +37139,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -37149,7 +37149,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1836,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37211,7 +37211,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -37221,7 +37221,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37283,7 +37283,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -37293,7 +37293,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37355,7 +37355,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -37365,7 +37365,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 20711,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37427,7 +37427,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -37437,7 +37437,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 5247,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37499,7 +37499,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1969,
         "CompletionYear": 1969,
         "road_class": "Class A (International Trunk Road)",
@@ -37509,7 +37509,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 23461,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37571,7 +37571,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -37581,7 +37581,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37643,7 +37643,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -37653,7 +37653,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1324,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37715,7 +37715,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -37725,7 +37725,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 12040,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37787,7 +37787,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -37797,7 +37797,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 15755,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37859,7 +37859,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -37869,7 +37869,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 6097,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -37931,7 +37931,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -37941,7 +37941,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1930,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38003,7 +38003,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38013,7 +38013,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 4211,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38075,7 +38075,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1969,
         "CompletionYear": 1969,
         "road_class": "Class A (International Trunk Road)",
@@ -38085,7 +38085,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 23461,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38147,7 +38147,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38157,7 +38157,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1589,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38219,7 +38219,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38229,7 +38229,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1022,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38291,7 +38291,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -38301,7 +38301,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 861,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38363,7 +38363,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38373,7 +38373,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1930,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38435,7 +38435,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -38445,7 +38445,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38507,7 +38507,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -38517,7 +38517,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38579,7 +38579,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38589,7 +38589,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1930,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38651,7 +38651,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -38661,7 +38661,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38723,7 +38723,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38733,7 +38733,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5979,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38795,7 +38795,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38805,7 +38805,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1393,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38867,7 +38867,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -38877,7 +38877,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 1696,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -38939,7 +38939,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -38949,7 +38949,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 127,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39011,7 +39011,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -39021,7 +39021,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2214,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39083,7 +39083,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes and mattresses",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -39093,7 +39093,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1500,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39155,7 +39155,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -39165,7 +39165,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 1177,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39227,7 +39227,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Gabion boxes",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -39237,7 +39237,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 5180,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39299,7 +39299,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -39309,7 +39309,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2481,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39371,7 +39371,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -39381,7 +39381,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2481,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39443,7 +39443,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -39453,7 +39453,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2481,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39515,7 +39515,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "At risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class B (National Trunk Road)",
@@ -39525,7 +39525,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 2686,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39587,7 +39587,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "None",
         "scour_risk": "Not at risk of scour",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1975,
         "CompletionYear": 1975,
         "road_class": "Class C (Primary Road)",
@@ -39597,7 +39597,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Unpaved (Gravel)",
         "aadt_2026": 54,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39659,7 +39659,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -39669,7 +39669,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 723,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39731,7 +39731,7 @@ window.BRIDGE_DATA = {
         "scour_protection": "Stone pitching",
         "scour_risk": "Not recorded",
         "design_code": "BS5400",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -39741,7 +39741,7 @@ window.BRIDGE_DATA = {
         "SurfaceType": "Paved (Bituminous)",
         "aadt_2026": 3049,
         "growth_rate": 0.045,
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39784,7 +39784,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -39792,7 +39792,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39835,7 +39835,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -39843,7 +39843,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39886,7 +39886,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -39894,7 +39894,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39937,7 +39937,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -39945,7 +39945,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -39988,7 +39988,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -39996,7 +39996,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40039,7 +40039,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40047,7 +40047,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40090,7 +40090,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40098,7 +40098,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40141,7 +40141,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40149,7 +40149,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40192,7 +40192,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40200,7 +40200,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40243,7 +40243,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40251,7 +40251,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40294,7 +40294,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40302,7 +40302,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40345,7 +40345,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40353,7 +40353,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40396,7 +40396,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40404,7 +40404,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40447,7 +40447,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40455,7 +40455,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40498,7 +40498,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -40506,7 +40506,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40549,7 +40549,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2012,
         "CompletionYear": 2012,
         "road_class": "Class A (International Trunk Road)",
@@ -40557,7 +40557,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40600,7 +40600,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2012,
         "CompletionYear": 2012,
         "road_class": "Class A (International Trunk Road)",
@@ -40608,7 +40608,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40651,7 +40651,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2012,
         "CompletionYear": 2012,
         "road_class": "Class A (International Trunk Road)",
@@ -40659,7 +40659,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40702,7 +40702,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -40710,7 +40710,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40753,7 +40753,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -40761,7 +40761,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40804,7 +40804,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -40812,7 +40812,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40855,7 +40855,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40863,7 +40863,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40906,7 +40906,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40914,7 +40914,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -40957,7 +40957,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -40965,7 +40965,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41008,7 +41008,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41016,7 +41016,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41059,7 +41059,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -41067,7 +41067,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41110,7 +41110,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41118,7 +41118,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41161,7 +41161,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41169,7 +41169,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41212,7 +41212,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41220,7 +41220,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41263,7 +41263,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41271,7 +41271,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41314,7 +41314,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41322,7 +41322,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41365,7 +41365,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41373,7 +41373,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41416,7 +41416,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41424,7 +41424,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41467,7 +41467,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41475,7 +41475,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41518,7 +41518,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -41526,7 +41526,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41569,7 +41569,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -41577,7 +41577,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41620,7 +41620,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -41628,7 +41628,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41671,7 +41671,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -41679,7 +41679,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41722,7 +41722,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -41730,7 +41730,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41773,7 +41773,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class A (International Trunk Road)",
@@ -41781,7 +41781,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41824,7 +41824,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2016,
         "CompletionYear": 2016,
         "road_class": "Class B (National Trunk Road)",
@@ -41832,7 +41832,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41875,7 +41875,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41883,7 +41883,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41926,7 +41926,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class C (Primary Road)",
@@ -41934,7 +41934,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -41977,7 +41977,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -41985,7 +41985,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42028,7 +42028,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1957,
         "CompletionYear": 1957,
         "road_class": "Class A (International Trunk Road)",
@@ -42036,7 +42036,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42079,7 +42079,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class A (International Trunk Road)",
@@ -42087,7 +42087,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42130,7 +42130,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2005,
         "CompletionYear": 2005,
         "road_class": "Class C (Primary Road)",
@@ -42138,7 +42138,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42181,7 +42181,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -42189,7 +42189,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42232,7 +42232,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -42240,7 +42240,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42283,7 +42283,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -42291,7 +42291,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42334,7 +42334,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -42342,7 +42342,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42385,7 +42385,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -42393,7 +42393,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42436,7 +42436,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -42444,7 +42444,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42487,7 +42487,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -42495,7 +42495,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42538,7 +42538,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42546,7 +42546,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42589,7 +42589,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42597,7 +42597,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42640,7 +42640,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42648,7 +42648,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42691,7 +42691,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42699,7 +42699,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42742,7 +42742,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42750,7 +42750,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42793,7 +42793,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42801,7 +42801,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42844,7 +42844,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42852,7 +42852,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42895,7 +42895,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -42903,7 +42903,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42946,7 +42946,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -42954,7 +42954,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -42997,7 +42997,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -43005,7 +43005,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43048,7 +43048,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -43056,7 +43056,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43099,7 +43099,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -43107,7 +43107,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43150,7 +43150,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -43158,7 +43158,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43201,7 +43201,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2013,
         "CompletionYear": 2013,
         "road_class": "Class B (National Trunk Road)",
@@ -43209,7 +43209,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43252,7 +43252,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -43260,7 +43260,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43303,7 +43303,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2005,
         "CompletionYear": 2005,
         "road_class": "Class C (Primary Road)",
@@ -43311,7 +43311,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43354,7 +43354,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2002,
         "CompletionYear": 2002,
         "road_class": "Class B (National Trunk Road)",
@@ -43362,7 +43362,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43405,7 +43405,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -43413,7 +43413,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43456,7 +43456,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2002,
         "CompletionYear": 2002,
         "road_class": "Class B (National Trunk Road)",
@@ -43464,7 +43464,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43507,7 +43507,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -43515,7 +43515,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43558,7 +43558,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -43566,7 +43566,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43609,7 +43609,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -43617,7 +43617,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43660,7 +43660,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -43668,7 +43668,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43711,7 +43711,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class A (International Trunk Road)",
@@ -43719,7 +43719,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43762,7 +43762,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -43770,7 +43770,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43813,7 +43813,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -43821,7 +43821,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43864,7 +43864,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -43872,7 +43872,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43915,7 +43915,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -43923,7 +43923,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -43966,7 +43966,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -43974,7 +43974,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44017,7 +44017,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44025,7 +44025,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44068,7 +44068,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44076,7 +44076,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44119,7 +44119,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44127,7 +44127,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44170,7 +44170,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44178,7 +44178,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44221,7 +44221,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44229,7 +44229,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44272,7 +44272,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44280,7 +44280,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44323,7 +44323,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -44331,7 +44331,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44374,7 +44374,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -44382,7 +44382,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44425,7 +44425,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -44433,7 +44433,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44476,7 +44476,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class C (Primary Road)",
@@ -44484,7 +44484,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44527,7 +44527,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -44535,7 +44535,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44578,7 +44578,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -44586,7 +44586,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44629,7 +44629,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2013,
         "CompletionYear": 2013,
         "road_class": "Class B (National Trunk Road)",
@@ -44637,7 +44637,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44680,7 +44680,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -44688,7 +44688,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44731,7 +44731,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44739,7 +44739,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44782,7 +44782,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44790,7 +44790,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44833,7 +44833,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44841,7 +44841,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44884,7 +44884,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2007,
         "CompletionYear": 2007,
         "road_class": "Class A (International Trunk Road)",
@@ -44892,7 +44892,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44935,7 +44935,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -44943,7 +44943,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -44986,7 +44986,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class B (National Trunk Road)",
@@ -44994,7 +44994,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45037,7 +45037,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class B (National Trunk Road)",
@@ -45045,7 +45045,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45088,7 +45088,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -45096,7 +45096,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45139,7 +45139,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45147,7 +45147,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45190,7 +45190,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45198,7 +45198,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45241,7 +45241,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45249,7 +45249,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45292,7 +45292,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45300,7 +45300,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45343,7 +45343,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45351,7 +45351,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45394,7 +45394,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45402,7 +45402,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45445,7 +45445,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45453,7 +45453,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45496,7 +45496,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45504,7 +45504,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45547,7 +45547,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45555,7 +45555,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45598,7 +45598,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -45606,7 +45606,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45649,7 +45649,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -45657,7 +45657,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45700,7 +45700,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -45708,7 +45708,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45751,7 +45751,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -45759,7 +45759,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45802,7 +45802,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -45810,7 +45810,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45853,7 +45853,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class C (Primary Road)",
@@ -45861,7 +45861,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45904,7 +45904,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class C (Primary Road)",
@@ -45912,7 +45912,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -45955,7 +45955,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -45963,7 +45963,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46006,7 +46006,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46014,7 +46014,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46057,7 +46057,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46065,7 +46065,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46108,7 +46108,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46116,7 +46116,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46159,7 +46159,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46167,7 +46167,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46210,7 +46210,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46218,7 +46218,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46261,7 +46261,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46269,7 +46269,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46312,7 +46312,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46320,7 +46320,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46363,7 +46363,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46371,7 +46371,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46414,7 +46414,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -46422,7 +46422,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46465,7 +46465,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -46473,7 +46473,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46516,7 +46516,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -46524,7 +46524,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46567,7 +46567,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -46575,7 +46575,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46618,7 +46618,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46626,7 +46626,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46669,7 +46669,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46677,7 +46677,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46720,7 +46720,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46728,7 +46728,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46771,7 +46771,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46779,7 +46779,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46822,7 +46822,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46830,7 +46830,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46873,7 +46873,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46881,7 +46881,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46924,7 +46924,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46932,7 +46932,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -46975,7 +46975,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -46983,7 +46983,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47026,7 +47026,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47034,7 +47034,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47077,7 +47077,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47085,7 +47085,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47128,7 +47128,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47136,7 +47136,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47179,7 +47179,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47187,7 +47187,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47230,7 +47230,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47238,7 +47238,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47281,7 +47281,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47289,7 +47289,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47332,7 +47332,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47340,7 +47340,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47383,7 +47383,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47391,7 +47391,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47434,7 +47434,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47442,7 +47442,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47485,7 +47485,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47493,7 +47493,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47536,7 +47536,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -47544,7 +47544,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47587,7 +47587,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47595,7 +47595,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47638,7 +47638,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47646,7 +47646,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47689,7 +47689,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47697,7 +47697,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47740,7 +47740,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47748,7 +47748,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47791,7 +47791,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47799,7 +47799,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47842,7 +47842,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47850,7 +47850,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47893,7 +47893,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47901,7 +47901,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47944,7 +47944,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -47952,7 +47952,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -47995,7 +47995,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -48003,7 +48003,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48046,7 +48046,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -48054,7 +48054,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48097,7 +48097,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48105,7 +48105,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48148,7 +48148,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48156,7 +48156,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48199,7 +48199,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48207,7 +48207,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48250,7 +48250,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48258,7 +48258,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48301,7 +48301,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48309,7 +48309,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48352,7 +48352,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48360,7 +48360,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48403,7 +48403,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48411,7 +48411,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48454,7 +48454,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48462,7 +48462,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48505,7 +48505,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48513,7 +48513,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48556,7 +48556,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48564,7 +48564,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48607,7 +48607,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48615,7 +48615,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48658,7 +48658,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48666,7 +48666,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48709,7 +48709,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48717,7 +48717,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48760,7 +48760,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48768,7 +48768,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48811,7 +48811,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48819,7 +48819,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48862,7 +48862,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48870,7 +48870,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48913,7 +48913,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48921,7 +48921,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -48964,7 +48964,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -48972,7 +48972,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49015,7 +49015,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49023,7 +49023,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49066,7 +49066,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49074,7 +49074,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49117,7 +49117,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49125,7 +49125,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49168,7 +49168,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49176,7 +49176,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49219,7 +49219,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49227,7 +49227,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49270,7 +49270,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49278,7 +49278,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49321,7 +49321,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49329,7 +49329,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49372,7 +49372,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49380,7 +49380,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49423,7 +49423,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49431,7 +49431,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49474,7 +49474,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49482,7 +49482,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49525,7 +49525,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49533,7 +49533,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49576,7 +49576,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49584,7 +49584,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49627,7 +49627,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -49635,7 +49635,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49678,7 +49678,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -49686,7 +49686,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49729,7 +49729,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49737,7 +49737,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49780,7 +49780,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49788,7 +49788,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49831,7 +49831,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2014,
         "CompletionYear": 2014,
         "road_class": "Class C (Primary Road)",
@@ -49839,7 +49839,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49882,7 +49882,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49890,7 +49890,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49933,7 +49933,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class C (Primary Road)",
@@ -49941,7 +49941,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -49984,7 +49984,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -49992,7 +49992,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50035,7 +50035,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -50043,7 +50043,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50086,7 +50086,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -50094,7 +50094,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50137,7 +50137,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -50145,7 +50145,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50188,7 +50188,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -50196,7 +50196,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50239,7 +50239,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -50247,7 +50247,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50290,7 +50290,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -50298,7 +50298,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50341,7 +50341,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -50349,7 +50349,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50392,7 +50392,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -50400,7 +50400,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50443,7 +50443,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class C (Primary Road)",
@@ -50451,7 +50451,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50494,7 +50494,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50502,7 +50502,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50545,7 +50545,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50553,7 +50553,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50596,7 +50596,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50604,7 +50604,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50647,7 +50647,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50655,7 +50655,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50698,7 +50698,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50706,7 +50706,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50749,7 +50749,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50757,7 +50757,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50800,7 +50800,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50808,7 +50808,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50851,7 +50851,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50859,7 +50859,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50902,7 +50902,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50910,7 +50910,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -50953,7 +50953,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -50961,7 +50961,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51004,7 +51004,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -51012,7 +51012,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51055,7 +51055,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -51063,7 +51063,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51106,7 +51106,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -51114,7 +51114,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51157,7 +51157,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -51165,7 +51165,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51208,7 +51208,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -51216,7 +51216,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51259,7 +51259,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -51267,7 +51267,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51310,7 +51310,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -51318,7 +51318,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51361,7 +51361,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -51369,7 +51369,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51412,7 +51412,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -51420,7 +51420,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51463,7 +51463,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -51471,7 +51471,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51514,7 +51514,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -51522,7 +51522,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51565,7 +51565,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -51573,7 +51573,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51616,7 +51616,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -51624,7 +51624,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51667,7 +51667,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2025,
         "CompletionYear": 2025,
         "road_class": "Class B (National Trunk Road)",
@@ -51675,7 +51675,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51718,7 +51718,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2025,
         "CompletionYear": 2025,
         "road_class": "Class B (National Trunk Road)",
@@ -51726,7 +51726,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51769,7 +51769,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -51777,7 +51777,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51820,7 +51820,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -51828,7 +51828,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51871,7 +51871,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -51879,7 +51879,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51922,7 +51922,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -51930,7 +51930,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -51973,7 +51973,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -51981,7 +51981,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52024,7 +52024,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -52032,7 +52032,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52075,7 +52075,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -52083,7 +52083,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52126,7 +52126,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52134,7 +52134,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52177,7 +52177,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52185,7 +52185,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52228,7 +52228,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52236,7 +52236,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52279,7 +52279,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52287,7 +52287,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52330,7 +52330,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52338,7 +52338,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52381,7 +52381,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2006,
         "CompletionYear": 2006,
         "road_class": "Class A (International Trunk Road)",
@@ -52389,7 +52389,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52432,7 +52432,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2006,
         "CompletionYear": 2006,
         "road_class": "Class A (International Trunk Road)",
@@ -52440,7 +52440,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52483,7 +52483,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class A (International Trunk Road)",
@@ -52491,7 +52491,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52534,7 +52534,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -52542,7 +52542,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52585,7 +52585,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2003,
         "CompletionYear": 2003,
         "road_class": "Class A (International Trunk Road)",
@@ -52593,7 +52593,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52636,7 +52636,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -52644,7 +52644,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52687,7 +52687,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -52695,7 +52695,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52738,7 +52738,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -52746,7 +52746,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52789,7 +52789,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52797,7 +52797,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52840,7 +52840,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52848,7 +52848,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52891,7 +52891,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2015,
         "CompletionYear": 2015,
         "road_class": "Class A (International Trunk Road)",
@@ -52899,7 +52899,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52942,7 +52942,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -52950,7 +52950,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -52993,7 +52993,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53001,7 +53001,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53044,7 +53044,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53052,7 +53052,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53095,7 +53095,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -53103,7 +53103,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53146,7 +53146,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class B (National Trunk Road)",
@@ -53154,7 +53154,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53197,7 +53197,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53205,7 +53205,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53248,7 +53248,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal arch (Armco) culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53256,7 +53256,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53299,7 +53299,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53307,7 +53307,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53350,7 +53350,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53358,7 +53358,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53401,7 +53401,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53409,7 +53409,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53452,7 +53452,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53460,7 +53460,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53503,7 +53503,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53511,7 +53511,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53554,7 +53554,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53562,7 +53562,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53605,7 +53605,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53613,7 +53613,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53656,7 +53656,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53664,7 +53664,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53707,7 +53707,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53715,7 +53715,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53758,7 +53758,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1968,
         "CompletionYear": 1968,
         "road_class": "Class A (International Trunk Road)",
@@ -53766,7 +53766,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53809,7 +53809,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53817,7 +53817,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53860,7 +53860,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53868,7 +53868,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53911,7 +53911,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53919,7 +53919,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -53962,7 +53962,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -53970,7 +53970,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54013,7 +54013,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (precast concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -54021,7 +54021,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54064,7 +54064,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -54072,7 +54072,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54115,7 +54115,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -54123,7 +54123,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54166,7 +54166,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class C (Primary Road)",
@@ -54174,7 +54174,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54217,7 +54217,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class C (Primary Road)",
@@ -54225,7 +54225,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54268,7 +54268,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class C (Primary Road)",
@@ -54276,7 +54276,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54319,7 +54319,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -54327,7 +54327,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54370,7 +54370,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -54378,7 +54378,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54421,7 +54421,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -54429,7 +54429,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54472,7 +54472,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -54480,7 +54480,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54523,7 +54523,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -54531,7 +54531,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54574,7 +54574,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -54582,7 +54582,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54625,7 +54625,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -54633,7 +54633,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54676,7 +54676,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -54684,7 +54684,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54727,7 +54727,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -54735,7 +54735,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54778,7 +54778,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -54786,7 +54786,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54829,7 +54829,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -54837,7 +54837,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54880,7 +54880,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -54888,7 +54888,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54931,7 +54931,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -54939,7 +54939,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -54982,7 +54982,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -54990,7 +54990,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55033,7 +55033,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55041,7 +55041,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55084,7 +55084,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55092,7 +55092,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55135,7 +55135,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55143,7 +55143,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55186,7 +55186,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55194,7 +55194,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55237,7 +55237,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55245,7 +55245,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55288,7 +55288,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55296,7 +55296,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55339,7 +55339,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55347,7 +55347,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55390,7 +55390,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55398,7 +55398,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55441,7 +55441,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55449,7 +55449,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55492,7 +55492,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55500,7 +55500,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55543,7 +55543,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55551,7 +55551,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55594,7 +55594,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55602,7 +55602,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55645,7 +55645,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55653,7 +55653,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55696,7 +55696,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55704,7 +55704,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55747,7 +55747,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55755,7 +55755,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55798,7 +55798,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55806,7 +55806,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55849,7 +55849,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55857,7 +55857,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55900,7 +55900,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -55908,7 +55908,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -55951,7 +55951,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -55959,7 +55959,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56002,7 +56002,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56010,7 +56010,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56053,7 +56053,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56061,7 +56061,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56104,7 +56104,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56112,7 +56112,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56155,7 +56155,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56163,7 +56163,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56206,7 +56206,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56214,7 +56214,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56257,7 +56257,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56265,7 +56265,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56308,7 +56308,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56316,7 +56316,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56359,7 +56359,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56367,7 +56367,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56410,7 +56410,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56418,7 +56418,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56461,7 +56461,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56469,7 +56469,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56512,7 +56512,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56520,7 +56520,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56563,7 +56563,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1996,
         "CompletionYear": 1996,
         "road_class": "Class A (International Trunk Road)",
@@ -56571,7 +56571,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56614,7 +56614,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -56622,7 +56622,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56665,7 +56665,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -56673,7 +56673,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56716,7 +56716,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -56724,7 +56724,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56767,7 +56767,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -56775,7 +56775,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56818,7 +56818,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -56826,7 +56826,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56869,7 +56869,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1960,
         "CompletionYear": 1960,
         "road_class": "Class A (International Trunk Road)",
@@ -56877,7 +56877,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56920,7 +56920,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -56928,7 +56928,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -56971,7 +56971,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -56979,7 +56979,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57022,7 +57022,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -57030,7 +57030,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57073,7 +57073,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -57081,7 +57081,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57124,7 +57124,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -57132,7 +57132,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57175,7 +57175,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -57183,7 +57183,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57226,7 +57226,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1963,
         "CompletionYear": 1963,
         "road_class": "Class A (International Trunk Road)",
@@ -57234,7 +57234,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57277,7 +57277,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1969,
         "CompletionYear": 1969,
         "road_class": "Class A (International Trunk Road)",
@@ -57285,7 +57285,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57328,7 +57328,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1969,
         "CompletionYear": 1969,
         "road_class": "Class A (International Trunk Road)",
@@ -57336,7 +57336,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57379,7 +57379,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1969,
         "CompletionYear": 1969,
         "road_class": "Class A (International Trunk Road)",
@@ -57387,7 +57387,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57430,7 +57430,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1969,
         "CompletionYear": 1969,
         "road_class": "Class A (International Trunk Road)",
@@ -57438,7 +57438,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57481,7 +57481,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57489,7 +57489,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57532,7 +57532,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57540,7 +57540,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57583,7 +57583,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57591,7 +57591,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57634,7 +57634,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57642,7 +57642,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57685,7 +57685,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57693,7 +57693,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57736,7 +57736,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57744,7 +57744,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57787,7 +57787,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57795,7 +57795,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57838,7 +57838,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57846,7 +57846,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57889,7 +57889,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -57897,7 +57897,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57940,7 +57940,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class C (Primary Road)",
@@ -57948,7 +57948,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -57991,7 +57991,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -57999,7 +57999,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58042,7 +58042,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58050,7 +58050,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58093,7 +58093,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -58101,7 +58101,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58144,7 +58144,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -58152,7 +58152,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58195,7 +58195,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2023,
         "CompletionYear": 2023,
         "road_class": "Class B (National Trunk Road)",
@@ -58203,7 +58203,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58246,7 +58246,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -58254,7 +58254,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58297,7 +58297,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -58305,7 +58305,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58348,7 +58348,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58356,7 +58356,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58399,7 +58399,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -58407,7 +58407,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58450,7 +58450,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -58458,7 +58458,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58501,7 +58501,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58509,7 +58509,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58552,7 +58552,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2016,
         "CompletionYear": 2016,
         "road_class": "Class B (National Trunk Road)",
@@ -58560,7 +58560,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58603,7 +58603,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -58611,7 +58611,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58654,7 +58654,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58662,7 +58662,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58705,7 +58705,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58713,7 +58713,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58756,7 +58756,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58764,7 +58764,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58807,7 +58807,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -58815,7 +58815,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58858,7 +58858,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58866,7 +58866,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58909,7 +58909,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (precast concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -58917,7 +58917,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -58960,7 +58960,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -58968,7 +58968,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59011,7 +59011,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -59019,7 +59019,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59062,7 +59062,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -59070,7 +59070,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59113,7 +59113,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -59121,7 +59121,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59164,7 +59164,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -59172,7 +59172,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59215,7 +59215,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class B (National Trunk Road)",
@@ -59223,7 +59223,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59266,7 +59266,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2022,
         "CompletionYear": 2022,
         "road_class": "Class B (National Trunk Road)",
@@ -59274,7 +59274,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59317,7 +59317,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2019,
         "CompletionYear": 2019,
         "road_class": "Class B (National Trunk Road)",
@@ -59325,7 +59325,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59368,7 +59368,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -59376,7 +59376,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59419,7 +59419,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -59427,7 +59427,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59470,7 +59470,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -59478,7 +59478,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59521,7 +59521,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -59529,7 +59529,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59572,7 +59572,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class B (National Trunk Road)",
@@ -59580,7 +59580,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59623,7 +59623,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class B (National Trunk Road)",
@@ -59631,7 +59631,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59674,7 +59674,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class B (National Trunk Road)",
@@ -59682,7 +59682,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59725,7 +59725,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class B (National Trunk Road)",
@@ -59733,7 +59733,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59776,7 +59776,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class B (National Trunk Road)",
@@ -59784,7 +59784,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59827,7 +59827,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class B (National Trunk Road)",
@@ -59835,7 +59835,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59878,7 +59878,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2004,
         "CompletionYear": 2004,
         "road_class": "Class B (National Trunk Road)",
@@ -59886,7 +59886,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59929,7 +59929,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2009,
         "CompletionYear": 2009,
         "road_class": "Class A (International Trunk Road)",
@@ -59937,7 +59937,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -59980,7 +59980,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -59988,7 +59988,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60031,7 +60031,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60039,7 +60039,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60082,7 +60082,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60090,7 +60090,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60133,7 +60133,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60141,7 +60141,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60184,7 +60184,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class C (Primary Road)",
@@ -60192,7 +60192,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60235,7 +60235,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -60243,7 +60243,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60286,7 +60286,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (In-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -60294,7 +60294,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60337,7 +60337,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60345,7 +60345,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60388,7 +60388,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60396,7 +60396,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60439,7 +60439,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60447,7 +60447,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60490,7 +60490,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60498,7 +60498,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60541,7 +60541,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Concrete pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60549,7 +60549,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60592,7 +60592,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60600,7 +60600,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60643,7 +60643,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60651,7 +60651,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60694,7 +60694,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60702,7 +60702,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60745,7 +60745,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60753,7 +60753,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60796,7 +60796,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60804,7 +60804,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60847,7 +60847,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60855,7 +60855,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60898,7 +60898,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -60906,7 +60906,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -60949,7 +60949,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1970,
         "CompletionYear": 1970,
         "road_class": "Class A (International Trunk Road)",
@@ -60957,7 +60957,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class A (International Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61000,7 +61000,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61008,7 +61008,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61051,7 +61051,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -61059,7 +61059,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61102,7 +61102,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -61110,7 +61110,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61153,7 +61153,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2021,
         "CompletionYear": 2021,
         "road_class": "Class B (National Trunk Road)",
@@ -61161,7 +61161,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61204,7 +61204,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61212,7 +61212,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61255,7 +61255,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2020,
         "CompletionYear": 2020,
         "road_class": "Class B (National Trunk Road)",
@@ -61263,7 +61263,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61306,7 +61306,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -61314,7 +61314,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61357,7 +61357,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -61365,7 +61365,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61408,7 +61408,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class B (National Trunk Road)",
@@ -61416,7 +61416,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class B (National Trunk Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61459,7 +61459,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61467,7 +61467,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61510,7 +61510,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61518,7 +61518,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61561,7 +61561,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61569,7 +61569,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61612,7 +61612,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61620,7 +61620,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61663,7 +61663,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61671,7 +61671,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61714,7 +61714,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Corrugated metal pipe culvert",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 1985,
         "CompletionYear": 1985,
         "road_class": "Class C (Primary Road)",
@@ -61722,7 +61722,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class C (Primary Road)",
         "surface_type": "Unpaved (Gravel)",
         "SurfaceType": "Unpaved (Gravel)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61765,7 +61765,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -61773,7 +61773,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61816,7 +61816,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -61824,7 +61824,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61867,7 +61867,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -61875,7 +61875,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61918,7 +61918,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2008,
         "CompletionYear": 2008,
         "road_class": "Class M (Expressway)",
@@ -61926,7 +61926,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -61969,7 +61969,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -61977,7 +61977,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62020,7 +62020,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62028,7 +62028,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62071,7 +62071,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62079,7 +62079,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62122,7 +62122,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62130,7 +62130,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62173,7 +62173,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62181,7 +62181,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62224,7 +62224,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62232,7 +62232,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62275,7 +62275,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62283,7 +62283,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62326,7 +62326,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62334,7 +62334,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62377,7 +62377,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62385,7 +62385,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62428,7 +62428,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62436,7 +62436,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62479,7 +62479,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62487,7 +62487,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62530,7 +62530,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62538,7 +62538,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62581,7 +62581,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62589,7 +62589,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62632,7 +62632,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62640,7 +62640,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62683,7 +62683,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62691,7 +62691,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62734,7 +62734,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62742,7 +62742,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     },
@@ -62785,7 +62785,7 @@ window.BRIDGE_DATA = {
         "structure_type": "culvert",
         "culvert_type": "Box culvert (in-situ concrete)",
         "scour_risk": "Not at risk of scour",
-        "design_load": "BS 5400 / MoWT Standard (HA + 30/45 Units HB)",
+        "design_load": "BS 5400 / National Road Network Standard (HA + 30/45 Units HB)",
         "year_compl": 2018,
         "CompletionYear": 2018,
         "road_class": "Class M (Expressway)",
@@ -62793,7 +62793,7 @@ window.BRIDGE_DATA = {
         "road_class_desc": "Class M (Expressway)",
         "surface_type": "Paved (Bituminous)",
         "SurfaceType": "Paved (Bituminous)",
-        "owner": "MoWT Department of National Roads",
+        "owner": "National Road Network NATIONAL ROAD NETWORK ADMINISTRATION",
         "date_modified": "17/11/2026"
       }
     }
