@@ -180,7 +180,7 @@ function initMindMapTab() {
     id: 'root',
     title: 'System S: National Bridges & Traffic Intelligence',
     color: '#0071E3',
-    desc: 'View-only National Road Network NATIONAL ROAD NETWORK ADMINISTRATION platform integrating 552 bridges, 452 major culverts, and 21,284.02 km of National Roads with Vision 2040 projections.',
+    desc: 'View-only National Road Network intelligence platform integrating 552 bridges, 452 major culverts, and 21,284.02 km of National Roads with Vision 2040 projections.',
     expanded: true,
     children: [
       {
@@ -191,9 +191,9 @@ function initMindMapTab() {
         expanded: true,
         children: [
           { id: 'net-a', title: 'International Trunk Roads (2,604.65 km)', color: '#DC2626', desc: 'Class A strategic corridors connecting national borders and regional trade hubs.' },
-          { id: 'net-b', title: 'National Trunk Roads (2,845.27 km)', color: '#0284C7', desc: 'Class B corridors linking regional centres and major district capitals.' },
+          { id: 'net-b', title: 'National Trunk Roads (2,845.27 km)', color: '#D97706', desc: 'Class B corridors linking regional centres and major district capitals.' },
           { id: 'net-c', title: 'Primary Roads (15,689.54 km)', color: '#16A34A', desc: 'Class C primary collector and feeder network across all 23 stations.' },
-          { id: 'net-m', title: 'Expressways (144.56 km)', color: '#7C3AED', desc: 'Class M high-capacity divided motorway corridors.' }
+          { id: 'net-m', title: 'Expressways (144.56 km)', color: '#0284C7', desc: 'Class M high-capacity divided motorway corridors.' }
         ]
       },
       {
@@ -226,8 +226,8 @@ function initMindMapTab() {
         desc: 'Esri World Imagery + Hybrid Labels, UK English, dd/mm/yyyy dates, metric units, and strict anonymity.',
         expanded: true,
         children: [
-          { id: 'std-map', title: 'Esri World Imagery + Hybrid Labels', color: '#0D9488', desc: 'World_Imagery paired with World_Boundaries_and_Places / World_Transportation overlays.' },
-          { id: 'std-anon', title: 'View-Only & Strict Anonymity', color: '#16A34A', desc: 'Zero user inputs, zero login/RBAC/admin tools, zero firm/inspector names or local paths.' }
+          { id: 'std-map', title: 'Esri World Imagery + Hybrid Labels', color: '#0D9488', desc: 'World_Imagery paired with World_Boundaries_and_Places hybrid reference overlays.' },
+          { id: 'std-anon', title: 'View-Only & Strict Anonymity', color: '#16A34A', desc: 'Strictly read-only analytics with zero data-entry forms and complete anonymisation of all asset registers.' }
         ]
       }
     ]

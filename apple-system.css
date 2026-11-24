@@ -30,7 +30,7 @@ body::before {
 
 /* All panels, tabs, headers, controls must be clean white cards */
 .tabs, .map-bridge-filter-strip, .pane-header, .stat-card, .kpi-card,
-.panel, .card, [class*="card"], [class*="panel"], div[class*="legend"],
+.card, [class*="card"], .timeline-panel, .calendar-panel, div[class*="legend"],
 .filter-strip, .control-bar, .modal-content {
   background: #FFFFFF !important;
   background-color: #FFFFFF !important;
@@ -40,23 +40,34 @@ body::before {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
 }
 
+.panel {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
 /* Ensure all text inside panels and cards is readable */
 h1, h2, h3, h4, h5, h6, strong, b, label, th {
   color: #0F172A !important;
 }
 
-p, span, small, td, li {
+p, span, small, li {
+  color: #334155 !important;
+}
+
+td:not([class*="od-heat-"]) {
   color: #334155 !important;
 }
 
 /* Buttons in tabs and toolbars */
-.tab-btn, button, .btn {
+.tab, .tab-btn, button, .btn {
   background: #FFFFFF !important;
   color: #0F172A !important;
   border: 1px solid #CBD5E1 !important;
 }
 
-.tab-btn.active, button.active {
+.tab.active, .tab-btn.active, button.active {
   background: #0071E3 !important;
   color: #FFFFFF !important;
   border-color: #0071E3 !important;
@@ -119,15 +130,15 @@ select, input, textarea {
   border-color: #CBD5E1 !important;
 }
 
-.tab-btn, .nav-btn, button {
+.tab, .tab-btn, .nav-btn, button {
   transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
 }
 
-.tab-btn:hover, button:hover:not(:disabled) {
+.tab:hover, .tab-btn:hover, button:hover:not(:disabled) {
   transform: translateY(-1px);
 }
 
-.tab-btn.active, button.active {
+.tab.active, .tab-btn.active, button.active {
   animation: applePulseGlow 2.5s infinite;
 }
 
@@ -143,15 +154,15 @@ h1, h2, h3, h4, h5, h6, .card-title, .metric-label {
 
 
 /* Table light theme zebra striping & high contrast */
-table tr:nth-child(even), .inventory-table tr:nth-child(even), tbody tr:nth-child(even), .table-row:nth-child(even) {
+table:not(.od-heatmap) tr:nth-child(even), .inventory-table tr:nth-child(even), table:not(.od-heatmap) tbody tr:nth-child(even), .table-row:nth-child(even) {
   background: #F8FAFC !important;
   color: #0F172A !important;
 }
-table tr:nth-child(odd), .inventory-table tr:nth-child(odd), tbody tr:nth-child(odd), .table-row:nth-child(odd) {
+table:not(.od-heatmap) tr:nth-child(odd), .inventory-table tr:nth-child(odd), table:not(.od-heatmap) tbody tr:nth-child(odd), .table-row:nth-child(odd) {
   background: #FFFFFF !important;
   color: #0F172A !important;
 }
-table td, table th, th, td {
+table:not(.od-heatmap) td, table th, th, table:not(.od-heatmap) td {
   color: #0F172A !important;
   border-color: #E2E8F0 !important;
 }
@@ -189,10 +200,10 @@ table th, th {
 }
 
 /* Ensure buttons text on blue/green background remains white */
-button.active, .tab-btn.active, .btn-primary, [style*="background: #0071E3"], [style*="background:#0071E3"] {
+button.active, .tab.active, .tab-btn.active, .btn-primary, [style*="background: #0071E3"], [style*="background:#0071E3"] {
   color: #FFFFFF !important;
 }
-button.active *, .tab-btn.active * {
+button.active *, .tab.active *, .tab-btn.active * {
   color: #FFFFFF !important;
 }
 

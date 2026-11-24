@@ -41,26 +41,24 @@ const fmtB = n => n != null ? (n / 1e9).toFixed(2) : 'N/A';
 const LEGACY_ATC_ACCURACY_DATA = {"Kasangati - Kyaliwajala":{"name":"Kasangati - Kyaliwajala","link_id":"C194_Link02","observation_count":37,"avg_adt_2016_2022":4825,"median_adt_2016_2022":4866,"max_adt_2016_2022":6786,"latest_year":2020,"latest_year_avg_adt":5898.67,"monthly_avg_adt":{"1":4081,"2":5238.33,"3":3952.33,"4":1989,"5":4337,"6":5294.5,"7":4827,"8":5081.25,"9":5210,"10":5326,"11":5572.2,"12":4658},"seasonal_factors":[0.8458,1.0857,0.8191,0.4122,0.8989,1.0973,1.0004,1.0531,1.0798,1.1038,1.1549,0.9654],"class_totals":{"Buses / medium - large unit Trucks":3045,"Medium buses / Light single unit truck":12001,"Minibuses/matatus / Pickups / Vans / 4WD":53215,"Mortocycles / bicycles":47955,"Saloon cars":62004,"Trailers":305},"class_shares":{"Buses / medium - large unit Trucks":0.017056,"Medium buses / Light single unit truck":0.067223,"Minibuses/matatus / Pickups / Vans / 4WD":0.298082,"Mortocycles / bicycles":0.268618,"Saloon cars":0.347313,"Trailers":0.001708}},"Kalagi - Bukoloto-Kayunga":{"name":"Kalagi - Bukoloto-Kayunga","link_id":"B101_Link02","observation_count":46,"avg_adt_2016_2022":4909.98,"median_adt_2016_2022":4849.5,"max_adt_2016_2022":8546,"latest_year":2022,"latest_year_avg_adt":3161.5,"monthly_avg_adt":{"1":5009.5,"2":4834.75,"3":5157,"4":4022.5,"5":5683,"6":6860,"7":4860,"8":5135.5,"9":4903.8,"10":5091.33,"11":4371.75,"12":4372.4},"seasonal_factors":[1.0203,0.9847,1.0503,0.8193,1.1574,1.3972,0.9898,1.0459,0.9987,1.0369,0.8904,0.8905],"class_totals":{"Buses / medium - large unit Trucks":7234,"Medium buses / Light single unit truck":18280,"Minibuses/matatus / Pickups / Vans / 4WD":49405,"Mortocycles / bicycles":77701,"Saloon cars":71700,"Trailers":1539},"class_shares":{"Buses / medium - large unit Trucks":0.032029,"Medium buses / Light single unit truck":0.080935,"Minibuses/matatus / Pickups / Vans / 4WD":0.218743,"Mortocycles / bicycles":0.344024,"Saloon cars":0.317455,"Trailers":0.006814}},"Njeru - Bukoloto":{"name":"Njeru - Bukoloto","link_id":"B102_Link01","observation_count":36,"avg_adt_2016_2022":4047.74,"median_adt_2016_2022":3950,"max_adt_2016_2022":5405,"latest_year":2021,"latest_year_avg_adt":4213.29,"monthly_avg_adt":{"1":3936.33,"2":4542.33,"3":2741.17,"4":4137.5,"5":4317.33,"6":3863.5,"7":4253,"8":4253,"9":3789.5,"10":4011.6,"11":4070,"12":4408.2},"seasonal_factors":[0.9725,1.1222,0.6772,1.0222,1.0666,0.9545,1.0507,1.0507,0.9362,0.9911,1.0055,1.0891],"class_totals":{"Buses / medium - large unit Trucks":4553.5,"Medium buses / Light single unit truck":10485.5,"Minibuses/matatus / Pickups / Vans / 4WD":21899,"Mortocycles / bicycles":61849.5,"Saloon cars":45647.5,"Trailers":1283.5},"class_shares":{"Buses / medium - large unit Trucks":0.031249,"Medium buses / Light single unit truck":0.071957,"Minibuses/matatus / Pickups / Vans / 4WD":0.150283,"Mortocycles / bicycles":0.424445,"Saloon cars":0.313258,"Trailers":0.008808}},"Kampala - Mukono":{"name":"Kampala - Mukono","link_id":"A001_Link01","observation_count":40,"avg_adt_2016_2022":31368.33,"median_adt_2016_2022":30868.5,"max_adt_2016_2022":41484,"latest_year":2020,"latest_year_avg_adt":35029,"monthly_avg_adt":{"1":31948.67,"2":32329.5,"3":31499.11,"4":30843,"5":29879.33,"6":34389.33,"7":30721.33,"8":30089.25,"9":30568.33,"10":30496,"11":31066.5,"12":32439.25},"seasonal_factors":[1.0185,1.0306,1.0042,0.9833,0.9525,1.0963,0.9794,0.9592,0.9745,0.9722,0.9904,1.0341],"class_totals":{"Buses / medium - large unit Trucks":51702,"Medium buses / Light single unit truck":111868,"Minibuses/matatus / Pickups / Vans / 4WD":229040.67,"Mortocycles / bicycles":480531.67,"Saloon cars":336610.33,"Trailers":44980.67},"class_shares":{"Buses / medium - large unit Trucks":0.041206,"Medium buses / Light single unit truck":0.089157,"Minibuses/matatus / Pickups / Vans / 4WD":0.182541,"Mortocycles / bicycles":0.382975,"Saloon cars":0.268272,"Trailers":0.035849}},"Buwama - Nyendo":{"name":"Buwama - Nyendo","link_id":"A002_Link04","observation_count":39,"avg_adt_2016_2022":5819.44,"median_adt_2016_2022":6651,"max_adt_2016_2022":8336,"latest_year":2020,"latest_year_avg_adt":2236.5,"monthly_avg_adt":{"2":5533.67,"3":7026,"4":7165.67,"5":7150.33,"6":6996.67,"7":7691.5,"8":5509,"9":5085.6,"10":5203.2,"11":4953.8,"12":5152.2},"seasonal_factors":[1,0.9509,1.2073,1.2313,1.2287,1.2023,1.3217,0.9467,0.8739,0.8941,0.8513,0.8853],"class_totals":{"Buses / medium - large unit Trucks":28326,"Medium buses / Light single unit truck":28222.67,"Minibuses/matatus / Pickups / Vans / 4WD":40090.17,"Mortocycles / bicycles":41910.67,"Saloon cars":63544.33,"Trailers":24864.17},"class_shares":{"Buses / medium - large unit Trucks":0.124807,"Medium buses / Light single unit truck":0.124352,"Minibuses/matatus / Pickups / Vans / 4WD":0.176641,"Mortocycles / bicycles":0.184663,"Saloon cars":0.279983,"Trailers":0.109554}},"Lyantonde - Ntusi":{"name":"Lyantonde - Ntusi","link_id":"C227_Link01","observation_count":50,"avg_adt_2016_2022":645.45,"median_adt_2016_2022":620,"max_adt_2016_2022":1342,"latest_year":2021,"latest_year_avg_adt":685,"monthly_avg_adt":{"1":596.75,"2":655.75,"3":604.67,"4":531.33,"5":633.33,"6":659.25,"7":600.33,"8":649.67,"9":771.8,"10":622.33,"11":643.08,"12":686},"seasonal_factors":[0.9245,1.016,0.9368,0.8232,0.9812,1.0214,0.9301,1.0065,1.1958,0.9642,0.9963,1.0628],"class_totals":{"Buses / medium - large unit Trucks":604.5,"Medium buses / Light single unit truck":1851.5,"Minibuses/matatus / Pickups / Vans / 4WD":4739.5,"Mortocycles / bicycles":11628.5,"Saloon cars":13295.5,"Trailers":153},"class_shares":{"Buses / medium - large unit Trucks":0.018731,"Medium buses / Light single unit truck":0.057371,"Minibuses/matatus / Pickups / Vans / 4WD":0.146859,"Mortocycles / bicycles":0.360322,"Saloon cars":0.411976,"Trailers":0.004741}},"Ishaka - Katunguru":{"name":"Ishaka - Katunguru","link_id":"B152_Link03","observation_count":34,"avg_adt_2016_2022":1576.06,"median_adt_2016_2022":1565,"max_adt_2016_2022":1833,"latest_year":2022,"latest_year_avg_adt":1627,"monthly_avg_adt":{"1":1568,"2":1546,"3":1528,"4":1523.67,"5":1454.5,"6":1600,"7":1612,"8":1657.67,"9":1532.33,"10":1599.5,"11":1640,"12":1622.67},"seasonal_factors":[0.9949,0.9809,0.9695,0.9668,0.9229,1.0152,1.0228,1.0518,0.9723,1.0149,1.0406,1.0296],"class_totals":{"Buses / medium - large unit Trucks":3296,"Medium buses / Light single unit truck":4827,"Minibuses/matatus / Pickups / Vans / 4WD":10805,"Mortocycles / bicycles":15823,"Saloon cars":15943,"Trailers":2892},"class_shares":{"Buses / medium - large unit Trucks":0.061509,"Medium buses / Light single unit truck":0.090079,"Minibuses/matatus / Pickups / Vans / 4WD":0.201638,"Mortocycles / bicycles":0.295282,"Saloon cars":0.297522,"Trailers":0.053969}},"Kyenjojo - Fortportal":{"name":"Kyenjojo - Fortportal","link_id":"A005_Link10","observation_count":34,"avg_adt_2016_2022":2337.21,"median_adt_2016_2022":2308.5,"max_adt_2016_2022":3049,"latest_year":2022,"latest_year_avg_adt":1758,"monthly_avg_adt":{"1":2316,"2":2621.33,"3":2079.5,"4":2191.33,"5":2508,"6":2203.5,"7":2246,"8":1986,"9":2060.67,"10":2443.67,"11":2450.67,"12":2703},"seasonal_factors":[0.9909,1.1216,0.8897,0.9376,1.0731,0.9428,0.961,0.8497,0.8817,1.0456,1.0485,1.1565],"class_totals":{"Buses / medium - large unit Trucks":5663,"Medium buses / Light single unit truck":7979,"Minibuses/matatus / Pickups / Vans / 4WD":20000,"Mortocycles / bicycles":17713,"Saloon cars":25206,"Trailers":2904},"class_shares":{"Buses / medium - large unit Trucks":0.071264,"Medium buses / Light single unit truck":0.100409,"Minibuses/matatus / Pickups / Vans / 4WD":0.251683,"Mortocycles / bicycles":0.222903,"Saloon cars":0.317196,"Trailers":0.036544}},"Ibanda - Kamwenge":{"name":"Ibanda - Kamwenge","link_id":"B150_Link03","observation_count":53,"avg_adt_2016_2022":2423.32,"median_adt_2016_2022":2438,"max_adt_2016_2022":3044,"latest_year":2022,"latest_year_avg_adt":656,"monthly_avg_adt":{"1":2414.2,"2":2632.5,"3":2400.67,"4":2081,"5":2570.5,"6":2481.5,"7":2024,"8":2171.75,"9":2395.4,"10":2386.6,"11":2382.67,"12":2846.5},"seasonal_factors":[0.9962,1.0863,0.9907,0.8587,1.0607,1.024,0.8352,0.8962,0.9885,0.9848,0.9832,1.1746],"class_totals":{"Buses / medium - large unit Trucks":2271,"Medium buses / Light single unit truck":6382,"Minibuses/matatus / Pickups / Vans / 4WD":14900,"Mortocycles / bicycles":66126,"Saloon cars":37897,"Trailers":860},"class_shares":{"Buses / medium - large unit Trucks":0.017682,"Medium buses / Light single unit truck":0.04969,"Minibuses/matatus / Pickups / Vans / 4WD":0.116011,"Mortocycles / bicycles":0.514856,"Saloon cars":0.295065,"Trailers":0.006696}},"Tirinyi - Budaka - Kamonkoli":{"name":"Tirinyi - Budaka - Kamonkoli","link_id":"A012_Link03","observation_count":33,"avg_adt_2016_2022":4694.21,"median_adt_2016_2022":4593,"max_adt_2016_2022":6780,"latest_year":2021,"latest_year_avg_adt":4956.62,"monthly_avg_adt":{"1":4470.67,"2":4932,"3":4409,"4":4651.67,"5":5147,"6":4103,"7":4676,"8":4435.67,"9":3396.5,"10":4406,"11":4916.67,"12":5435.2},"seasonal_factors":[0.9524,1.0507,0.9392,0.9909,1.0965,0.8741,0.9961,0.9449,0.7236,0.9386,1.0474,1.1579],"class_totals":{"Buses / medium - large unit Trucks":7771,"Medium buses / Light single unit truck":14604,"Minibuses/matatus / Pickups / Vans / 4WD":22641,"Mortocycles / bicycles":62067,"Saloon cars":45357,"Trailers":2469},"class_shares":{"Buses / medium - large unit Trucks":0.050165,"Medium buses / Light single unit truck":0.094275,"Minibuses/matatus / Pickups / Vans / 4WD":0.146157,"Mortocycles / bicycles":0.400667,"Saloon cars":0.292798,"Trailers":0.015938}},"Pallisa - Kanyago Bridge":{"name":"Pallisa - Kanyago Bridge","link_id":"B305_Link02","observation_count":22,"avg_adt_2016_2022":1895.36,"median_adt_2016_2022":1803,"max_adt_2016_2022":3100,"latest_year":2018,"latest_year_avg_adt":1706.5,"monthly_avg_adt":{"1":1988,"2":1641.5,"3":1538.5,"4":2343.5,"5":2097,"6":1885.5,"7":1716,"8":2156,"9":1905.5,"10":1931,"11":1707.5,"12":1762.5},"seasonal_factors":[1.0489,0.8661,0.8117,1.2364,1.1064,0.9948,0.9054,1.1375,1.0053,1.0188,0.9009,0.9299],"class_totals":{"Buses / medium - large unit Trucks":302,"Medium buses / Light single unit truck":1288,"Minibuses/matatus / Pickups / Vans / 4WD":1895,"Mortocycles / bicycles":22133,"Saloon cars":15998,"Trailers":82},"class_shares":{"Buses / medium - large unit Trucks":0.007243,"Medium buses / Light single unit truck":0.030889,"Minibuses/matatus / Pickups / Vans / 4WD":0.045446,"Mortocycles / bicycles":0.530793,"Saloon cars":0.383663,"Trailers":0.001967}},"Kumi - Brooks corner":{"name":"Kumi - Brooks corner","link_id":"C920_Link01","observation_count":45,"avg_adt_2016_2022":2220.51,"median_adt_2016_2022":2383,"max_adt_2016_2022":3125,"latest_year":2022,"latest_year_avg_adt":450,"monthly_avg_adt":{"1":1845.25,"2":2429.75,"3":2415.33,"4":2295.5,"5":2439.5,"6":2371.5,"7":2472.67,"8":2158,"9":2529.67,"10":2170.8,"11":2396.8,"12":1668},"seasonal_factors":[0.831,1.0942,1.0877,1.0338,1.0986,1.068,1.1136,0.9718,1.1392,0.9776,1.0794,0.7512],"class_totals":{"Buses / medium - large unit Trucks":927,"Medium buses / Light single unit truck":3485,"Minibuses/matatus / Pickups / Vans / 4WD":6288,"Mortocycles / bicycles":57074,"Saloon cars":31899,"Trailers":250},"class_shares":{"Buses / medium - large unit Trucks":0.009277,"Medium buses / Light single unit truck":0.034877,"Minibuses/matatus / Pickups / Vans / 4WD":0.062928,"Mortocycles / bicycles":0.57118,"Saloon cars":0.319236,"Trailers":0.002502}},"Lira - Corner Kilak":{"name":"Lira - Corner Kilak","link_id":"B252_Link01","observation_count":46,"avg_adt_2016_2022":1592.91,"median_adt_2016_2022":1644.5,"max_adt_2016_2022":2636,"latest_year":2022,"latest_year_avg_adt":1590.67,"monthly_avg_adt":{"1":1669,"2":1769.33,"3":1630.4,"4":1575.5,"5":1694.33,"6":835.5,"7":1684,"8":1621,"9":1859.75,"10":1428.67,"11":1513.2,"12":1519.33},"seasonal_factors":[1.0478,1.1108,1.0235,0.9891,1.0637,0.5245,1.0572,1.0176,1.1675,0.8969,0.95,0.9538],"class_totals":{"Buses / medium - large unit Trucks":1099,"Medium buses / Light single unit truck":3707,"Minibuses/matatus / Pickups / Vans / 4WD":3593,"Mortocycles / bicycles":46319,"Saloon cars":18369,"Trailers":187},"class_shares":{"Buses / medium - large unit Trucks":0.014998,"Medium buses / Light single unit truck":0.050591,"Minibuses/matatus / Pickups / Vans / 4WD":0.049035,"Mortocycles / bicycles":0.632134,"Saloon cars":0.250689,"Trailers":0.002552}},"Lamogi - Amuru Junction":{"name":"Lamogi - Amuru Junction","link_id":"C686_Link01","observation_count":48,"avg_adt_2016_2022":1059.83,"median_adt_2016_2022":1030.5,"max_adt_2016_2022":2300,"latest_year":2022,"latest_year_avg_adt":964,"monthly_avg_adt":{"1":1123.75,"2":1150.33,"3":1074.33,"4":1063.33,"5":1192.8,"6":906.75,"7":920,"8":1231.75,"9":959.67,"10":1004.6,"11":1124,"12":947.6},"seasonal_factors":[1.0603,1.0854,1.0137,1.0033,1.1255,0.8556,0.8681,1.1622,0.9055,0.9479,1.0605,0.8941],"class_totals":{"Buses / medium - large unit Trucks":1204,"Medium buses / Light single unit truck":2532,"Minibuses/matatus / Pickups / Vans / 4WD":3948,"Mortocycles / bicycles":29705,"Saloon cars":13041,"Trailers":442},"class_shares":{"Buses / medium - large unit Trucks":0.023667,"Medium buses / Light single unit truck":0.049772,"Minibuses/matatus / Pickups / Vans / 4WD":0.077607,"Mortocycles / bicycles":0.583916,"Saloon cars":0.256349,"Trailers":0.008688}},"Nebbi - Olevu":{"name":"Nebbi - Olevu","link_id":"A008_Link04","observation_count":44,"avg_adt_2016_2022":1074.12,"median_adt_2016_2022":1011,"max_adt_2016_2022":2206,"latest_year":2021,"latest_year_avg_adt":1258.88,"monthly_avg_adt":{"1":1293.33,"2":1380.5,"3":738.88,"4":1119,"5":1148,"6":1060,"7":949,"8":1063.25,"9":1008,"10":1038.5,"11":1007.67,"12":1171.6},"seasonal_factors":[1.2041,1.2852,0.6879,1.0418,1.0688,0.9868,0.8835,0.9899,0.9384,0.9668,0.9381,1.0907],"class_totals":{"Buses / medium - large unit Trucks":5988.5,"Medium buses / Light single unit truck":3967.5,"Minibuses/matatus / Pickups / Vans / 4WD":7807.5,"Mortocycles / bicycles":14097.5,"Saloon cars":10730.5,"Trailers":4670},"class_shares":{"Buses / medium - large unit Trucks":0.12671,"Medium buses / Light single unit truck":0.083948,"Minibuses/matatus / Pickups / Vans / 4WD":0.165198,"Mortocycles / bicycles":0.298287,"Saloon cars":0.227045,"Trailers":0.098812}}};
 
 const COLORS = {
-  green: 'rgba(34, 197, 94, 0.85)',
-  lime: 'rgba(132, 204, 22, 0.85)',
-  orange: 'rgba(249, 115, 22, 0.85)',
-  red: 'rgba(239, 68, 68, 0.85)',
-  violet: 'rgba(139, 92, 246, 0.85)',
-  blue: 'rgba(84, 116, 255, 0.85)',
-  cyan: 'rgba(0, 229, 255, 0.85)',
-  purple: 'rgba(181, 95, 230, 0.85)',
-  emerald: 'rgba(16, 185, 129, 0.85)',
-  amber: 'rgba(245, 158, 11, 0.85)',
-  rose: 'rgba(244, 63, 94, 0.85)',
-  indigo: 'rgba(129, 140, 248, 0.85)',
-  teal: 'rgba(20, 184, 166, 0.85)',
-  pink: 'rgba(236, 72, 153, 0.85)',
-  sky: 'rgba(56, 189, 248, 0.85)',
-  lime: 'rgba(132, 204, 22, 0.85)',
-  orange: 'rgba(251, 146, 60, 0.85)'
+  green: 'rgba(22, 163, 74, 0.90)',
+  lime: 'rgba(101, 163, 13, 0.90)',
+  orange: 'rgba(234, 88, 12, 0.90)',
+  red: 'rgba(220, 38, 38, 0.90)',
+  violet: 'rgba(124, 58, 237, 0.90)',
+  blue: 'rgba(0, 113, 227, 0.90)',
+  cyan: 'rgba(2, 132, 199, 0.90)',
+  purple: 'rgba(147, 51, 234, 0.90)',
+  emerald: 'rgba(5, 150, 105, 0.90)',
+  amber: 'rgba(217, 119, 6, 0.90)',
+  rose: 'rgba(225, 29, 72, 0.90)',
+  indigo: 'rgba(79, 70, 229, 0.90)',
+  teal: 'rgba(13, 148, 136, 0.90)',
+  pink: 'rgba(219, 39, 119, 0.90)',
+  sky: 'rgba(14, 165, 233, 0.90)'
 };
-COLORS.slate = 'rgba(100, 116, 139, 0.85)';
-COLORS.fuchsia = 'rgba(217, 70, 239, 0.85)';
+COLORS.slate = 'rgba(100, 116, 139, 0.90)';
+COLORS.fuchsia = 'rgba(192, 38, 211, 0.90)';
 const PALETTE = Object.values(COLORS);
 
 function compactAxisValue(value) {
@@ -77,20 +75,22 @@ const chartDefaults = () => ({
   responsive: true,
   maintainAspectRatio: false,
   plugins: {
-    legend: { labels: { color: '#334155', font: { family: 'Plus Jakarta Sans', size: 11, weight: 500 }, padding: 14 } },
+    legend: { labels: { color: '#0F172A', font: { family: 'Plus Jakarta Sans', size: 11, weight: 600 }, padding: 14 } },
     tooltip: {
-      backgroundColor: 'rgba(6, 9, 19, 0.96)',
+      backgroundColor: '#FFFFFF',
+      titleColor: '#0F172A',
+      bodyColor: '#334155',
       titleFont: { family: 'Plus Jakarta Sans', size: 12, weight: 700 },
       bodyFont: { family: 'Plus Jakarta Sans', size: 11, weight: 500 },
-      borderColor: 'rgba(84, 116, 255, 0.25)',
+      borderColor: '#E2E8F0',
       borderWidth: 1,
       padding: 12,
-      cornerRadius: 12
+      cornerRadius: 10
     }
   },
   scales: {
-    x: { ticks: { color: '#475569', font: { family: 'Plus Jakarta Sans', size: 10, weight: 600 } }, grid: { color: 'rgba(84, 116, 255, 0.05)' } },
-    y: { ticks: { color: '#475569', font: { family: 'Plus Jakarta Sans', size: 10, weight: 600 }, callback: compactAxisValue }, grid: { color: 'rgba(84, 116, 255, 0.05)' } }
+    x: { ticks: { color: '#475569', font: { family: 'Plus Jakarta Sans', size: 10, weight: 600 } }, grid: { color: 'rgba(15, 23, 42, 0.05)' } },
+    y: { ticks: { color: '#475569', font: { family: 'Plus Jakarta Sans', size: 10, weight: 600 }, callback: compactAxisValue }, grid: { color: 'rgba(15, 23, 42, 0.05)' } }
   }
 });
 
@@ -2815,7 +2815,7 @@ function bridgeClassDailyVolume(row, className) {
   return Number(map[className] || 0);
 }
 
-function vehicleClassPeriodSummaryRows(rows = buildBridgeTrafficRows(), startYear = 2016, endYear = 2035) {
+function vehicleClassPeriodSummaryRows(rows = buildBridgeTrafficRows(), startYear = 2016, endYear = 2040) {
   const summaries = [];
   for (let year = startYear; year <= endYear; year++) {
     PERIOD_DEFINITIONS.forEach(period => {
@@ -2849,7 +2849,7 @@ function vehicleClassPeriodSummaryRows(rows = buildBridgeTrafficRows(), startYea
           seasonal_factor: baseDaily ? seasonalWeighted / baseDaily : seasonalCorrectionFactor('Central', timelineMonth),
           period_volume: volume,
           month: timelineMonth + 1,
-          month_name: new Date(2026, timelineMonth, 1).toLocaleString('en-US', { month: 'long' })
+          month_name: new Date(2026, timelineMonth, 1).toLocaleString('en-GB', { month: 'long' })
         });
       });
     });
@@ -4679,7 +4679,7 @@ function exportPNG() {
   expCanvas.height = canvas.height * 2;
 
   const ctx = expCanvas.getContext('2d');
-  ctx.fillStyle = '#060913';
+  ctx.fillStyle = '#FFFFFF';
   ctx.fillRect(0, 0, expCanvas.width, expCanvas.height);
   ctx.drawImage(canvas, 0, 0, expCanvas.width, expCanvas.height);
 
@@ -4780,7 +4780,7 @@ function exportCSV() {
     ].join(',')).join('\n');
     filename = 'uganda_bridge_vehicle_class_loading.csv';
   } else if (activeTab === 'bridge-works') {
-    csv = 'Record Type,S/N,Bridge or Project,Bridge No,Link ID,Link Name,Funder,Contractor / Consultant,Financial Status,Construction Status,Compensation / Land,Chainage Km\n';
+    csv = 'Record Type,S/N,Bridge or Project,Bridge No,Link ID,Link Name,Funder,Corridor / Link Reference,Financial Status,Construction Status,Compensation / Land,Chainage Km\n';
     if (typeof BRIDGE_WORKS_DATA !== 'undefined') {
       csv += BRIDGE_WORKS_DATA.map((row, i) => [
         'Active Package', row.sn || (i + 1), escapeCSV(row.bridge), '', '', '', escapeCSV(row.funder), escapeCSV(row.contractor_consultant),
@@ -5340,7 +5340,7 @@ function exportCorrectedBridgePDF() {
   const trafficRows = buildBridgeTrafficRows();
   const periodRows = vehicleClassPeriodSummaryRows(trafficRows);
   const annualFactorRows = [];
-  for (let y = 2016; y <= 2035; y++) {
+  for (let y = 2016; y <= 2040; y++) {
     const yearRows = periodRows.filter(r => r.year === y && r.period === 'Day');
     const base = yearRows.reduce((s, r) => s + Number(r.base_daily_adt || 0), 0);
     annualFactorRows.push({
@@ -5657,7 +5657,7 @@ function initTimelineControls() {
     drawMap();
   });
   document.getElementById('btnTimelineNext')?.addEventListener('click', () => {
-    timelineYear = Math.min(2035, timelineYear + 1);
+    timelineYear = Math.min(2040, timelineYear + 1);
     slider.value = timelineYear;
     updateTimelineUI();
     updateBridgeAnalyticsPane(selectedMapBridge);
@@ -6207,7 +6207,7 @@ ${row.is_critical && row.critical_comment ? `<br><span style="color:#ef4444; fon
     </div>
     ${condHtml}
     <button class="btn pane-action" id="paneOpenModalBtn">Open Full Bridge Details</button>
-    <button class="btn pane-action" id="paneViewPhotosBtn" style="background: rgba(56, 189, 248, 0.15); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3);">View Photos in Gallery</button>
+    <button class="btn pane-action" id="paneViewPhotosBtn" style="background: #EFF6FF; color: #0071E3; border: 1px solid #BFDBFE;">View Photos in Gallery</button>
     <button class="btn pane-action" id="paneDownloadBridgeCsvBtn">Download Selected Bridge CSV</button>
   `;
   renderPaneSelectedCharts(row, classRows);
@@ -6261,7 +6261,7 @@ function buildBridgeWorksTable() {
         <td class="highlight-cell" style="font-weight: 700; font-size: 13px; white-space: normal; line-height: 1.4;">${tableMultilineHtml(row.bridge, 'bridge_nam')}<br><span style="font-size:10px;color:var(--text-muted);font-weight:700;text-transform:uppercase;letter-spacing:.5px;">${tableCellHtml(row._rowType, 'work_type')}</span></td>
         <td style="font-weight: 600; text-align: center;">${tableCellHtml(row.funder, 'funder')}</td>
         <td style="white-space: normal; font-size: 11px; line-height: 1.4;">${tableMultilineHtml(row.contractor_consultant, 'contractor_consultant')}</td>
-        <td style="white-space: normal; font-size: 11px; line-height: 1.4; color: var(--text-muted);"><span style="color: #e2e8f0; font-weight: 600;">${tableMultilineHtml(row.financial_status, 'financial_status')}</span></td>
+        <td style="white-space: normal; font-size: 11px; line-height: 1.4; color: var(--text-muted);"><span style="color: #0F172A; font-weight: 600;">${tableMultilineHtml(row.financial_status, 'financial_status')}</span></td>
         <td style="white-space: normal; font-size: 11px; line-height: 1.4; color: var(--text-secondary);">${tableMultilineHtml(row.status, 'status')}</td>
         <td style="white-space: normal; font-size: 11px; line-height: 1.4; color: var(--accent-amber);">${tableMultilineHtml(row.compensation, 'compensation')}</td>
       </tr>
@@ -7081,17 +7081,16 @@ function updateMapTileStatus() {
 
 function drawHybridBaseMap(ctx, canvas, dpr) {
   const grad = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
-  grad.addColorStop(0, '#0f1720');
-  grad.addColorStop(0.42, '#18231d');
-  grad.addColorStop(0.72, '#1f2b20');
-  grad.addColorStop(1, '#080d12');
+  grad.addColorStop(0, '#E2E8F0');
+  grad.addColorStop(0.5, '#EDF2F7');
+  grad.addColorStop(1, '#F1F5F9');
   ctx.fillStyle = grad;
   ctx.fillRect(0, 0, canvas.width, canvas.height);
 
   ctx.save();
-  ctx.globalAlpha = 0.16;
+  ctx.globalAlpha = 0.25;
   for (let y = -40 * dpr; y < canvas.height + 80 * dpr; y += 46 * dpr) {
-    ctx.strokeStyle = Math.round(y / dpr) % 92 === 0 ? 'rgba(151,170,120,0.18)' : 'rgba(82,112,94,0.12)';
+    ctx.strokeStyle = Math.round(y / dpr) % 92 === 0 ? 'rgba(148,163,184,0.28)' : 'rgba(203,213,225,0.22)';
     ctx.lineWidth = 1 * dpr;
     ctx.beginPath();
     for (let x = -60 * dpr; x <= canvas.width + 60 * dpr; x += 80 * dpr) {
@@ -7101,11 +7100,6 @@ function drawHybridBaseMap(ctx, canvas, dpr) {
     }
     ctx.stroke();
   }
-  ctx.restore();
-
-  ctx.save();
-  ctx.fillStyle = 'rgba(0,0,0,0.22)';
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
   ctx.restore();
 }
 
@@ -7133,7 +7127,7 @@ function drawEsriHybridTiles(ctx, canvas) {
   let drawn = 0;
   let queuedThisDraw = 0;
 
-  const tileKinds = mapTileLoadState.loaded > 0 ? ['imagery', 'labels'] : ['imagery'];
+  const tileKinds = ['imagery', 'labels'];
   tileKinds.forEach(kind => {
     for (let x = x0; x <= x1; x++) {
       for (let y = y0; y <= y1; y++) {
@@ -7155,7 +7149,7 @@ function drawEsriHybridTiles(ctx, canvas) {
         const sw = (se.x - nw.x) * mapScale;
         const sh = (se.y - nw.y) * mapScale;
         ctx.save();
-        ctx.globalAlpha = kind === 'labels' ? 0.92 : 0.88;
+        ctx.globalAlpha = kind === 'labels' ? 0.96 : 1.0;
         try {
           ctx.drawImage(img, sx, sy, sw + 1, sh + 1);
           drawn++;
@@ -7175,10 +7169,10 @@ function canonicalRoadClass(cls) {
 
 function roadColor(road) {
   const cls = canonicalRoadClass(road.cls);
-  if (cls === 'M') return 'rgba(168,85,247,1)';
-  if (cls === 'A') return 'rgba(239,68,68,1)';
-  if (cls === 'B') return 'rgba(249,115,22,1)';
-  return 'rgba(34,197,94,1)';
+  if (cls === 'M') return '#0284C7';
+  if (cls === 'A') return '#DC2626';
+  if (cls === 'B') return '#D97706';
+  return '#16A34A';
 }
 
 function roadWidth(road) {
@@ -7210,24 +7204,25 @@ function drawNationalRoadNetwork(ctx, canvas) {
   ctx.lineCap = 'round';
   ctx.lineJoin = 'round';
   NATIONAL_ROAD_NETWORK.forEach(road => {
-    const isPaved = /bituminous|paved/i.test(road.surface || '');
+    const isPaved = /bituminous|paved|asphalt|concrete/i.test(road.surface || '');
     const cls = canonicalRoadClass(road.cls);
-    const width = networkRoadWidth(road);
-    const topColor = cls === 'M' ? 'rgba(168,85,247,0.88)' :
-      cls === 'A' ? 'rgba(239,68,68,0.85)' :
-      cls === 'B' ? 'rgba(249,115,22,0.85)' :
-      cls === 'C' ? 'rgba(34,197,94,0.85)' :
-      isPaved ? 'rgba(226,232,240,0.58)' :
-      'rgba(203,213,225,0.42)';
-    ctx.globalAlpha = 0.85;
-    ctx.strokeStyle = 'rgba(2,6,23,0.9)';
-    ctx.lineWidth = width + (1.2 / Math.pow(Math.max(1, mapScale), 0.42));
+    const baseW = networkRoadWidth(road);
+    const width = isPaved ? baseW : Math.max(1, baseW * 0.58);
+    const topColor = cls === 'M' ? '#0284C7' :
+      cls === 'A' ? '#DC2626' :
+      cls === 'B' ? '#D97706' :
+      '#16A34A';
+    ctx.setLineDash(isPaved ? [] : [2, 4]);
+    ctx.globalAlpha = isPaved ? 0.85 : 0.45;
+    ctx.strokeStyle = 'rgba(255,255,255,0.75)';
+    ctx.lineWidth = width + (1.0 / Math.pow(Math.max(1, mapScale), 0.42));
     drawLineGeometry(ctx, canvas, road);
-    ctx.globalAlpha = 0.95;
+    ctx.globalAlpha = isPaved ? 0.96 : 0.82;
     ctx.strokeStyle = topColor;
     ctx.lineWidth = width;
     drawLineGeometry(ctx, canvas, road);
   });
+  ctx.setLineDash([]);
   ctx.restore();
 }
 
@@ -8903,6 +8898,24 @@ function initPhotoGallery() {
     document.getElementById('lightboxClose')?.addEventListener('click', closeLightbox);
     document.getElementById('lightboxPrev')?.addEventListener('click', () => changeLightboxPhoto(-1));
     document.getElementById('lightboxNext')?.addEventListener('click', () => changeLightboxPhoto(1));
+    document.getElementById('btnLightboxPDF')?.addEventListener('click', () => {
+        const s = filteredGallery[currentLightboxIndex];
+        if (!s) return;
+        const lines = [
+            `Structure Inspection Summary: ${s.id}${s.name ? ' - ' + s.name : ''}`,
+            `Type: ${s.type === 'culvert' ? 'Major Culvert' : 'Bridge'} | Road: ${s.road} | Region: ${s.district}`,
+            `Chainage: ${s.chainage} km | Span / Diameter: ${s.span} m | Year Built: ${s.year}`,
+            `Material: ${s.material} | Condition: ${s.conditionCat} (${s.conditionNum ?? '-'})`,
+            `Assigned ADT: ${s.adt}`,
+            `Condition Notes: ${s.notes || 'None recorded'}`
+        ];
+        if (typeof writeSimplePdf === 'function') {
+            const safeId = String(s.id || 'structure').replace(/[^a-z0-9]+/gi, '-').toLowerCase();
+            writeSimplePdf(lines, `uganda-structure-${safeId}-inspection.pdf`);
+        } else {
+            window.print();
+        }
+    });
 
     document.getElementById('btnLightboxMap')?.addEventListener('click', () => {
         closeLightbox();

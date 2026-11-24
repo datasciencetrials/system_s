@@ -5,10 +5,10 @@
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Uganda Bridge Traffic Analytics - Network Influence Dashboard</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23060913'/%3E%3Cpath d='M5 18h22' stroke='%2300e5ff' stroke-width='3' stroke-linecap='round'/%3E%3Cpath d='M8 13h14l4 5H4z' fill='%235474ff' opacity='.8'/%3E%3C/svg%3E">
-<link rel="preload" href="structures_data.js?v=20261119-v112" as="script">
-<link rel="preload" href="bridge_data.js?v=20261119-v112" as="script">
-<link rel="preload" href="app.js?v=20261119-v112" as="script">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230071E3'/%3E%3Cpath d='M5 18h22' stroke='%23FFFFFF' stroke-width='3' stroke-linecap='round'/%3E%3Cpath d='M8 13h14l4 5H4z' fill='%23E0F2FE' opacity='.9'/%3E%3C/svg%3E">
+<link rel="preload" href="structures_data.js?v=20261124-v113" as="script">
+<link rel="preload" href="bridge_data.js?v=20261124-v113" as="script">
+<link rel="preload" href="app.js?v=20261124-v113" as="script">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -21,16 +21,16 @@
   --text-primary: #0F172A;
   --text-secondary: #475569;
   --text-muted: #64748B;
-  --accent-blue: #5474ff;
-  --accent-cyan: #0f8fa8;
-  --accent-purple: #b55fe6;
-  --accent-emerald: #10b981;
-  --accent-amber: #f59e0b;
-  --accent-rose: #f43f5e;
-  --accent-indigo: #818cf8;
-  --gradient-primary: linear-gradient(135deg, #5474ff 0%, #b55fe6 100%);
+  --accent-blue: #0071E3;
+  --accent-cyan: #0284C7;
+  --accent-purple: #7C3AED;
+  --accent-emerald: #16A34A;
+  --accent-amber: #D97706;
+  --accent-rose: #DC2626;
+  --accent-indigo: #4F46E5;
+  --gradient-primary: linear-gradient(135deg, #0071E3 0%, #0284C7 100%);
   --gradient-card: linear-gradient(135deg, #FFFFFF 0%, #F8FAFC 100%);
-  --shadow-glow: 0 0 40px rgba(84, 116, 255, 0.09);
+  --shadow-glow: 0 2px 12px rgba(0, 113, 227, 0.08);
   --radius: 10px;
   --radius-sm: 8px;
   --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -604,8 +604,8 @@ header p {
 
 #panel-bridge-traffic .table-wrap::-webkit-scrollbar-thumb,
 .analytics-grid-scroll::-webkit-scrollbar-thumb {
-  background: linear-gradient(90deg, rgba(36, 121, 148, 0.9), rgba(95, 232, 255, 0.48));
-  border: 3px solid rgba(4, 8, 20, 0.98);
+  background: #CBD5E1;
+  border: 3px solid #F1F5F9;
   border-radius: 999px;
 }
 
@@ -782,8 +782,8 @@ thead th.sorted-desc::after { content: ' v'; color: var(--accent-cyan); }
 tbody tr { transition: var(--transition); cursor: pointer; }
 tbody tr:hover { background: rgba(84,116,255,0.06); }
 tbody tr.active-bridge-row {
-  background: rgba(38, 230, 246, 0.14) !important;
-  outline: 1px solid rgba(38, 230, 246, 0.55);
+  background: #EFF6FF !important;
+  outline: 1px solid #0071E3;
   outline-offset: -1px;
 }
 
@@ -871,7 +871,7 @@ tbody td.highlight-cell {
 .modal-overlay {
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(15, 23, 42, 0.45);
+  background: rgba(241, 245, 249, 0.78);
   backdrop-filter: blur(8px);
   z-index: 1000;
   display: flex;
@@ -888,9 +888,8 @@ tbody td.highlight-cell {
 }
 
 .modal-content {
-  background: #FFFFFF; color: #0F172A; border: 1px solid #E2E8F0; box-shadow: 0 20px 40px rgba(0,0,0,0.12);
-  border: 1px solid rgba(84, 116, 255, 0.25);
-  box-shadow: 0 20px 60px rgba(0,0,0,0.6), 0 0 50px rgba(84,116,255,0.08);
+  background: #FFFFFF; color: #0F172A; border: 1px solid #E2E8F0;
+  box-shadow: 0 20px 50px rgba(15, 23, 42, 0.14);
   border-radius: 24px;
   width: 90%;
   max-width: 980px;
@@ -910,16 +909,13 @@ tbody td.highlight-cell {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: rgba(255, 255, 255, 0.96);
+  background: #FFFFFF;
 }
 
 .modal-header h3 {
   font-size: 20px;
   font-weight: 800;
-  background: linear-gradient(135deg, #fff 0%, #5474ff 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: #0F172A;
-  background-clip: text;
+  color: #0F172A;
   letter-spacing: -0.3px;
 }
 
@@ -1059,10 +1055,10 @@ tbody td.highlight-cell {
   text-transform: uppercase;
 }
 
-.pill-a { background: rgba(84,116,255,0.12); color: #7390ff; border: 1px solid rgba(84,116,255,0.2); }
-.pill-b { background: rgba(181,95,230,0.12); color: #cb84fc; border: 1px solid rgba(181,95,230,0.2); }
-.pill-c { background: rgba(2,132,199,0.12); color: #4bf0ff; border: 1px solid rgba(2,132,199,0.2); }
-.pill-m { background: rgba(168,85,247,0.14); color: #c084fc; border: 1px solid rgba(168,85,247,0.28); }
+.pill-a { background: #FEF2F2; color: #B91C1C; border: 1px solid #FECACA; }
+.pill-b { background: #FFFBEB; color: #B45309; border: 1px solid #FDE68A; }
+.pill-c { background: #F0FDF4; color: #15803D; border: 1px solid #BBF7D0; }
+.pill-m { background: #EFF6FF; color: #0369A1; border: 1px solid #BFDBFE; }
 
 footer {
   text-align: center;
@@ -1071,7 +1067,7 @@ footer {
   color: var(--text-muted);
   border-top: 1px solid var(--border);
   margin-top: 18px;
-  background: rgba(4,7,16,0.3);
+  background: #FFFFFF;
 }
 
 footer a { color: var(--accent-blue); text-decoration: none; font-weight: 600; }
@@ -2140,14 +2136,14 @@ header h1 {
   font-weight: 700; text-align: left; border-right: 2px solid var(--border);
   color: #0F172A; font-size: 10px;
 }
-.od-heat-0 { color: rgba(255,255,255,0.15); }
-.od-heat-1 { background: rgba(56,189,248,0.08); color: rgba(255,255,255,0.6); }
-.od-heat-2 { background: rgba(56,189,248,0.16); color: rgba(255,255,255,0.8); }
-.od-heat-3 { background: rgba(99,102,241,0.25); color: #fff; }
-.od-heat-4 { background: rgba(99,102,241,0.4); color: #fff; font-weight: 600; }
-.od-heat-5 { background: rgba(99,102,241,0.6); color: #fff; font-weight: 700; }
-.od-heat-6 { background: rgba(139,92,246,0.75); color: #fff; font-weight: 800; }
-.od-heat-7 { background: rgba(168,85,247,0.85); color: #fff; font-weight: 800; text-shadow: 0 1px 4px rgba(0,0,0,0.4); }
+.od-heat-0 { background: #F8FAFC; color: #94A3B8; }
+.od-heat-1 { background: #E0F2FE; color: #0369A1; }
+.od-heat-2 { background: #BAE6FD; color: #075985; }
+.od-heat-3 { background: #7DD3FC; color: #0C4A6E; font-weight: 600; }
+.od-heat-4 { background: #38BDF8; color: #0F172A; font-weight: 700; }
+.od-heat-5 { background: #0284C7; color: #FFFFFF !important; font-weight: 700; }
+.od-heat-6 { background: #0071E3; color: #FFFFFF !important; font-weight: 800; }
+.od-heat-7 { background: #1D4ED8; color: #FFFFFF !important; font-weight: 800; }
 .od-pagination {
   display: flex; align-items: center; justify-content: space-between;
   padding: 10px 14px; font-size: 11px; color: var(--text-muted);
@@ -2175,11 +2171,11 @@ header h1 {
   transition: color 0.15s ease, text-shadow 0.15s ease;
 }
 .od-bridge-link:hover {
-  color: #fff !important;
-  text-shadow: 0 0 6px var(--accent-cyan);
+  color: #0071E3 !important;
+  text-decoration: underline;
 }
 
-    /* Photo Album Masonry & Neon Glow Styles */
+    /* Photo Album Masonry & Apple HIG Card Styles */
     .masonry-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -2187,32 +2183,33 @@ header h1 {
       align-items: start;
     }
     .photo-card {
-      background: rgba(30, 41, 59, 0.7);
+      background: #FFFFFF;
       border-radius: 12px;
       overflow: hidden;
       cursor: pointer;
-      transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+      transition: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
       position: relative;
-      border: 1px solid rgba(255,255,255,0.05);
+      border: 1px solid #E2E8F0;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
     }
     .photo-card:hover {
-      transform: translateY(-8px);
-      box-shadow: 0 15px 30px rgba(0,0,0,0.4);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 24px rgba(15, 23, 42, 0.10);
       z-index: 2;
     }
 
-    /* Condition Neon Glows */
+    /* Condition Border Accents */
     .photo-card[data-condition="good"]:hover {
-      box-shadow: 0 15px 30px rgba(0,0,0,0.4), 0 0 20px rgba(16, 185, 129, 0.4);
-      border-color: rgba(16, 185, 129, 0.5);
+      box-shadow: 0 12px 24px rgba(22, 163, 74, 0.14);
+      border-color: #16A34A;
     }
     .photo-card[data-condition="fair"]:hover {
-      box-shadow: 0 15px 30px rgba(0,0,0,0.4), 0 0 20px rgba(245, 158, 11, 0.4);
-      border-color: rgba(245, 158, 11, 0.5);
+      box-shadow: 0 12px 24px rgba(217, 119, 6, 0.14);
+      border-color: #D97706;
     }
     .photo-card[data-condition="critical"]:hover {
-      box-shadow: 0 15px 30px rgba(0,0,0,0.4), 0 0 20px rgba(239, 68, 68, 0.4);
-      border-color: rgba(239, 68, 68, 0.5);
+      box-shadow: 0 12px 24px rgba(220, 38, 38, 0.14);
+      border-color: #DC2626;
     }
 
     .photo-card-img-container {
@@ -2236,8 +2233,8 @@ header h1 {
       position: relative;
     }
     .photo-card-title {
-      font-weight: 600;
-      color: white;
+      font-weight: 700;
+      color: #0F172A;
       font-size: 16px;
       margin-bottom: 4px;
       display: flex;
@@ -2245,7 +2242,7 @@ header h1 {
       align-items: center;
     }
     .photo-card-subtitle {
-      color: #94a3b8;
+      color: #475569;
       font-size: 13px;
       white-space: nowrap;
       overflow: hidden;
@@ -2257,7 +2254,7 @@ header h1 {
       overflow: hidden;
       transition: all 0.3s ease;
       font-size: 12px;
-      color: #cbd5e1;
+      color: #334155;
       margin-top: 0;
     }
     .photo-card:hover .photo-card-hover-details {
@@ -2265,7 +2262,7 @@ header h1 {
       opacity: 1;
       margin-top: 12px;
       padding-top: 12px;
-      border-top: 1px solid rgba(255,255,255,0.1);
+      border-top: 1px solid #E2E8F0;
     }
     .condition-ring {
       width: 10px; height: 10px; border-radius: 50%;
@@ -2419,18 +2416,18 @@ header h1 {
         width: 100%;
       }
     }
-    header, .top-header, .app-header, .header-bar, body > div:first-child { background: #FFFFFF !important; color: #0F172A !important; border-bottom: 1px solid #E2E8F0 !important; }
+    header, .top-header, .app-header, .header-bar { background: #FFFFFF !important; color: #0F172A !important; border-bottom: 1px solid #E2E8F0 !important; }
     </style>
-  <script src="structures_data.js?v=20261119-v112" defer></script>
-  <script src="bridge_data.js?v=20261119-v112" defer></script>
-<script src="road_network_data.js?v=20261119-v112" defer></script>
-  <script src="water_data.js?v=20261119-v112" defer></script>
-  <script src="bridge_works_data.js?v=20261119-v112" defer></script>
-  <script src="photos_data.js?v=20261119-v112" defer></script>
+  <script src="structures_data.js?v=20261124-v113" defer></script>
+  <script src="bridge_data.js?v=20261124-v113" defer></script>
+<script src="road_network_data.js?v=20261124-v113" defer></script>
+  <script src="water_data.js?v=20261124-v113" defer></script>
+  <script src="bridge_works_data.js?v=20261124-v113" defer></script>
+  <script src="photos_data.js?v=20261124-v113" defer></script>
   <script src="chart.umd.js" defer></script>
-  <script src="extensions.js?v=20261119-v112" defer></script>
-  <script src="app.js?v=20261119-v112" defer></script>
-  <link rel="stylesheet" href="./apple-system.css?v=20261119-v112">
+  <script src="extensions.js?v=20261124-v113" defer></script>
+  <script src="app.js?v=20261124-v113" defer></script>
+  <link rel="stylesheet" href="./apple-system.css?v=20261124-v113">
 <style>
 /* v111: No wide margins - full-width responsive layout */
 body > .container, body > .wrapper, body > main, .page-shell, .app-container,
@@ -2498,7 +2495,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
     <button class="tab" data-tab="platform-docs" role="tab">Platform Documentation</button>
     <button class="tab" data-tab="mind-map" role="tab">Mind Map</button>
     <div style="margin-left: auto; display: flex; align-items: center; padding-right: 4px;">
-      <button class="btn btn-outline" id="btnClearFiltersSort" title="Clear all filters and reset sorting" style="padding: 4px 10px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; border-color: rgba(255, 60, 60, 0.4); color: #ff6b6b; height: 26px; line-height: 1;">Clear Filters &amp; Sort</button>
+      <button class="btn btn-outline" id="btnClearFiltersSort" title="Clear all filters and reset sorting" style="padding: 4px 10px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; border-color: rgba(220, 38, 38, 0.35); color: #DC2626; height: 26px; line-height: 1;">Clear Filters &amp; Sort</button>
     </div>
   </div>
 
@@ -2627,9 +2624,28 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
           </div>
         </div>
 
+        <!-- Vision 2040 Projection Slider -->
+        <div class="timeline-panel" style="bottom: 12px; width: min(440px, calc(100% - 140px)); padding: 8px 14px; border-radius: 12px; box-shadow: 0 6px 20px rgba(15,23,42,0.12);">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; font-size: 10px; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase; color: #475569;">
+            <span>Vision 2040 Projection</span>
+            <span id="timelineLiveLabel" style="color: #0071E3; font-weight: 800;">2026 projection x1.00</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <button type="button" id="btnTimelinePrev" title="Previous year" style="width: 26px; height: 26px; border-radius: 6px; font-size: 13px; font-weight: 800; cursor: pointer; display: inline-flex; align-items: center; justify-content: center;">&minus;</button>
+            <input type="range" id="timelineSlider" min="2016" max="2040" step="1" value="2026" aria-label="Vision 2040 projection year" style="flex: 1; accent-color: #0071E3;">
+            <button type="button" id="btnTimelineNext" title="Next year" style="width: 26px; height: 26px; border-radius: 6px; font-size: 13px; font-weight: 800; cursor: pointer; display: inline-flex; align-items: center; justify-content: center;">+</button>
+          </div>
+          <div class="timeline-meta" style="margin-top: 2px; font-size: 9px;">
+            <span>2016 Baseline</span>
+            <span id="timelineDateLabel" style="color: #0F172A; font-weight: 700;">22 May 2026</span>
+            <span>2040 Vision 2040</span>
+          </div>
+          <div id="timelineCalendarMonths" style="display:none;"></div>
+        </div>
+
         <!-- Float Tooltip -->
-        <div id="mapTooltip" style="position: absolute; pointer-events: none; background: #F5F5F7; border: 1px solid var(--border-glow); border-radius: 12px; padding: 12px 16px; color: #0F172A; font-family: inherit; font-size: 11px; z-index: 20; display: none; min-width: 200px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-          <div id="mTooltipTitle" style="font-weight: 800; color: #fff; margin-bottom: 4px; font-size: 12px;">-</div>
+        <div id="mapTooltip" style="position: absolute; pointer-events: none; background: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 12px 16px; color: #0F172A; font-family: inherit; font-size: 11px; z-index: 20; display: none; min-width: 200px; box-shadow: 0 10px 25px rgba(15,23,42,0.12);">
+          <div id="mTooltipTitle" style="font-weight: 800; color: #0F172A; margin-bottom: 4px; font-size: 12px;">-</div>
           <div style="display:flex; justify-content:space-between; margin-bottom: 2px;"><span style="color:var(--text-muted)">Region:</span> <span id="mTooltipRegion" style="font-weight:600">-</span></div>
           <div style="display:flex; justify-content:space-between; margin-bottom: 2px;"><span style="color:var(--text-muted)">River:</span> <span id="mTooltipRiver" style="font-weight:600">-</span></div>
           <div style="display:flex; justify-content:space-between;"><span style="color:var(--text-muted)">Road Class:</span> <span id="mTooltipClass" style="font-weight:600">-</span></div>
@@ -2645,7 +2661,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
         </div>
         <div class="pane-body" id="paneBridgeBody">
           <div class="empty-state" style="padding:32px 16px 16px; margin-top:12px; text-align:center;">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="44" height="44" style="margin: 0 auto 12px; display: block; opacity: 0.55; color: #38bdf8;"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="44" height="44" style="margin: 0 auto 12px; display: block; opacity: 0.55; color: #0284C7;"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
             <p style="color: var(--text-muted); font-size: 11px;">Select a structure to view its analytics.</p>
           </div>
           <div class="pane-section-title" style="margin-top: 20px; color: var(--accent-cyan); font-weight: 800; letter-spacing: 1.1px;">BRIDGES NETWORK SUMMARY</div>
@@ -2659,7 +2675,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
             <div class="pane-metric"><strong>2,926,453</strong><span>TOTAL ADT INCL. MC</span></div>
             <div class="pane-metric"><strong>461,884</strong><span>BUS + HEAVY GOODS ADT</span></div>
           </div>
-          <div class="pane-section-title" style="margin-top: 20px; color: #f59e0b; font-weight: 800; letter-spacing: 1.1px;">MAJOR CULVERTS NETWORK SUMMARY</div>
+          <div class="pane-section-title" style="margin-top: 20px; color: #D97706; font-weight: 800; letter-spacing: 1.1px;">MAJOR CULVERTS NETWORK SUMMARY</div>
           <div class="pane-metrics">
             <div class="pane-metric"><strong>452</strong><span>MAJOR CULVERTS</span></div>
             <div class="pane-metric"><strong>5,101 m</strong><span>TOTAL CULVERT LENGTH</span></div>
@@ -2669,7 +2685,6 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
         </div>
       </aside>
     </div>
-  </div>
   </div>
 
   <!-- BRIDGE INVENTORY TABLE PANEL -->
@@ -2733,7 +2748,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
         <div>
           <h2 style="margin: 0; font-size: 24px; font-weight: 600; color: #0F172A;">Structure Photo Gallery</h2>
-          <div style="color: #475569; font-size: 13px; margin-top: 4px;">Official National Road Network NATIONAL ROAD NETWORK ADMINISTRATION inspection photographs (552 bridges and 452 major culverts)</div>
+          <div style="color: #475569; font-size: 13px; margin-top: 4px;">Official National Road Network inspection photographs (552 bridges and 452 major culverts)</div>
         </div>
 
         <!-- Search and Quick Filters -->
@@ -2742,8 +2757,8 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
 
           <select id="photoFilterType" style="background: #FFFFFF; border: 1px solid #CBD5E1; color: #0F172A; padding: 8px 16px; border-radius: 20px; outline: none;">
             <option value="all">All Structures</option>
-            <option value="bridges">Bridges</option>
-            <option value="culverts">Major Culverts</option>
+            <option value="bridge">Bridges</option>
+            <option value="culvert">Major Culverts</option>
           </select>
 
           <select id="photoFilterCondition" style="background: #FFFFFF; border: 1px solid #CBD5E1; color: #0F172A; padding: 8px 16px; border-radius: 20px; outline: none;">
@@ -2870,8 +2885,6 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
       </div>
     </div>
   </div>
-
-</div>
 
 <div class="panel" id="panel-bridge-traffic">
     <div class="network-banner">
@@ -3177,48 +3190,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
   </div>
 
 
-<div class="panel" id="panel-major-culverts">
-  <div class="card" style="margin-bottom:0">
-    <div class="card-title">Major Culverts Inventory</div>
-    <div class="card-subtitle">Showing major culverts extracted from 2026 registry.</div>
-    <div class="table-wrap bridge-inventory-scroll" style="height:min(72vh, 720px);">
-      <table id="culvertTable">
-        <thead>
-          <tr id="culvertTableHeadRow">
-            <th data-sort="culvert_no" style="cursor:pointer">Culvert No</th>
-            <th data-sort="type_culvert" style="cursor:pointer">Type</th>
-            <th data-sort="road_name" style="cursor:pointer">Road Name</th>
-            <th data-sort="link_name" style="cursor:pointer">Link Name</th>
-            <th data-sort="chainage" style="cursor:pointer">Chainage</th>
-            <th data-sort="map_x" style="cursor:pointer">Map X</th>
-            <th data-sort="map_y" style="cursor:pointer">Map Y</th>
-            <th data-sort="region" style="cursor:pointer">Region</th>
-            <th data-sort="station" style="cursor:pointer">Station</th>
-            <th data-sort="span_diameter" style="cursor:pointer">Span/Diameter</th>
-            <th data-sort="waterway_cond" style="cursor:pointer">Waterway</th>
-            <th data-sort="inlet_outlet_cond" style="cursor:pointer">Inlet/Outlet</th>
-            <th data-sort="structure_cond" style="cursor:pointer">Structure</th>
-            <th data-sort="roadway_cond" style="cursor:pointer">Roadway</th>
-            <th data-sort="overall_cond" style="cursor:pointer">Overall Condition</th>
-            <th data-sort="overall_rating" style="cursor:pointer">Overall Rating</th>
-          </tr>
-        </thead>
-        <tbody id="culvertTableBody"></tbody>
-      </table>
-    </div>
-    <div class="inventory-pager">
-      <button id="culvertTablePrev" disabled>&lt; Prev</button>
-      <span id="culvertTablePageInfo">Page 1 / 1</span>
-      <button id="culvertTableNext" disabled>Next &gt;</button>
-    </div>
-    <div id="culvertEmptyState" class="empty-state" style="display:none">
-      <p>No culverts matched your filters.</p>
-    </div>
-  </div>
-</div>
-
-
-<div id="panel-od-matrix" class="panel">
+<div class="panel" id="panel-od-matrix">
     <div class="od-panel-layout">
       <div>
         <div class="panel-header" style="margin-bottom:0">
@@ -3248,7 +3220,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
       </div>
       <div id="odHeatmapView" style="display:none">
         <div class="od-heatmap-wrap" id="odHeatmapWrap">
-          <table class="od-heatmap" id="odHeatmapTable"></table>
+          <table class="od-heatmap" id="odHeatmapTable"><thead id="odHeatmapHead"></thead><tbody id="odHeatmapBody"></tbody></table>
         </div>
       </div>
     </div>
@@ -3258,7 +3230,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
 <div class="panel" id="panel-platform-docs">
   <div class="card" style="width: 100%; max-width: 100%; margin-bottom: 16px;">
     <div class="card-title" style="color: #0F172A;">Platform Documentation (View-Only)</div>
-    <div class="card-subtitle" style="color: #475569;">NATIONAL TRANSPORT GIS ENTERPRISE (National Road Network), NATIONAL ROAD NETWORK ADMINISTRATION: System S National Bridges &amp; Traffic Intelligence Architecture.</div>
+    <div class="card-subtitle" style="color: #475569;">System S National Bridges &amp; Traffic Intelligence Architecture (National Road Network).</div>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin-top: 16px;">
       <div class="card" style="border-left: 4px solid #0071E3; padding: 18px;">
         <h3 style="margin: 0 0 8px 0; font-size: 15px; color: #0F172A;">1. Authoritative Network &amp; Structure Baselines</h3>
@@ -3287,7 +3259,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
       <div class="card" style="border-left: 4px solid #D97706; padding: 18px;">
         <h3 style="margin: 0 0 8px 0; font-size: 15px; color: #0F172A;">5. View-Only Governance &amp; Anonymity</h3>
         <p style="margin: 0; font-size: 13px; line-height: 1.6; color: #334155;">
-          System S is a strictly view-only analytical intelligence platform with no data-entry forms, login gates, or administrative tools. All published outputs enforce strict anonymity with zero firm, contractor, or inspector names.
+          System S is a strictly view-only analytical intelligence platform with zero data-entry forms or interactive editing gates. All published outputs enforce strict anonymity with complete omission of third-party entity or personnel identifiers.
         </p>
       </div>
     </div>
@@ -3313,11 +3285,13 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
       <div id="mindMapInspector" class="card" style="background: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 18px;">
         <div style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: #0071E3; margin-bottom: 6px;">Selected Node</div>
         <h3 id="mindMapNodeTitle" style="margin: 0 0 8px 0; font-size: 16px; color: #0F172A;">System S: National Bridges &amp; Traffic Intelligence</h3>
-        <p id="mindMapNodeDesc" style="margin: 0; font-size: 13px; line-height: 1.55; color: #334155;">Root node representing the National Road Network NATIONAL ROAD NETWORK ADMINISTRATION view-only bridge, major culvert, and traffic intelligence platform covering 21,284.02 km of National Roads.</p>
+        <p id="mindMapNodeDesc" style="margin: 0; font-size: 13px; line-height: 1.55; color: #334155;">Root node representing the view-only National Bridges and Traffic Intelligence platform covering 21,284.02 km of National Roads, 552 bridges, and 452 major culverts.</p>
       </div>
     </div>
   </div>
 </div>
+
+</div><!-- /.container -->
 
 <!-- DETAILED BRIDGE MODAL -->
 <div class="modal-overlay" id="bridgeModal">
@@ -3381,7 +3355,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
             <span class="modal-card-value" id="mLinkPaveAge">-</span>
           </div>
           <div class="modal-card">
-            <span class="modal-card-label">Priority Status / DNR Station</span>
+            <span class="modal-card-label">Priority Status / Maintenance Station</span>
             <span class="modal-card-value" id="mStationInfo">-</span>
           </div>
         </div>
@@ -3399,7 +3373,7 @@ body > .container, body > .wrapper, body > main, .page-shell, .app-container,
             <span class="modal-card-value highlight" id="mAnnualGrowthRate">-</span>
           </div>
           <div class="modal-card">
-            <span class="modal-card-label">DNR Maintenance Region</span>
+            <span class="modal-card-label">Maintenance Region</span>
             <span class="modal-card-value" id="mRegion">-</span>
           </div>
           <div class="modal-card">
